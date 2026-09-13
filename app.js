@@ -1,5 +1,5 @@
 const G = window.SEH;
-const PH = id => `../data/garments/${id}/`;
+const PH = id => `data/garments/${id}/`;
 
 const $ = s => document.querySelector(s);
 const uniq = f => [...new Set(G.map(f).filter(Boolean))].sort();
