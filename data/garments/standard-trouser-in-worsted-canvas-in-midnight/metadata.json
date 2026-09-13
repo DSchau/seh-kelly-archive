@@ -1,0 +1,72 @@
+{
+  "id": "standard-trouser-in-worsted-canvas-in-midnight",
+  "name": "standard trouser in worsted canvas in midnight",
+  "category": "Trousers",
+  "garment_type": "standard trouser",
+  "fabric": "worsted canvas",
+  "colour": "midnight",
+  "colours_offered": [],
+  "materials": [
+    "canvas",
+    "worsted"
+  ],
+  "release_date": "2017-08-30",
+  "release_estimate": true,
+  "season": "AW2017",
+  "price_gbp": null,
+  "sizes": [],
+  "status": "archived",
+  "description": null,
+  "product_url": "https://sehkelly.com/standard-trouser-in-worsted-canvas-in-midnight/",
+  "sources": [
+    "styleforum thread"
+  ],
+  "thread_links": [
+    "https://sehkelly.com/standard-trouser-in-worsted-canvas-in-midnight/",
+    "https://www.sehkelly.com/standard-trouser-in-worsted-canvas-in-midnight/"
+  ],
+  "thread_post_ids": [
+    "post-9950118",
+    "post-9958896",
+    "post-9958905",
+    "post-10050141",
+    "post-10050147",
+    "post-10051215",
+    "post-8989151",
+    "post-9183367",
+    "post-9190109",
+    "post-9661000",
+    "post-9712011",
+    "post-9996270",
+    "post-10021820",
+    "post-10049507",
+    "post-10049925",
+    "post-10057971",
+    "post-10080547",
+    "post-10080601",
+    "post-10545090",
+    "post-10639027",
+    "post-10640195"
+  ],
+  "first_seen": "2017-08-30",
+  "last_seen": "2021-03-13",
+  "mention_count": 21,
+  "photos": [
+    {
+      "file": "photos/p001.jpg",
+      "url": "https://www.styleforum.net/attachments/duffle-coat-lambswool-elysian-dark-navy-worn-2-jpg.1310522/",
+      "origin": "styleforum",
+      "post_id": "post-10021820",
+      "date": "2020-01-04",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p002.jpg",
+      "url": "https://www.styleforum.net/attachments/duffle-coat-lambswool-elysian-dark-navy-worn-1-jpg.1310523/",
+      "origin": "styleforum",
+      "post_id": "post-10021820",
+      "date": "2020-01-04",
+      "author": "sehkelly"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "id": "dress-trousers-in-black-copy",
+  "name": "Dress trousers in buckwheat",
+  "category": "Trousers",
+  "garment_type": "dress trousers",
+  "fabric": "black copy",
+  "colour": null,
+  "colours_offered": [
+    "Buckwheat"
+  ],
+  "materials": [
+    "cotton",
+    "cord",
+    "bedford",
+    "horn"
+  ],
+  "release_date": "2025-12-01",
+  "release_estimate": false,
+  "season": "AW2025",
+  "price_gbp": 220.0,
+  "sizes": [
+    "L",
+    "M",
+    "S",
+    "XL",
+    "XS"
+  ],
+  "status": "in production",
+  "description": "Trousers, made in London, with medium-weight (12oz) cotton Bedford cord from a mill in Lancashire \u2014 turned inside-out for an outwardly pebbled texture \u2014 and with horn buttons from the Cotswolds.",
+  "product_url": "https://sehkelly.com/products/dress-trousers-in-black-copy",
+  "sources": [
+    "sehkelly.com live catalog"
+  ],
+  "thread_links": [],
+  "thread_post_ids": [
+    "post-8735728",
+    "post-8736261",
+    "post-10836665",
+    "post-10838158",
+    "post-11170762",
+    "post-11171835",
+    "post-11205416",
+    "post-11225025",
+    "post-11528277",
+    "post-12367641",
+    "post-12367647",
+    "post-12370243",
+    "post-12411663"
+  ],
+  "first_seen": "2017-01-25",
+  "last_seen": "2025-12-17",
+  "mention_count": 13,
+  "photos": [
+    {
+      "file": "photos/p001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0935/4480/8778/files/SEH_Kelly_dress_trousers_in_buckwheat_1.jpg?v=1765549755",
+      "origin": "sehkelly.com",
+      "post_id": null,
+      "date": null,
+      "author": null
+    }
+  ]
+}

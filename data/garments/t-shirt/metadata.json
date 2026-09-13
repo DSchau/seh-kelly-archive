@@ -1,0 +1,31 @@
+{
+  "id": "t-shirt",
+  "name": "t shirt",
+  "category": "T-Shirt",
+  "garment_type": "t shirt",
+  "fabric": null,
+  "colour": null,
+  "colours_offered": [],
+  "materials": [],
+  "release_date": "2024-08-03",
+  "release_estimate": true,
+  "season": "AW2024",
+  "price_gbp": null,
+  "sizes": [],
+  "status": "archived",
+  "description": null,
+  "product_url": "https://sehkelly.com/t-shirt/",
+  "sources": [
+    "styleforum thread"
+  ],
+  "thread_links": [
+    "https://sehkelly.com/t-shirt"
+  ],
+  "thread_post_ids": [
+    "post-11892977"
+  ],
+  "first_seen": "2024-08-03",
+  "last_seen": "2024-08-03",
+  "mention_count": 1,
+  "photos": []
+}

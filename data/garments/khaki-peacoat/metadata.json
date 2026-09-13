@@ -1,0 +1,44 @@
+{
+  "id": "khaki-peacoat",
+  "name": "Peacoat in khaki",
+  "category": "Coat",
+  "garment_type": "khaki peacoat",
+  "fabric": null,
+  "colour": null,
+  "colours_offered": [
+    "Khaki"
+  ],
+  "materials": [],
+  "release_date": "2025-11-12",
+  "release_estimate": false,
+  "season": "AW2025",
+  "price_gbp": 690.0,
+  "sizes": [
+    "L",
+    "M",
+    "S",
+    "XL",
+    "XS"
+  ],
+  "status": "in production",
+  "description": "This is a traditional sort of peacoat on the face of it. Look here and there, though, and you'll find a few nods to modernity.",
+  "product_url": "https://sehkelly.com/products/khaki-peacoat",
+  "sources": [
+    "sehkelly.com live catalog"
+  ],
+  "thread_links": [],
+  "thread_post_ids": [],
+  "first_seen": null,
+  "last_seen": null,
+  "mention_count": 0,
+  "photos": [
+    {
+      "file": "photos/p001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0935/4480/8778/files/SEHKellyPeacoatKhakiAW251.jpg?v=1763334616",
+      "origin": "sehkelly.com",
+      "post_id": null,
+      "date": null,
+      "author": null
+    }
+  ]
+}

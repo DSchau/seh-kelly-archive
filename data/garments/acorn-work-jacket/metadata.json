@@ -1,0 +1,111 @@
+{
+  "id": "acorn-work-jacket",
+  "name": "Work Jacket in acorn",
+  "category": "Jacket",
+  "garment_type": "acorn work jacket",
+  "fabric": null,
+  "colour": null,
+  "colours_offered": [
+    "Acorn"
+  ],
+  "materials": [
+    "tweed",
+    "hopsack",
+    "horn",
+    "woollen"
+  ],
+  "release_date": "2025-11-12",
+  "release_estimate": false,
+  "season": "AW2025",
+  "price_gbp": 610.0,
+  "sizes": [
+    "L",
+    "M",
+    "S",
+    "XL",
+    "XS"
+  ],
+  "status": "in production",
+  "description": "Work jacket in woollen hopsack, made in London, with a medium weight (17oz) two-sheep Hebridean tweed - and with horn buttons from the Cotswolds.",
+  "product_url": "https://sehkelly.com/products/acorn-work-jacket",
+  "sources": [
+    "sehkelly.com live catalog",
+    "styleforum thread"
+  ],
+  "thread_links": [
+    "https://sehkelly.com/work-jacket/"
+  ],
+  "thread_post_ids": [
+    "post-9505113",
+    "post-9641350"
+  ],
+  "first_seen": "2018-10-17",
+  "last_seen": "2019-02-05",
+  "mention_count": 2,
+  "photos": [
+    {
+      "file": "photos/p001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0935/4480/8778/files/SEHKellyWorkJacketAcorn1.jpg?v=1781449153",
+      "origin": "sehkelly.com",
+      "post_id": null,
+      "date": null,
+      "author": null
+    },
+    {
+      "file": "photos/p002.jpg",
+      "url": "https://www.styleforum.net/attachments/1-work-jpg.1120065/",
+      "origin": "styleforum",
+      "post_id": "post-9641350",
+      "date": "2019-02-05",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p003.jpg",
+      "url": "https://www.styleforum.net/attachments/work-2-jpg.1120058/",
+      "origin": "styleforum",
+      "post_id": "post-9641350",
+      "date": "2019-02-05",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p004.jpg",
+      "url": "https://www.styleforum.net/attachments/work-5-jpg.1120061/",
+      "origin": "styleforum",
+      "post_id": "post-9641350",
+      "date": "2019-02-05",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p005.jpg",
+      "url": "https://www.styleforum.net/attachments/work-4-jpg.1120060/",
+      "origin": "styleforum",
+      "post_id": "post-9641350",
+      "date": "2019-02-05",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p006.jpg",
+      "url": "https://www.styleforum.net/attachments/work-6-jpg.1120062/",
+      "origin": "styleforum",
+      "post_id": "post-9641350",
+      "date": "2019-02-05",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p007.jpg",
+      "url": "https://www.styleforum.net/attachments/work-7-jpg.1120063/",
+      "origin": "styleforum",
+      "post_id": "post-9641350",
+      "date": "2019-02-05",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p008.jpg",
+      "url": "https://www.styleforum.net/attachments/work-8-jpg.1120064/",
+      "origin": "styleforum",
+      "post_id": "post-9641350",
+      "date": "2019-02-05",
+      "author": "sehkelly"
+    }
+  ]
+}

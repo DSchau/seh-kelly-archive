@@ -1,0 +1,325 @@
+{
+  "id": "trench-coat-in-british-natte-tweed-in-dark-navy",
+  "name": "trench coat in british natte tweed in dark navy",
+  "category": "Coat",
+  "garment_type": "trench coat",
+  "fabric": "british natte tweed",
+  "colour": "dark navy",
+  "colours_offered": [],
+  "materials": [
+    "tweed",
+    "natte"
+  ],
+  "release_date": "2018-02-11",
+  "release_estimate": true,
+  "season": "AW2018",
+  "price_gbp": null,
+  "sizes": [],
+  "status": "archived",
+  "description": null,
+  "product_url": "https://sehkelly.com/trench-coat-in-british-natte-tweed-in-dark-navy/",
+  "sources": [
+    "styleforum thread"
+  ],
+  "thread_links": [
+    "https://www.sehkelly.com/trench-coat-in-british-natte-tweed-in-dark-navy/"
+  ],
+  "thread_post_ids": [
+    "post-9958944",
+    "post-10764631",
+    "post-9205219",
+    "post-9338501",
+    "post-9879195",
+    "post-9888017",
+    "post-9888159",
+    "post-9912544",
+    "post-9920407",
+    "post-9920842",
+    "post-9957301",
+    "post-9957393",
+    "post-10034076",
+    "post-10034612",
+    "post-10568353",
+    "post-10742924",
+    "post-11082469",
+    "post-11106427",
+    "post-11109893",
+    "post-11176366",
+    "post-11191150",
+    "post-11191152",
+    "post-11200270",
+    "post-11200274",
+    "post-11221424",
+    "post-11570153",
+    "post-11571519",
+    "post-11648367",
+    "post-11671597",
+    "post-11710299",
+    "post-11734605",
+    "post-11797495",
+    "post-11856493",
+    "post-11910243",
+    "post-11969573",
+    "post-11971555",
+    "post-11972201",
+    "post-12070543",
+    "post-12070551",
+    "post-12070763",
+    "post-12070777",
+    "post-12070851",
+    "post-12079681",
+    "post-12171149",
+    "post-12356753",
+    "post-12362725",
+    "post-12362733",
+    "post-12362961",
+    "post-12364745",
+    "post-12405121",
+    "post-12665034"
+  ],
+  "first_seen": "2018-02-11",
+  "last_seen": "2026-09-09",
+  "mention_count": 51,
+  "photos": [
+    {
+      "file": "photos/p001.jpg",
+      "url": "https://www.styleforum.net/attachments/balmacaan-canopy-cotton-green-1-2x-jpg.923715/",
+      "origin": "styleforum",
+      "post_id": "post-9205219",
+      "date": "2018-02-11",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p002.jpg",
+      "url": "https://www.styleforum.net/attachments/balmacaan-canopy-cotton-green-14-jpg.923714/",
+      "origin": "styleforum",
+      "post_id": "post-9205219",
+      "date": "2018-02-11",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p003.jpg",
+      "url": "https://www.styleforum.net/attachments/sb3-tropical-grey-worn-2-jpg.978153/",
+      "origin": "styleforum",
+      "post_id": "post-9338501",
+      "date": "2018-05-22",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p004.jpg",
+      "url": "https://www.styleforum.net/attachments/sb3-tropical-grey-worn-3-jpg.978154/",
+      "origin": "styleforum",
+      "post_id": "post-9338501",
+      "date": "2018-05-22",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p005.jpg",
+      "url": "https://www.styleforum.net/attachments/sb3-tropical-grey-worn-1-jpg.978155/",
+      "origin": "styleforum",
+      "post_id": "post-9338501",
+      "date": "2018-05-22",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p006.jpg",
+      "url": "https://www.styleforum.net/attachments/trench-coat-natte-tweed-charcoal-17-jpg.1276138/",
+      "origin": "styleforum",
+      "post_id": "post-9957393",
+      "date": "2019-11-09",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p007.jpg",
+      "url": "https://www.styleforum.net/attachments/trench-coat-natte-tweed-charcoal-7-jpg.1276139/",
+      "origin": "styleforum",
+      "post_id": "post-9957393",
+      "date": "2019-11-09",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p008.jpg",
+      "url": "https://www.styleforum.net/attachments/trench-coat-natte-tweed-charcoal-6-jpg.1276140/",
+      "origin": "styleforum",
+      "post_id": "post-9957393",
+      "date": "2019-11-09",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p009.jpg",
+      "url": "https://www.styleforum.net/attachments/trench-coat-natte-tweed-charcoal-9-jpg.1276141/",
+      "origin": "styleforum",
+      "post_id": "post-9957393",
+      "date": "2019-11-09",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p010.jpg",
+      "url": "https://www.styleforum.net/attachments/trench-coat-natte-tweed-charcoal-4-jpg.1276142/",
+      "origin": "styleforum",
+      "post_id": "post-9957393",
+      "date": "2019-11-09",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p011.jpg",
+      "url": "https://www.styleforum.net/attachments/trench-coat-slate-blue-worn-2-2x-jpeg.1621752/",
+      "origin": "styleforum",
+      "post_id": "post-10742924",
+      "date": "2021-06-08",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p012.jpg",
+      "url": "https://www.styleforum.net/attachments/trench-coat-slate-blue-worn-4-2x-jpeg.1621753/",
+      "origin": "styleforum",
+      "post_id": "post-10742924",
+      "date": "2021-06-08",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p013.jpg",
+      "url": "https://www.styleforum.net/attachments/trench-coat-slate-blue-worn-1-2x-jpeg.1621754/",
+      "origin": "styleforum",
+      "post_id": "post-10742924",
+      "date": "2021-06-08",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p014.jpg",
+      "url": "https://www.styleforum.net/attachments/trench-hanging-wall-1-2x-jpg.1789208/",
+      "origin": "styleforum",
+      "post_id": "post-11082469",
+      "date": "2022-05-07",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p015.jpg",
+      "url": "https://www.styleforum.net/attachments/trench-coat-weatherproof-ripstop-cosmos-new-worn-2s-2x-jpg.2126037/",
+      "origin": "styleforum",
+      "post_id": "post-11710299",
+      "date": "2024-02-05",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p016.jpg",
+      "url": "https://www.styleforum.net/attachments/trench-coat-weatherproof-ripstop-cosmos-new-worn-3s-2x-jpg.2126039/",
+      "origin": "styleforum",
+      "post_id": "post-11710299",
+      "date": "2024-02-05",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p017.jpg",
+      "url": "https://www.styleforum.net/attachments/trench-coat-weatherproof-ripstop-cosmos-new-worn-1s-2x-jpg.2126041/",
+      "origin": "styleforum",
+      "post_id": "post-11710299",
+      "date": "2024-02-05",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p018.jpg",
+      "url": "https://www.styleforum.net/attachments/polo-coat-final-development-toile-1-2x-jpg.2206079/",
+      "origin": "styleforum",
+      "post_id": "post-11856493",
+      "date": "2024-06-27",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p019.jpg",
+      "url": "https://www.styleforum.net/attachments/polo-coat-final-development-toile-2-2x-jpg.2206081/",
+      "origin": "styleforum",
+      "post_id": "post-11856493",
+      "date": "2024-06-27",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p020.jpg",
+      "url": "https://www.styleforum.net/attachments/2102949/",
+      "origin": "styleforum",
+      "post_id": "post-11671597",
+      "date": "2024-01-05",
+      "author": "GoosePepper"
+    },
+    {
+      "file": "photos/p021.jpg",
+      "url": "https://www.styleforum.net/attachments/2102947/",
+      "origin": "styleforum",
+      "post_id": "post-11671597",
+      "date": "2024-01-05",
+      "author": "GoosePepper"
+    },
+    {
+      "file": "photos/p022.jpg",
+      "url": "https://www.styleforum.net/attachments/2102939/",
+      "origin": "styleforum",
+      "post_id": "post-11671597",
+      "date": "2024-01-05",
+      "author": "GoosePepper"
+    },
+    {
+      "file": "photos/p023.jpg",
+      "url": "https://www.styleforum.net/attachments/2102945/",
+      "origin": "styleforum",
+      "post_id": "post-11671597",
+      "date": "2024-01-05",
+      "author": "GoosePepper"
+    },
+    {
+      "file": "photos/p024.jpg",
+      "url": "https://www.styleforum.net/attachments/2102937/",
+      "origin": "styleforum",
+      "post_id": "post-11671597",
+      "date": "2024-01-05",
+      "author": "GoosePepper"
+    },
+    {
+      "file": "photos/p025.jpg",
+      "url": "https://www.styleforum.net/attachments/2102941/",
+      "origin": "styleforum",
+      "post_id": "post-11671597",
+      "date": "2024-01-05",
+      "author": "GoosePepper"
+    },
+    {
+      "file": "photos/p026.jpg",
+      "url": "https://www.styleforum.net/attachments/2102943/",
+      "origin": "styleforum",
+      "post_id": "post-11671597",
+      "date": "2024-01-05",
+      "author": "GoosePepper"
+    },
+    {
+      "file": "photos/p027.jpg",
+      "url": "https://www.styleforum.net/attachments/2102935/",
+      "origin": "styleforum",
+      "post_id": "post-11671597",
+      "date": "2024-01-05",
+      "author": "GoosePepper"
+    },
+    {
+      "file": "photos/p028.jpg",
+      "url": "https://www.styleforum.net/attachments/herdwick-trench-jpeg.2311941/",
+      "origin": "styleforum",
+      "post_id": "post-12070543",
+      "date": "2025-01-10",
+      "author": "typical"
+    },
+    {
+      "file": "photos/p029.jpg",
+      "url": "https://www.styleforum.net/attachments/2311941/",
+      "origin": "styleforum",
+      "post_id": "post-12070551",
+      "date": "2025-01-10",
+      "author": "DorianGreen"
+    },
+    {
+      "file": "photos/p030.jpg",
+      "url": "https://www.styleforum.net/attachments/2461915/",
+      "origin": "styleforum",
+      "post_id": "post-12362725",
+      "date": "2025-10-30",
+      "author": "dynemacron"
+    }
+  ]
+}

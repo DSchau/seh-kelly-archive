@@ -1,0 +1,117 @@
+{
+  "id": "linen-poplin-popover-in-manila",
+  "name": "Popover in linen poplin in manila",
+  "category": "Shirt",
+  "garment_type": "linen poplin popover",
+  "fabric": "manila",
+  "colour": null,
+  "colours_offered": [
+    "Manila"
+  ],
+  "materials": [
+    "linen",
+    "poplin",
+    "horn"
+  ],
+  "release_date": "2026-05-18",
+  "release_estimate": false,
+  "season": "SS2026",
+  "price_gbp": 200.0,
+  "sizes": [
+    "L",
+    "M",
+    "S",
+    "XL",
+    "XS"
+  ],
+  "status": "in production",
+  "description": "Popover shirt, made in London, with washed linen of middling weight (9oz) from a mill in Ireland, and horn buttons from the Cotswolds.",
+  "product_url": "https://sehkelly.com/products/linen-poplin-popover-in-manila",
+  "sources": [
+    "sehkelly.com live catalog"
+  ],
+  "thread_links": [],
+  "thread_post_ids": [
+    "post-12157895",
+    "post-12158469",
+    "post-12162729",
+    "post-12536895"
+  ],
+  "first_seen": "2025-03-26",
+  "last_seen": "2026-04-26",
+  "mention_count": 4,
+  "photos": [
+    {
+      "file": "photos/p001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0935/4480/8778/files/imgi_2_popover-linen-poplin-manila-1_2x_b57f0b29-d680-4c7e-9e8f-886b10b35a74.jpg?v=1779133574",
+      "origin": "sehkelly.com",
+      "post_id": null,
+      "date": null,
+      "author": null
+    },
+    {
+      "file": "photos/p002.jpg",
+      "url": "https://www.styleforum.net/attachments/popover-linen-dark-green-9s-2x-jpg.2354027/",
+      "origin": "styleforum",
+      "post_id": "post-12158469",
+      "date": "2025-03-26",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p003.jpg",
+      "url": "https://www.styleforum.net/attachments/popover-linen-dark-green-2s-2x-jpg.2354033/",
+      "origin": "styleforum",
+      "post_id": "post-12158469",
+      "date": "2025-03-26",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p004.jpg",
+      "url": "https://www.styleforum.net/attachments/popover-linen-poplin-manila-7s-2x-jpg.2354019/",
+      "origin": "styleforum",
+      "post_id": "post-12158469",
+      "date": "2025-03-26",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p005.jpg",
+      "url": "https://www.styleforum.net/attachments/popover-linen-poplin-manila-2s-2x-jpg.2354025/",
+      "origin": "styleforum",
+      "post_id": "post-12158469",
+      "date": "2025-03-26",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p006.jpg",
+      "url": "https://www.styleforum.net/attachments/popover-linen-dark-green-6s-2x-jpg.2354029/",
+      "origin": "styleforum",
+      "post_id": "post-12158469",
+      "date": "2025-03-26",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p007.jpg",
+      "url": "https://www.styleforum.net/attachments/popover-linen-dark-green-4s-2x-jpg.2354031/",
+      "origin": "styleforum",
+      "post_id": "post-12158469",
+      "date": "2025-03-26",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p008.jpg",
+      "url": "https://www.styleforum.net/attachments/popover-linen-poplin-manila-3s-2x-jpg.2354023/",
+      "origin": "styleforum",
+      "post_id": "post-12158469",
+      "date": "2025-03-26",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p009.jpg",
+      "url": "https://www.styleforum.net/attachments/popover-linen-poplin-manila-5s-2x-jpg.2354021/",
+      "origin": "styleforum",
+      "post_id": "post-12158469",
+      "date": "2025-03-26",
+      "author": "sehkelly"
+    }
+  ]
+}

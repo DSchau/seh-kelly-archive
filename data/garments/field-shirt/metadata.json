@@ -1,0 +1,31 @@
+{
+  "id": "field-shirt",
+  "name": "field shirt",
+  "category": "Shirt",
+  "garment_type": "field shirt",
+  "fabric": null,
+  "colour": null,
+  "colours_offered": [],
+  "materials": [],
+  "release_date": "2018-03-31",
+  "release_estimate": true,
+  "season": "SS2018",
+  "price_gbp": null,
+  "sizes": [],
+  "status": "archived",
+  "description": null,
+  "product_url": "https://sehkelly.com/field-shirt/",
+  "sources": [
+    "styleforum thread"
+  ],
+  "thread_links": [
+    "http://sehkelly.com/field-shirt"
+  ],
+  "thread_post_ids": [
+    "post-9270931"
+  ],
+  "first_seen": "2018-03-31",
+  "last_seen": "2018-03-31",
+  "mention_count": 1,
+  "photos": []
+}

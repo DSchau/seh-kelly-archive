@@ -1,0 +1,367 @@
+{
+  "id": "shawl-cardigan-in-superfine-lambswool-in-north-sea",
+  "name": "shawl cardigan in superfine lambswool in north sea",
+  "category": "Knitwear",
+  "garment_type": "shawl cardigan",
+  "fabric": "superfine lambswool",
+  "colour": "north sea",
+  "colours_offered": [],
+  "materials": [
+    "lambswool"
+  ],
+  "release_date": "2021-01-25",
+  "release_estimate": true,
+  "season": "AW2021",
+  "price_gbp": null,
+  "sizes": [],
+  "status": "archived",
+  "description": null,
+  "product_url": "https://sehkelly.com/shawl-cardigan-in-superfine-lambswool-in-north-sea/",
+  "sources": [
+    "styleforum thread"
+  ],
+  "thread_links": [
+    "https://www.sehkelly.com/shawl-cardigan-in-superfine-lambswool-in-north-sea/"
+  ],
+  "thread_post_ids": [
+    "post-11762811",
+    "post-10570770",
+    "post-11216518",
+    "post-11523899",
+    "post-11574563",
+    "post-11575833",
+    "post-11590705",
+    "post-11591011",
+    "post-11591437",
+    "post-11615245",
+    "post-11769129",
+    "post-11954069",
+    "post-11963503",
+    "post-11963885"
+  ],
+  "first_seen": "2021-01-25",
+  "last_seen": "2024-10-06",
+  "mention_count": 14,
+  "photos": [
+    {
+      "file": "photos/p001.jpg",
+      "url": "https://www.styleforum.net/attachments/shawl-cardigan-superfine-merino-throstle-brown-1-2x-jpg.1856832/",
+      "origin": "styleforum",
+      "post_id": "post-11216518",
+      "date": "2022-11-15",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p002.jpg",
+      "url": "https://www.styleforum.net/attachments/shawl-cardigan-superfine-merino-throstle-brown-2s-2x-jpg.1856833/",
+      "origin": "styleforum",
+      "post_id": "post-11216518",
+      "date": "2022-11-15",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p003.jpg",
+      "url": "https://www.styleforum.net/attachments/shawl-cardigan-superfine-merino-throstle-brown-3s-2x-jpg.1856834/",
+      "origin": "styleforum",
+      "post_id": "post-11216518",
+      "date": "2022-11-15",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p004.jpg",
+      "url": "https://www.styleforum.net/attachments/shawl-cardigan-superfine-merino-throstle-brown-4s-2x-jpg.1856835/",
+      "origin": "styleforum",
+      "post_id": "post-11216518",
+      "date": "2022-11-15",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p005.jpg",
+      "url": "https://www.styleforum.net/attachments/shawl-cardigan-superfine-merino-throstle-brown-5s-2x-jpg.1856836/",
+      "origin": "styleforum",
+      "post_id": "post-11216518",
+      "date": "2022-11-15",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p006.jpg",
+      "url": "https://www.styleforum.net/attachments/shawl-cardigan-superfine-merino-throstle-brown-8s-2x-jpg.1856839/",
+      "origin": "styleforum",
+      "post_id": "post-11216518",
+      "date": "2022-11-15",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p007.jpg",
+      "url": "https://www.styleforum.net/attachments/shawl-cardigan-superfine-merino-throstle-brown-9s-2x-jpg.1856840/",
+      "origin": "styleforum",
+      "post_id": "post-11216518",
+      "date": "2022-11-15",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p008.jpg",
+      "url": "https://www.styleforum.net/attachments/shawl-cardigan-superfine-merino-throstle-brown-10s-2x-jpg.1856841/",
+      "origin": "styleforum",
+      "post_id": "post-11216518",
+      "date": "2022-11-15",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p009.jpg",
+      "url": "https://www.styleforum.net/attachments/gansey-geelong-lambswool-navy-grey-worn-1s-2x-jpg.2017895/",
+      "origin": "styleforum",
+      "post_id": "post-11523899",
+      "date": "2023-09-01",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p010.jpg",
+      "url": "https://www.styleforum.net/attachments/gansey-geelong-lambswool-navy-grey-worn-3s-2x-jpg.2017897/",
+      "origin": "styleforum",
+      "post_id": "post-11523899",
+      "date": "2023-09-01",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p011.jpg",
+      "url": "https://www.styleforum.net/attachments/boatneck-superfine-lambswool-throstle-brown-worn-3s-2x-jpg.2017899/",
+      "origin": "styleforum",
+      "post_id": "post-11523899",
+      "date": "2023-09-01",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p012.jpg",
+      "url": "https://www.styleforum.net/attachments/boatneck-superfine-lambswool-throstle-brown-worn-1s-2x-jpg.2017901/",
+      "origin": "styleforum",
+      "post_id": "post-11523899",
+      "date": "2023-09-01",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p013.jpg",
+      "url": "https://www.styleforum.net/attachments/shawl-cardigan-superfine-merino-north-sea-blue-worn-2s-2x-jpg.2058585/",
+      "origin": "styleforum",
+      "post_id": "post-11590705",
+      "date": "2023-10-29",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p014.jpg",
+      "url": "https://www.styleforum.net/attachments/shawl-cardigan-superfine-merino-north-sea-blue-worn-5s-2x-jpg.2058579/",
+      "origin": "styleforum",
+      "post_id": "post-11590705",
+      "date": "2023-10-29",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p015.jpg",
+      "url": "https://www.styleforum.net/attachments/shawl-cardigan-superfine-merino-north-sea-blue-worn-1s-2x-jpg.2058587/",
+      "origin": "styleforum",
+      "post_id": "post-11590705",
+      "date": "2023-10-29",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p016.jpg",
+      "url": "https://www.styleforum.net/attachments/shawl-cardigan-superfine-merino-north-sea-blue-worn-6s-2x-jpg.2058577/",
+      "origin": "styleforum",
+      "post_id": "post-11590705",
+      "date": "2023-10-29",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p017.jpg",
+      "url": "https://www.styleforum.net/attachments/shawl-cardigan-superfine-merino-north-sea-blue-worn-3s-2x-jpg.2058583/",
+      "origin": "styleforum",
+      "post_id": "post-11590705",
+      "date": "2023-10-29",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p018.jpg",
+      "url": "https://www.styleforum.net/attachments/shawl-cardigan-superfine-merino-north-sea-blue-worn-4s-2x-jpg.2058581/",
+      "origin": "styleforum",
+      "post_id": "post-11590705",
+      "date": "2023-10-29",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p019.jpg",
+      "url": "https://www.styleforum.net/attachments/watch-cap-donegal-merino-lambswool-moorland-brown-2s-2x-jpg.2253853/",
+      "origin": "styleforum",
+      "post_id": "post-11954069",
+      "date": "2024-09-28",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p020.jpg",
+      "url": "https://www.styleforum.net/attachments/watch-cap-donegal-merino-lambswool-moorland-brown-5s-2x-jpg.2253855/",
+      "origin": "styleforum",
+      "post_id": "post-11954069",
+      "date": "2024-09-28",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p021.jpg",
+      "url": "https://www.styleforum.net/attachments/watch-cap-donegal-merino-lambswool-moorland-brown-4s-2x-jpg.2253857/",
+      "origin": "styleforum",
+      "post_id": "post-11954069",
+      "date": "2024-09-28",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p022.jpg",
+      "url": "https://www.styleforum.net/attachments/watch-cap-donegal-merino-lambswool-moorland-brown-3s-2x-jpg.2253859/",
+      "origin": "styleforum",
+      "post_id": "post-11954069",
+      "date": "2024-09-28",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p023.jpg",
+      "url": "https://www.styleforum.net/attachments/watch-cap-donegal-merino-lambswool-moorland-brown-6s-2x-jpg.2253861/",
+      "origin": "styleforum",
+      "post_id": "post-11954069",
+      "date": "2024-09-28",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p024.jpg",
+      "url": "https://www.styleforum.net/attachments/2058585/",
+      "origin": "styleforum",
+      "post_id": "post-11591011",
+      "date": "2023-10-29",
+      "author": "RozenKristal"
+    },
+    {
+      "file": "photos/p025.jpg",
+      "url": "https://www.styleforum.net/attachments/2058579/",
+      "origin": "styleforum",
+      "post_id": "post-11591011",
+      "date": "2023-10-29",
+      "author": "RozenKristal"
+    },
+    {
+      "file": "photos/p026.jpg",
+      "url": "https://www.styleforum.net/attachments/2058587/",
+      "origin": "styleforum",
+      "post_id": "post-11591011",
+      "date": "2023-10-29",
+      "author": "RozenKristal"
+    },
+    {
+      "file": "photos/p027.jpg",
+      "url": "https://www.styleforum.net/attachments/2058577/",
+      "origin": "styleforum",
+      "post_id": "post-11591011",
+      "date": "2023-10-29",
+      "author": "RozenKristal"
+    },
+    {
+      "file": "photos/p028.jpg",
+      "url": "https://www.styleforum.net/attachments/2058583/",
+      "origin": "styleforum",
+      "post_id": "post-11591011",
+      "date": "2023-10-29",
+      "author": "RozenKristal"
+    },
+    {
+      "file": "photos/p029.jpg",
+      "url": "https://www.styleforum.net/attachments/2058581/",
+      "origin": "styleforum",
+      "post_id": "post-11591011",
+      "date": "2023-10-29",
+      "author": "RozenKristal"
+    },
+    {
+      "file": "photos/p030.jpg",
+      "url": "https://www.styleforum.net/attachments/2258477/",
+      "origin": "styleforum",
+      "post_id": "post-11963503",
+      "date": "2024-10-05",
+      "author": "Sp0o0kyC"
+    },
+    {
+      "file": "photos/p031.jpg",
+      "url": "https://www.styleforum.net/attachments/2258465/",
+      "origin": "styleforum",
+      "post_id": "post-11963503",
+      "date": "2024-10-05",
+      "author": "Sp0o0kyC"
+    },
+    {
+      "file": "photos/p032.jpg",
+      "url": "https://www.styleforum.net/attachments/2258473/",
+      "origin": "styleforum",
+      "post_id": "post-11963503",
+      "date": "2024-10-05",
+      "author": "Sp0o0kyC"
+    },
+    {
+      "file": "photos/p033.jpg",
+      "url": "https://www.styleforum.net/attachments/2258485/",
+      "origin": "styleforum",
+      "post_id": "post-11963503",
+      "date": "2024-10-05",
+      "author": "Sp0o0kyC"
+    },
+    {
+      "file": "photos/p034.jpg",
+      "url": "https://www.styleforum.net/attachments/2258483/",
+      "origin": "styleforum",
+      "post_id": "post-11963503",
+      "date": "2024-10-05",
+      "author": "Sp0o0kyC"
+    },
+    {
+      "file": "photos/p035.jpg",
+      "url": "https://www.styleforum.net/attachments/2258479/",
+      "origin": "styleforum",
+      "post_id": "post-11963503",
+      "date": "2024-10-05",
+      "author": "Sp0o0kyC"
+    },
+    {
+      "file": "photos/p036.jpg",
+      "url": "https://www.styleforum.net/attachments/2258481/",
+      "origin": "styleforum",
+      "post_id": "post-11963503",
+      "date": "2024-10-05",
+      "author": "Sp0o0kyC"
+    },
+    {
+      "file": "photos/p037.jpg",
+      "url": "https://www.styleforum.net/attachments/2258487/",
+      "origin": "styleforum",
+      "post_id": "post-11963503",
+      "date": "2024-10-05",
+      "author": "Sp0o0kyC"
+    },
+    {
+      "file": "photos/p038.jpg",
+      "url": "https://www.styleforum.net/attachments/2258471/",
+      "origin": "styleforum",
+      "post_id": "post-11963503",
+      "date": "2024-10-05",
+      "author": "Sp0o0kyC"
+    },
+    {
+      "file": "photos/p039.jpg",
+      "url": "https://www.styleforum.net/attachments/2258461/",
+      "origin": "styleforum",
+      "post_id": "post-11963503",
+      "date": "2024-10-05",
+      "author": "Sp0o0kyC"
+    },
+    {
+      "file": "photos/p040.jpg",
+      "url": "https://www.styleforum.net/attachments/2258475/",
+      "origin": "styleforum",
+      "post_id": "post-11963503",
+      "date": "2024-10-05",
+      "author": "Sp0o0kyC"
+    }
+  ]
+}

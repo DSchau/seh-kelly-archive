@@ -1,0 +1,40 @@
+{
+  "id": "polo-shirt",
+  "name": "polo shirt",
+  "category": "Shirt",
+  "garment_type": "polo shirt",
+  "fabric": null,
+  "colour": null,
+  "colours_offered": [],
+  "materials": [],
+  "release_date": "2020-03-25",
+  "release_estimate": true,
+  "season": "SS2020",
+  "price_gbp": null,
+  "sizes": [],
+  "status": "archived",
+  "description": null,
+  "product_url": "https://sehkelly.com/polo-shirt/",
+  "sources": [
+    "styleforum thread"
+  ],
+  "thread_links": [
+    "https://www.sehkelly.com/polo-shirt/"
+  ],
+  "thread_post_ids": [
+    "post-10125649"
+  ],
+  "first_seen": "2020-03-25",
+  "last_seen": "2020-03-25",
+  "mention_count": 1,
+  "photos": [
+    {
+      "file": "photos/p001.jpg",
+      "url": "https://www.styleforum.net/attachments/popover-toile-cardboard-1is-jpg.1360740/",
+      "origin": "styleforum",
+      "post_id": "post-10125649",
+      "date": "2020-03-25",
+      "author": "sehkelly"
+    }
+  ]
+}

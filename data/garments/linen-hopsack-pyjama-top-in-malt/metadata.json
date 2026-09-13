@@ -1,0 +1,116 @@
+{
+  "id": "linen-hopsack-pyjama-top-in-malt",
+  "name": "Pyjama top in linen hopsack in malt",
+  "category": "Pyjama top",
+  "garment_type": "linen hopsack pyjama top",
+  "fabric": "malt",
+  "colour": null,
+  "colours_offered": [
+    "Malt"
+  ],
+  "materials": [
+    "linen",
+    "hopsack",
+    "horn"
+  ],
+  "release_date": "2026-05-18",
+  "release_estimate": false,
+  "season": "SS2026",
+  "price_gbp": 360.0,
+  "sizes": [
+    "L",
+    "M",
+    "S",
+    "XL",
+    "XS"
+  ],
+  "status": "in production",
+  "description": "Four-button jacket, made in London, with mid-weight (10oz) linen from a mill in Northern Ireland, and horn buttons from the Cotswolds.",
+  "product_url": "https://sehkelly.com/products/linen-hopsack-pyjama-top-in-malt",
+  "sources": [
+    "sehkelly.com live catalog"
+  ],
+  "thread_links": [],
+  "thread_post_ids": [
+    "post-9270931",
+    "post-9712011",
+    "post-10065982"
+  ],
+  "first_seen": "2018-03-31",
+  "last_seen": "2020-02-09",
+  "mention_count": 3,
+  "photos": [
+    {
+      "file": "photos/p001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0935/4480/8778/files/pyjama-jacket_beige_1.jpg?v=1779094942",
+      "origin": "sehkelly.com",
+      "post_id": null,
+      "date": null,
+      "author": null
+    },
+    {
+      "file": "photos/p002.jpg",
+      "url": "https://www.styleforum.net/attachments/shopcoat-cotton-linen-hopsack-malt-3-2x-jpg.1333883/",
+      "origin": "styleforum",
+      "post_id": "post-10065982",
+      "date": "2020-02-09",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p003.jpg",
+      "url": "https://www.styleforum.net/attachments/shopcoat-cotton-linen-hopsack-malt-14-2x-jpg.1333885/",
+      "origin": "styleforum",
+      "post_id": "post-10065982",
+      "date": "2020-02-09",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p004.jpg",
+      "url": "https://www.styleforum.net/attachments/shopcoat-cotton-linen-hopsack-malt-10-2x-jpg.1333888/",
+      "origin": "styleforum",
+      "post_id": "post-10065982",
+      "date": "2020-02-09",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p005.jpg",
+      "url": "https://www.styleforum.net/attachments/shopcoat-cotton-linen-hopsack-malt-9-2x-jpg.1333889/",
+      "origin": "styleforum",
+      "post_id": "post-10065982",
+      "date": "2020-02-09",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p006.jpg",
+      "url": "https://www.styleforum.net/attachments/shopcoat-cotton-linen-hopsack-malt-8-2x-jpg.1333890/",
+      "origin": "styleforum",
+      "post_id": "post-10065982",
+      "date": "2020-02-09",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p007.jpg",
+      "url": "https://www.styleforum.net/attachments/shopcoat-cotton-linen-hopsack-malt-7-2x-jpg.1333891/",
+      "origin": "styleforum",
+      "post_id": "post-10065982",
+      "date": "2020-02-09",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p008.jpg",
+      "url": "https://www.styleforum.net/attachments/shopcoat-cotton-linen-hopsack-malt-6-2x-jpg.1333892/",
+      "origin": "styleforum",
+      "post_id": "post-10065982",
+      "date": "2020-02-09",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p009.jpg",
+      "url": "https://www.styleforum.net/attachments/shopcoat-cotton-linen-hopsack-malt-4-2x-jpg.1333893/",
+      "origin": "styleforum",
+      "post_id": "post-10065982",
+      "date": "2020-02-09",
+      "author": "sehkelly"
+    }
+  ]
+}

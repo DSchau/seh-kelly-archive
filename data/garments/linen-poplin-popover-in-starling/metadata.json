@@ -1,0 +1,48 @@
+{
+  "id": "linen-poplin-popover-in-starling",
+  "name": "Popover in linen poplin in starling",
+  "category": "Shirt",
+  "garment_type": "linen poplin popover",
+  "fabric": "starling",
+  "colour": null,
+  "colours_offered": [
+    "Starling"
+  ],
+  "materials": [
+    "linen",
+    "poplin",
+    "horn"
+  ],
+  "release_date": "2026-05-18",
+  "release_estimate": false,
+  "season": "SS2026",
+  "price_gbp": 200.0,
+  "sizes": [
+    "L",
+    "M",
+    "S",
+    "XL",
+    "XS"
+  ],
+  "status": "in production",
+  "description": "Popover shirt, made in London, with washed linen of middling weight (9oz) from a mill in Ireland, and horn buttons from the Cotswolds.",
+  "product_url": "https://sehkelly.com/products/linen-poplin-popover-in-starling",
+  "sources": [
+    "sehkelly.com live catalog"
+  ],
+  "thread_links": [],
+  "thread_post_ids": [],
+  "first_seen": null,
+  "last_seen": null,
+  "mention_count": 0,
+  "photos": [
+    {
+      "file": "photos/p001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0935/4480/8778/files/linen-popover-shirt_1.jpg?v=1779094401",
+      "origin": "sehkelly.com",
+      "post_id": null,
+      "date": null,
+      "author": null
+    }
+  ]
+}

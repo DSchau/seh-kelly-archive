@@ -1,0 +1,140 @@
+{
+  "id": "ring-spun-cotton-t-shirt-in-slate",
+  "name": "T-shirt in ring-spun cotton in slate",
+  "category": "T-Shirt",
+  "garment_type": "ring spun cotton t shirt",
+  "fabric": "slate",
+  "colour": null,
+  "colours_offered": [
+    "Slate"
+  ],
+  "materials": [
+    "cotton"
+  ],
+  "release_date": "2026-05-18",
+  "release_estimate": false,
+  "season": "SS2026",
+  "price_gbp": 230.0,
+  "sizes": [
+    "L",
+    "M",
+    "S",
+    "XL",
+    "XS"
+  ],
+  "status": "in production",
+  "description": "T-shirt \u2014 if only there was a better name \u2014 hand-framed and fully-fashioned with ring-spun cotton in the south-west of the British Isles.",
+  "product_url": "https://sehkelly.com/products/ring-spun-cotton-t-shirt-in-slate",
+  "sources": [
+    "sehkelly.com live catalog"
+  ],
+  "thread_links": [],
+  "thread_post_ids": [
+    "post-8737072",
+    "post-8784521",
+    "post-8862557",
+    "post-9427109",
+    "post-9947986",
+    "post-9948017",
+    "post-10057971",
+    "post-10334312",
+    "post-10334327",
+    "post-10801900",
+    "post-10801965",
+    "post-10937930",
+    "post-11106393"
+  ],
+  "first_seen": "2017-01-26",
+  "last_seen": "2022-06-09",
+  "mention_count": 13,
+  "photos": [
+    {
+      "file": "photos/p001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0935/4480/8778/files/knitted-tshirt_1.jpg?v=1779095402",
+      "origin": "sehkelly.com",
+      "post_id": null,
+      "date": null,
+      "author": null
+    },
+    {
+      "file": "photos/p010.jpg",
+      "url": "https://www.styleforum.net/attachments/sb1-jacket-slate-blue-pinpoint-linen-7-jpg.783083/",
+      "origin": "styleforum",
+      "post_id": "post-8862557",
+      "date": "2017-05-16",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p011.jpg",
+      "url": "https://www.styleforum.net/attachments/sb1-jacket-slate-blue-pinpoint-linen-2-jpg.783085/",
+      "origin": "styleforum",
+      "post_id": "post-8862557",
+      "date": "2017-05-16",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p012.jpg",
+      "url": "https://www.styleforum.net/attachments/sb1-jacket-slate-blue-pinpoint-linen-1-2x-jpg.783086/",
+      "origin": "styleforum",
+      "post_id": "post-8862557",
+      "date": "2017-05-16",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p013.jpg",
+      "url": "https://www.styleforum.net/attachments/sb1-jacket-slate-blue-pinpoint-linen-8-jpg.783082/",
+      "origin": "styleforum",
+      "post_id": "post-8862557",
+      "date": "2017-05-16",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p014.jpg",
+      "url": "https://www.styleforum.net/attachments/sb1-jacket-slate-blue-pinpoint-linen-3-jpg.783084/",
+      "origin": "styleforum",
+      "post_id": "post-8862557",
+      "date": "2017-05-16",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p015.jpg",
+      "url": "https://www.styleforum.net/attachments/sb3-jacket-worsted-grey-worn-4-2x-jpg.1270814/",
+      "origin": "styleforum",
+      "post_id": "post-9947986",
+      "date": "2019-11-01",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p016.jpg",
+      "url": "https://www.styleforum.net/attachments/1716756/",
+      "origin": "styleforum",
+      "post_id": "post-10937930",
+      "date": "2021-12-08",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p017.jpg",
+      "url": "https://www.styleforum.net/attachments/1716757/",
+      "origin": "styleforum",
+      "post_id": "post-10937930",
+      "date": "2021-12-08",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p018.jpg",
+      "url": "https://www.styleforum.net/attachments/1716758/",
+      "origin": "styleforum",
+      "post_id": "post-10937930",
+      "date": "2021-12-08",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p019.jpg",
+      "url": "https://www.styleforum.net/attachments/1270814/",
+      "origin": "styleforum",
+      "post_id": "post-9948017",
+      "date": "2019-11-01",
+      "author": "Thethrill"
+    }
+  ]
+}

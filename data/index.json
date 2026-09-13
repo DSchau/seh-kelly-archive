@@ -1,0 +1,3007 @@
+[
+  {
+    "id": "car-coat-in-cotton-stay-wax-in-olive-drab",
+    "name": "car coat in cotton stay wax in olive drab",
+    "category": "Coat",
+    "year": "2012",
+    "season": "AW2012",
+    "fabric": "cotton stay wax",
+    "colour": "olive drab",
+    "materials": [
+      "cotton",
+      "wax"
+    ],
+    "status": "archived",
+    "photo_count": 34,
+    "price_gbp": null,
+    "thumb": "photos/p006.jpg"
+  },
+  {
+    "id": "charcoal-grey-flecked-wool-tapered-trouser",
+    "name": "charcoal grey flecked wool tapered trouser",
+    "category": "Trousers",
+    "year": "2012",
+    "season": "AW2012",
+    "fabric": null,
+    "colour": null,
+    "materials": [
+      "wool"
+    ],
+    "status": "archived",
+    "photo_count": 0,
+    "price_gbp": null,
+    "thumb": null
+  },
+  {
+    "id": "grey-donegal-wool-cashmere-scarf",
+    "name": "grey donegal wool cashmere scarf",
+    "category": "Accessories",
+    "year": "2012",
+    "season": "AW2012",
+    "fabric": null,
+    "colour": null,
+    "materials": [
+      "wool",
+      "cashmere",
+      "donegal"
+    ],
+    "status": "archived",
+    "photo_count": 0,
+    "price_gbp": null,
+    "thumb": null
+  },
+  {
+    "id": "kelly-collar-shirt-in-grey-melange-cotton-twill",
+    "name": "kelly collar shirt in grey melange cotton twill",
+    "category": "Shirt",
+    "year": "2012",
+    "season": "AW2012",
+    "fabric": "grey melange cotton twill",
+    "colour": null,
+    "materials": [
+      "cotton",
+      "twill"
+    ],
+    "status": "archived",
+    "photo_count": 15,
+    "price_gbp": null,
+    "thumb": "photos/p026.jpg"
+  },
+  {
+    "id": "nearly-black-corduroy-three-button-blazer",
+    "name": "nearly black corduroy three button blazer",
+    "category": "Jacket",
+    "year": "2012",
+    "season": "AW2012",
+    "fabric": null,
+    "colour": null,
+    "materials": [
+      "corduroy"
+    ],
+    "status": "archived",
+    "photo_count": 0,
+    "price_gbp": null,
+    "thumb": null
+  },
+  {
+    "id": "shirt-in-cotton-moleskin-in-chalk",
+    "name": "shirt in cotton moleskin in chalk",
+    "category": "Shirt",
+    "year": "2012",
+    "season": "AW2012",
+    "fabric": "cotton moleskin",
+    "colour": "chalk",
+    "materials": [
+      "cotton",
+      "moleskin"
+    ],
+    "status": "archived",
+    "photo_count": 13,
+    "price_gbp": null,
+    "thumb": "photos/p028.jpg"
+  },
+  {
+    "id": "shirt-in-cotton-silk-wool-linen-oxford-in-sanderling",
+    "name": "shirt in cotton silk wool linen oxford in sanderling",
+    "category": "Shirt",
+    "year": "2012",
+    "season": "AW2012",
+    "fabric": "cotton silk wool linen oxford",
+    "colour": "sanderling",
+    "materials": [
+      "linen",
+      "cotton",
+      "wool",
+      "silk",
+      "oxford"
+    ],
+    "status": "archived",
+    "photo_count": 13,
+    "price_gbp": null,
+    "thumb": "photos/p028.jpg"
+  },
+  {
+    "id": "shirt-in-linen-suiting-in-dark-navy",
+    "name": "shirt in linen suiting in dark navy",
+    "category": "Shirt",
+    "year": "2012",
+    "season": "AW2012",
+    "fabric": "linen suiting",
+    "colour": "dark navy",
+    "materials": [
+      "linen"
+    ],
+    "status": "archived",
+    "photo_count": 15,
+    "price_gbp": null,
+    "thumb": "photos/p026.jpg"
+  },
+  {
+    "id": "shirt-in-merino-cotton-oxford-in-lead-grey",
+    "name": "shirt in merino cotton oxford in lead grey",
+    "category": "Shirt",
+    "year": "2012",
+    "season": "AW2012",
+    "fabric": "merino cotton oxford",
+    "colour": "lead grey",
+    "materials": [
+      "cotton",
+      "merino",
+      "oxford"
+    ],
+    "status": "archived",
+    "photo_count": 18,
+    "price_gbp": null,
+    "thumb": "photos/p023.jpg"
+  },
+  {
+    "id": "shirt-with-granddad-collar-in-corduroy-in-umber",
+    "name": "shirt with granddad collar in corduroy in umber",
+    "category": "Shirt",
+    "year": "2012",
+    "season": "AW2012",
+    "fabric": "corduroy",
+    "colour": "umber",
+    "materials": [
+      "corduroy"
+    ],
+    "status": "archived",
+    "photo_count": 30,
+    "price_gbp": null,
+    "thumb": "photos/p011.jpg"
+  },
+  {
+    "id": "tobacco-brown-wool-tweed-peacoat",
+    "name": "tobacco brown wool tweed peacoat",
+    "category": "Coat",
+    "year": "2012",
+    "season": "AW2012",
+    "fabric": null,
+    "colour": null,
+    "materials": [
+      "wool",
+      "tweed"
+    ],
+    "status": "archived",
+    "photo_count": 0,
+    "price_gbp": null,
+    "thumb": null
+  },
+  {
+    "id": "cinnamon-ventile-tour-jacket",
+    "name": "cinnamon ventile tour jacket",
+    "category": "Jacket",
+    "year": "2013",
+    "season": "AW2013",
+    "fabric": null,
+    "colour": null,
+    "materials": [
+      "ventile"
+    ],
+    "status": "archived",
+    "photo_count": 0,
+    "price_gbp": null,
+    "thumb": null
+  },
+  {
+    "id": "crewneck-in-lambswool-tuck-stitch-in-admiral-blue",
+    "name": "crewneck in lambswool tuck stitch in admiral blue",
+    "category": "Knitwear",
+    "year": "2013",
+    "season": "AW2013",
+    "fabric": "lambswool tuck stitch",
+    "colour": "admiral blue",
+    "materials": [
+      "lambswool",
+      "tuck"
+    ],
+    "status": "archived",
+    "photo_count": 7,
+    "price_gbp": null,
+    "thumb": "photos/p001.jpg"
+  },
+  {
+    "id": "navy-blue-charcoal-grey-wool-peacoat",
+    "name": "navy blue charcoal grey wool peacoat",
+    "category": "Coat",
+    "year": "2013",
+    "season": "AW2013",
+    "fabric": null,
+    "colour": null,
+    "materials": [
+      "wool"
+    ],
+    "status": "archived",
+    "photo_count": 0,
+    "price_gbp": null,
+    "thumb": null
+  },
+  {
+    "id": "navy-blue-grey-tuck-stitch-jumper",
+    "name": "navy blue grey tuck stitch jumper",
+    "category": "Knitwear",
+    "year": "2013",
+    "season": "AW2013",
+    "fabric": null,
+    "colour": null,
+    "materials": [
+      "tuck"
+    ],
+    "status": "archived",
+    "photo_count": 0,
+    "price_gbp": null,
+    "thumb": null
+  },
+  {
+    "id": "peacoat-in-heavy-melton-in-khaki-drab",
+    "name": "peacoat in heavy melton in khaki drab",
+    "category": "Coat",
+    "year": "2013",
+    "season": "SS2013",
+    "fabric": "heavy melton",
+    "colour": "khaki drab",
+    "materials": [
+      "melton"
+    ],
+    "status": "archived",
+    "photo_count": 35,
+    "price_gbp": null,
+    "thumb": "photos/p006.jpg"
+  },
+  {
+    "id": "peacoat-in-heavy-uniform-melton-in-dark-navy",
+    "name": "peacoat in heavy uniform melton in dark navy",
+    "category": "Coat",
+    "year": "2013",
+    "season": "SS2013",
+    "fabric": "heavy uniform melton",
+    "colour": "dark navy",
+    "materials": [
+      "melton"
+    ],
+    "status": "archived",
+    "photo_count": 35,
+    "price_gbp": null,
+    "thumb": "photos/p006.jpg"
+  },
+  {
+    "id": "waistcoat-in-herdwick-tweed-in-light-sheep",
+    "name": "waistcoat in herdwick tweed in light sheep",
+    "category": "Waistcoat",
+    "year": "2013",
+    "season": "AW2013",
+    "fabric": "herdwick tweed",
+    "colour": "light sheep",
+    "materials": [
+      "tweed"
+    ],
+    "status": "archived",
+    "photo_count": 33,
+    "price_gbp": null,
+    "thumb": "photos/p001.jpg"
+  },
+  {
+    "id": "work-jacket-in-cotton-sail-cloth-in-slate-blue",
+    "name": "work jacket in cotton sail cloth in slate blue",
+    "category": "Jacket",
+    "year": "2013",
+    "season": "AW2013",
+    "fabric": "cotton sail cloth",
+    "colour": "slate blue",
+    "materials": [
+      "cotton",
+      "sail cloth"
+    ],
+    "status": "archived",
+    "photo_count": 15,
+    "price_gbp": null,
+    "thumb": "photos/p026.jpg"
+  },
+  {
+    "id": "work-jacket-in-cotton-stay-wax-in-olive-drab",
+    "name": "work jacket in cotton stay wax in olive drab",
+    "category": "Jacket",
+    "year": "2013",
+    "season": "AW2013",
+    "fabric": "cotton stay wax",
+    "colour": "olive drab",
+    "materials": [
+      "cotton",
+      "wax"
+    ],
+    "status": "archived",
+    "photo_count": 16,
+    "price_gbp": null,
+    "thumb": "photos/p025.jpg"
+  },
+  {
+    "id": "british-warm-in-woollen-hopsack-in-middling-sheep",
+    "name": "british warm in woollen hopsack in middling sheep",
+    "category": "Coat",
+    "year": "2014",
+    "season": "SS2014",
+    "fabric": "woollen hopsack",
+    "colour": "middling sheep",
+    "materials": [
+      "hopsack",
+      "woollen"
+    ],
+    "status": "archived",
+    "photo_count": 19,
+    "price_gbp": null,
+    "thumb": "photos/p002.jpg"
+  },
+  {
+    "id": "crewneck-in-ten-ply-lambswool-in-imperial-blue",
+    "name": "crewneck in ten ply lambswool in imperial blue",
+    "category": "Knitwear",
+    "year": "2014",
+    "season": "SS2014",
+    "fabric": "ten ply lambswool",
+    "colour": "imperial blue",
+    "materials": [
+      "lambswool"
+    ],
+    "status": "archived",
+    "photo_count": 20,
+    "price_gbp": null,
+    "thumb": "photos/p001.jpg"
+  },
+  {
+    "id": "grey-wool-cotton-semi-cutaway-shirt",
+    "name": "grey wool cotton semi cutaway shirt",
+    "category": "Shirt",
+    "year": "2014",
+    "season": "AW2014",
+    "fabric": null,
+    "colour": null,
+    "materials": [
+      "cotton",
+      "wool"
+    ],
+    "status": "archived",
+    "photo_count": 0,
+    "price_gbp": null,
+    "thumb": null
+  },
+  {
+    "id": "shirt-with-granddad-collar-in-desert-cotton-in-ecru",
+    "name": "shirt with granddad collar in desert cotton in ecru",
+    "category": "Shirt",
+    "year": "2014",
+    "season": "AW2014",
+    "fabric": "desert cotton",
+    "colour": "ecru",
+    "materials": [
+      "cotton"
+    ],
+    "status": "archived",
+    "photo_count": 32,
+    "price_gbp": null,
+    "thumb": "photos/p009.jpg"
+  },
+  {
+    "id": "balmacaan-in-cotton-no-wax-in-rye-brown",
+    "name": "balmacaan in cotton no wax in rye brown",
+    "category": "Coat",
+    "year": "2015",
+    "season": "SS2015",
+    "fabric": "cotton no wax",
+    "colour": "rye brown",
+    "materials": [
+      "cotton",
+      "wax"
+    ],
+    "status": "archived",
+    "photo_count": 38,
+    "price_gbp": null,
+    "thumb": "photos/p003.jpg"
+  },
+  {
+    "id": "balmacaan-in-donegal-tweed-barleycorn-in-forest-green",
+    "name": "balmacaan in donegal tweed barleycorn in forest green",
+    "category": "Coat",
+    "year": "2015",
+    "season": "SS2015",
+    "fabric": "donegal tweed barleycorn",
+    "colour": "forest green",
+    "materials": [
+      "tweed",
+      "donegal"
+    ],
+    "status": "archived",
+    "photo_count": 34,
+    "price_gbp": null,
+    "thumb": "photos/p007.jpg"
+  },
+  {
+    "id": "balmacaan-in-donegal-tweed-in-bark-brown",
+    "name": "balmacaan in donegal tweed in bark brown",
+    "category": "Coat",
+    "year": "2015",
+    "season": "SS2015",
+    "fabric": "donegal tweed",
+    "colour": "bark brown",
+    "materials": [
+      "tweed",
+      "donegal"
+    ],
+    "status": "archived",
+    "photo_count": 34,
+    "price_gbp": null,
+    "thumb": "photos/p007.jpg"
+  },
+  {
+    "id": "balmacaan-in-donegal-tweed-in-blue-grey",
+    "name": "balmacaan in donegal tweed in blue grey",
+    "category": "Coat",
+    "year": "2015",
+    "season": "SS2015",
+    "fabric": "donegal tweed",
+    "colour": "blue grey",
+    "materials": [
+      "tweed",
+      "donegal"
+    ],
+    "status": "archived",
+    "photo_count": 31,
+    "price_gbp": null,
+    "thumb": "photos/p010.jpg"
+  },
+  {
+    "id": "balmacaan-in-donegal-tweed-in-grouse-brown",
+    "name": "balmacaan in donegal tweed in grouse brown",
+    "category": "Coat",
+    "year": "2015",
+    "season": "SS2015",
+    "fabric": "donegal tweed",
+    "colour": "grouse brown",
+    "materials": [
+      "tweed",
+      "donegal"
+    ],
+    "status": "archived",
+    "photo_count": 34,
+    "price_gbp": null,
+    "thumb": "photos/p007.jpg"
+  },
+  {
+    "id": "balmacaan-in-donegal-tweed-in-loch-blue",
+    "name": "balmacaan in donegal tweed in loch blue",
+    "category": "Coat",
+    "year": "2015",
+    "season": "SS2015",
+    "fabric": "donegal tweed",
+    "colour": "loch blue",
+    "materials": [
+      "tweed",
+      "donegal"
+    ],
+    "status": "archived",
+    "photo_count": 34,
+    "price_gbp": null,
+    "thumb": "photos/p007.jpg"
+  },
+  {
+    "id": "balmacaan-in-donegal-tweed-in-navy-grey",
+    "name": "balmacaan in donegal tweed in navy grey",
+    "category": "Coat",
+    "year": "2015",
+    "season": "SS2015",
+    "fabric": "donegal tweed",
+    "colour": "navy grey",
+    "materials": [
+      "tweed",
+      "donegal"
+    ],
+    "status": "archived",
+    "photo_count": 34,
+    "price_gbp": null,
+    "thumb": "photos/p007.jpg"
+  },
+  {
+    "id": "balmacaan-in-donegal-tweed-in-soot-grey",
+    "name": "balmacaan in donegal tweed in soot grey",
+    "category": "Coat",
+    "year": "2015",
+    "season": "SS2015",
+    "fabric": "donegal tweed",
+    "colour": "soot grey",
+    "materials": [
+      "tweed",
+      "donegal"
+    ],
+    "status": "archived",
+    "photo_count": 34,
+    "price_gbp": null,
+    "thumb": "photos/p007.jpg"
+  },
+  {
+    "id": "balmacaan-in-donegal-tweed-in-walnut",
+    "name": "balmacaan in donegal tweed in walnut",
+    "category": "Coat",
+    "year": "2015",
+    "season": "SS2015",
+    "fabric": "donegal tweed",
+    "colour": "walnut",
+    "materials": [
+      "tweed",
+      "donegal"
+    ],
+    "status": "archived",
+    "photo_count": 34,
+    "price_gbp": null,
+    "thumb": "photos/p007.jpg"
+  },
+  {
+    "id": "balmacaan-in-no-wax-cotton-cambric-in-copper",
+    "name": "balmacaan in no wax cotton cambric in copper",
+    "category": "Coat",
+    "year": "2015",
+    "season": "SS2015",
+    "fabric": "no wax cotton cambric",
+    "colour": "copper",
+    "materials": [
+      "cotton",
+      "wax"
+    ],
+    "status": "archived",
+    "photo_count": 22,
+    "price_gbp": null,
+    "thumb": "photos/p019.jpg"
+  },
+  {
+    "id": "balmacaan-in-tobacco-brown-donegal-tweed",
+    "name": "balmacaan in tobacco brown donegal tweed",
+    "category": "Coat",
+    "year": "2015",
+    "season": "AW2015",
+    "fabric": "tobacco brown donegal tweed",
+    "colour": null,
+    "materials": [
+      "tweed",
+      "donegal"
+    ],
+    "status": "archived",
+    "photo_count": 14,
+    "price_gbp": null,
+    "thumb": "photos/p005.jpg"
+  },
+  {
+    "id": "balmacaan-x-styleforum-in-donegal-tweed",
+    "name": "balmacaan x styleforum in donegal tweed",
+    "category": "Coat",
+    "year": "2015",
+    "season": "SS2015",
+    "fabric": "donegal tweed",
+    "colour": null,
+    "materials": [
+      "tweed",
+      "donegal"
+    ],
+    "status": "archived",
+    "photo_count": 34,
+    "price_gbp": null,
+    "thumb": "photos/p007.jpg"
+  },
+  {
+    "id": "sb2-jacket-in-wheat-natural-herringbone-linen",
+    "name": "sb2 jacket in wheat natural herringbone linen",
+    "category": "Jacket",
+    "year": "2015",
+    "season": "SS2015",
+    "fabric": "wheat natural herringbone linen",
+    "colour": null,
+    "materials": [
+      "linen",
+      "herringbone"
+    ],
+    "status": "archived",
+    "photo_count": 0,
+    "price_gbp": null,
+    "thumb": null
+  },
+  {
+    "id": "scarf-in-eight-ply-geelong-lambswool-in-conifer-green",
+    "name": "scarf in eight ply geelong lambswool in conifer green",
+    "category": "Accessories",
+    "year": "2015",
+    "season": "AW2015",
+    "fabric": "eight ply geelong lambswool",
+    "colour": "conifer green",
+    "materials": [
+      "lambswool",
+      "geelong"
+    ],
+    "status": "archived",
+    "photo_count": 7,
+    "price_gbp": null,
+    "thumb": "photos/p001.jpg"
+  },
+  {
+    "id": "shirt-in-linen-poplin-in-buckwheat",
+    "name": "shirt in linen poplin in buckwheat",
+    "category": "Shirt",
+    "year": "2015",
+    "season": "SS2015",
+    "fabric": "linen poplin",
+    "colour": "buckwheat",
+    "materials": [
+      "linen",
+      "poplin"
+    ],
+    "status": "archived",
+    "photo_count": 21,
+    "price_gbp": null,
+    "thumb": "photos/p020.jpg"
+  },
+  {
+    "id": "spectacle-frame-with-hockey-end-sides",
+    "name": "spectacle frame with hockey end sides",
+    "category": "Accessories",
+    "year": "2015",
+    "season": "AW2015",
+    "fabric": null,
+    "colour": null,
+    "materials": [],
+    "status": "archived",
+    "photo_count": 0,
+    "price_gbp": null,
+    "thumb": null
+  },
+  {
+    "id": "car-coat-in-olive-green-ventile-ripstop",
+    "name": "car coat in olive green ventile ripstop",
+    "category": "Coat",
+    "year": "2016",
+    "season": "AW2016",
+    "fabric": "olive green ventile ripstop",
+    "colour": null,
+    "materials": [
+      "ripstop",
+      "ventile"
+    ],
+    "status": "archived",
+    "photo_count": 12,
+    "price_gbp": null,
+    "thumb": "photos/p006.jpg"
+  },
+  {
+    "id": "cardigan-in-geelong-lambswool-tuck-in-charcoal",
+    "name": "cardigan in geelong lambswool tuck in charcoal",
+    "category": "Knitwear",
+    "year": "2016",
+    "season": "AW2016",
+    "fabric": "geelong lambswool tuck",
+    "colour": "charcoal",
+    "materials": [
+      "lambswool",
+      "geelong",
+      "tuck"
+    ],
+    "status": "archived",
+    "photo_count": 19,
+    "price_gbp": null,
+    "thumb": "photos/p001.jpg"
+  },
+  {
+    "id": "duffle-coats",
+    "name": "duffle coats",
+    "category": "Coat",
+    "year": "2016",
+    "season": "AW2016",
+    "fabric": null,
+    "colour": null,
+    "materials": [
+      "duffle"
+    ],
+    "status": "archived",
+    "photo_count": 0,
+    "price_gbp": null,
+    "thumb": null
+  },
+  {
+    "id": "peacoat-dark-navy-worsted-overcoating",
+    "name": "peacoat dark navy worsted overcoating",
+    "category": "Coat",
+    "year": "2016",
+    "season": "AW2016",
+    "fabric": null,
+    "colour": null,
+    "materials": [
+      "worsted"
+    ],
+    "status": "archived",
+    "photo_count": 0,
+    "price_gbp": null,
+    "thumb": null
+  },
+  {
+    "id": "peacoat-in-merino-hopsack-in-colliery-grey",
+    "name": "peacoat in merino hopsack in colliery grey",
+    "category": "Coat",
+    "year": "2016",
+    "season": "AW2016",
+    "fabric": "merino hopsack",
+    "colour": "colliery grey",
+    "materials": [
+      "merino",
+      "hopsack"
+    ],
+    "status": "archived",
+    "photo_count": 19,
+    "price_gbp": null,
+    "thumb": "photos/p001.jpg"
+  },
+  {
+    "id": "raglan-shirt-in-lead-grey-knit-woollen-twill",
+    "name": "raglan shirt in lead grey knit woollen twill",
+    "category": "Shirt",
+    "year": "2016",
+    "season": "AW2016",
+    "fabric": "lead grey knit woollen twill",
+    "colour": null,
+    "materials": [
+      "twill",
+      "woollen"
+    ],
+    "status": "archived",
+    "photo_count": 0,
+    "price_gbp": null,
+    "thumb": null
+  },
+  {
+    "id": "raglan-shirt-in-navy-knit-woollen-twill",
+    "name": "raglan shirt in navy knit woollen twill",
+    "category": "Shirt",
+    "year": "2016",
+    "season": "AW2016",
+    "fabric": "navy knit woollen twill",
+    "colour": null,
+    "materials": [
+      "twill",
+      "woollen"
+    ],
+    "status": "archived",
+    "photo_count": 20,
+    "price_gbp": null,
+    "thumb": "photos/p003.jpg"
+  },
+  {
+    "id": "topcoat-hand-woven-navy-merino-tweed",
+    "name": "topcoat hand woven navy merino tweed",
+    "category": "Coat",
+    "year": "2016",
+    "season": "AW2016",
+    "fabric": null,
+    "colour": null,
+    "materials": [
+      "merino",
+      "tweed"
+    ],
+    "status": "archived",
+    "photo_count": 0,
+    "price_gbp": null,
+    "thumb": null
+  },
+  {
+    "id": "work-jacket-hand-woven-grey-black-wool-linen-check",
+    "name": "work jacket hand woven grey black wool linen check",
+    "category": "Jacket",
+    "year": "2016",
+    "season": "AW2016",
+    "fabric": null,
+    "colour": null,
+    "materials": [
+      "linen",
+      "wool"
+    ],
+    "status": "archived",
+    "photo_count": 0,
+    "price_gbp": null,
+    "thumb": null
+  },
+  {
+    "id": "balmacaan-in-charcoal-herringbone-donegal-tweed",
+    "name": "balmacaan in charcoal herringbone donegal tweed",
+    "category": "Coat",
+    "year": "2017",
+    "season": "AW2017",
+    "fabric": "charcoal herringbone donegal tweed",
+    "colour": null,
+    "materials": [
+      "tweed",
+      "donegal",
+      "herringbone"
+    ],
+    "status": "archived",
+    "photo_count": 22,
+    "price_gbp": null,
+    "thumb": "photos/p001.jpg"
+  },
+  {
+    "id": "balmacaan-in-hopsack-tweed-in-charcoal",
+    "name": "balmacaan in hopsack tweed in charcoal",
+    "category": "Coat",
+    "year": "2017",
+    "season": "AW2017",
+    "fabric": "hopsack tweed",
+    "colour": "charcoal",
+    "materials": [
+      "tweed",
+      "hopsack"
+    ],
+    "status": "archived",
+    "photo_count": 40,
+    "price_gbp": null,
+    "thumb": "photos/p001.jpg"
+  },
+  {
+    "id": "balmacaan-midnight-blue-ventile-flyweight",
+    "name": "balmacaan midnight blue ventile flyweight",
+    "category": "Coat",
+    "year": "2017",
+    "season": "SS2017",
+    "fabric": null,
+    "colour": null,
+    "materials": [
+      "ventile"
+    ],
+    "status": "archived",
+    "photo_count": 0,
+    "price_gbp": null,
+    "thumb": null
+  },
+  {
+    "id": "car-coat",
+    "name": "car coat",
+    "category": "Coat",
+    "year": "2017",
+    "season": "AW2017",
+    "fabric": null,
+    "colour": null,
+    "materials": [],
+    "status": "archived",
+    "photo_count": 0,
+    "price_gbp": null,
+    "thumb": null
+  },
+  {
+    "id": "crewneck-imperial-blue-tuck-stitch-cotton",
+    "name": "crewneck imperial blue tuck stitch cotton",
+    "category": "Knitwear",
+    "year": "2017",
+    "season": "SS2017",
+    "fabric": null,
+    "colour": null,
+    "materials": [
+      "cotton",
+      "tuck"
+    ],
+    "status": "archived",
+    "photo_count": 0,
+    "price_gbp": null,
+    "thumb": null
+  },
+  {
+    "id": "dress-trousers-in-cotton-sail-cloth-in-forest-green",
+    "name": "dress trousers in cotton sail cloth in forest green",
+    "category": "Trousers",
+    "year": "2017",
+    "season": "AW2017",
+    "fabric": "cotton sail cloth",
+    "colour": "forest green",
+    "materials": [
+      "cotton",
+      "sail cloth"
+    ],
+    "status": "archived",
+    "photo_count": 30,
+    "price_gbp": null,
+    "thumb": "photos/p003.jpg"
+  },
+  {
+    "id": "field-coat-in-cotton-sail-cloth-in-navy",
+    "name": "field coat in cotton sail cloth in navy",
+    "category": "Coat",
+    "year": "2017",
+    "season": "AW2017",
+    "fabric": "cotton sail cloth",
+    "colour": "navy",
+    "materials": [
+      "cotton",
+      "sail cloth"
+    ],
+    "status": "archived",
+    "photo_count": 40,
+    "price_gbp": null,
+    "thumb": "photos/p001.jpg"
+  },
+  {
+    "id": "field-shirt-in-cotton-linen-hopsack-in-cobalt-blue",
+    "name": "field shirt in cotton linen hopsack in cobalt blue",
+    "category": "Shirt",
+    "year": "2017",
+    "season": "AW2017",
+    "fabric": "cotton linen hopsack",
+    "colour": "cobalt blue",
+    "materials": [
+      "linen",
+      "cotton",
+      "hopsack"
+    ],
+    "status": "archived",
+    "photo_count": 40,
+    "price_gbp": null,
+    "thumb": "photos/p001.jpg"
+  },
+  {
+    "id": "field-shirt-in-cotton-linen-hopsack-in-petrol-grey",
+    "name": "field shirt in cotton linen hopsack in petrol grey",
+    "category": "Shirt",
+    "year": "2017",
+    "season": "AW2017",
+    "fabric": "cotton linen hopsack",
+    "colour": "petrol grey",
+    "materials": [
+      "linen",
+      "cotton",
+      "hopsack"
+    ],
+    "status": "archived",
+    "photo_count": 40,
+    "price_gbp": null,
+    "thumb": "photos/p001.jpg"
+  },
+  {
+    "id": "field-shirt-in-heavy-uniform-melton-in-tobacco",
+    "name": "field shirt in heavy uniform melton in tobacco",
+    "category": "Shirt",
+    "year": "2017",
+    "season": "SS2017",
+    "fabric": "heavy uniform melton",
+    "colour": "tobacco",
+    "materials": [
+      "melton"
+    ],
+    "status": "archived",
+    "photo_count": 40,
+    "price_gbp": null,
+    "thumb": "photos/p001.jpg"
+  },
+  {
+    "id": "field-trousers-in-cotton-duck-in-black",
+    "name": "field trousers in cotton duck in black",
+    "category": "Trousers",
+    "year": "2017",
+    "season": "AW2017",
+    "fabric": "cotton duck",
+    "colour": "black",
+    "materials": [
+      "cotton"
+    ],
+    "status": "archived",
+    "photo_count": 40,
+    "price_gbp": null,
+    "thumb": "photos/p001.jpg"
+  },
+  {
+    "id": "field-trousers-in-cotton-linen-panama-in-charcoal",
+    "name": "field trousers in cotton linen panama in charcoal",
+    "category": "Trousers",
+    "year": "2017",
+    "season": "AW2017",
+    "fabric": "cotton linen panama",
+    "colour": "charcoal",
+    "materials": [
+      "linen",
+      "cotton"
+    ],
+    "status": "archived",
+    "photo_count": 40,
+    "price_gbp": null,
+    "thumb": "photos/p001.jpg"
+  },
+  {
+    "id": "parka-minor-in-weatherproof-ripstop-in-cosmos",
+    "name": "parka minor in weatherproof ripstop in cosmos",
+    "category": "Coat",
+    "year": "2017",
+    "season": "AW2017",
+    "fabric": "weatherproof ripstop",
+    "colour": "cosmos",
+    "materials": [
+      "ripstop"
+    ],
+    "status": "archived",
+    "photo_count": 34,
+    "price_gbp": null,
+    "thumb": "photos/p001.jpg"
+  },
+  {
+    "id": "parka-minor-in-weatherproof-ripstop-in-postman-blue",
+    "name": "parka minor in weatherproof ripstop in postman blue",
+    "category": "Coat",
+    "year": "2017",
+    "season": "AW2017",
+    "fabric": "weatherproof ripstop",
+    "colour": "postman blue",
+    "materials": [
+      "ripstop"
+    ],
+    "status": "archived",
+    "photo_count": 30,
+    "price_gbp": null,
+    "thumb": "photos/p001.jpg"
+  },
+  {
+    "id": "polo-shirt-in-cotton-tuck-in-porridge",
+    "name": "polo shirt in cotton tuck in porridge",
+    "category": "Shirt",
+    "year": "2017",
+    "season": "AW2017",
+    "fabric": "cotton tuck",
+    "colour": "porridge",
+    "materials": [
+      "cotton",
+      "tuck"
+    ],
+    "status": "archived",
+    "photo_count": 40,
+    "price_gbp": null,
+    "thumb": "photos/p001.jpg"
+  },
+  {
+    "id": "popover-in-linen-suiting-in-horizon-blue",
+    "name": "popover in linen suiting in horizon blue",
+    "category": "Shirt",
+    "year": "2017",
+    "season": "SS2017",
+    "fabric": "linen suiting",
+    "colour": "horizon blue",
+    "materials": [
+      "linen"
+    ],
+    "status": "archived",
+    "photo_count": 40,
+    "price_gbp": null,
+    "thumb": "photos/p001.jpg"
+  },
+  {
+    "id": "proper-trouser-in-wool-duck-canvas-in-midnight",
+    "name": "proper trouser in wool duck canvas in midnight",
+    "category": "Trousers",
+    "year": "2017",
+    "season": "AW2017",
+    "fabric": "wool duck canvas",
+    "colour": "midnight",
+    "materials": [
+      "wool",
+      "canvas"
+    ],
+    "status": "archived",
+    "photo_count": 39,
+    "price_gbp": null,
+    "thumb": "photos/p001.jpg"
+  },
+  {
+    "id": "sb3-jacket",
+    "name": "sb3 jacket",
+    "category": "Jacket",
+    "year": "2017",
+    "season": "AW2017",
+    "fabric": null,
+    "colour": null,
+    "materials": [],
+    "status": "archived",
+    "photo_count": 5,
+    "price_gbp": null,
+    "thumb": "photos/p001.jpg"
+  },
+  {
+    "id": "shorts-in-cotton-stay-wax-in-copper",
+    "name": "shorts in cotton stay wax in copper",
+    "category": "Trousers",
+    "year": "2017",
+    "season": "AW2017",
+    "fabric": "cotton stay wax",
+    "colour": "copper",
+    "materials": [
+      "cotton",
+      "wax"
+    ],
+    "status": "archived",
+    "photo_count": 27,
+    "price_gbp": null,
+    "thumb": "photos/p001.jpg"
+  },
+  {
+    "id": "slim-trouser-in-cotton-sail-cloth-in-umber",
+    "name": "slim trouser in cotton sail cloth in umber",
+    "category": "Trousers",
+    "year": "2017",
+    "season": "AW2017",
+    "fabric": "cotton sail cloth",
+    "colour": "umber",
+    "materials": [
+      "cotton",
+      "sail cloth"
+    ],
+    "status": "archived",
+    "photo_count": 40,
+    "price_gbp": null,
+    "thumb": "photos/p001.jpg"
+  },
+  {
+    "id": "slim-trouser-navy-thick-thin-corduroy",
+    "name": "slim trouser navy thick thin corduroy",
+    "category": "Trousers",
+    "year": "2017",
+    "season": "AW2017",
+    "fabric": null,
+    "colour": null,
+    "materials": [
+      "corduroy"
+    ],
+    "status": "archived",
+    "photo_count": 0,
+    "price_gbp": null,
+    "thumb": null
+  },
+  {
+    "id": "slim-trouser-umber-cruiserweight-corduroy",
+    "name": "slim trouser umber cruiserweight corduroy",
+    "category": "Trousers",
+    "year": "2017",
+    "season": "AW2017",
+    "fabric": null,
+    "colour": null,
+    "materials": [
+      "corduroy"
+    ],
+    "status": "archived",
+    "photo_count": 0,
+    "price_gbp": null,
+    "thumb": null
+  },
+  {
+    "id": "standard-trouser-in-worsted-canvas-in-midnight",
+    "name": "standard trouser in worsted canvas in midnight",
+    "category": "Trousers",
+    "year": "2017",
+    "season": "AW2017",
+    "fabric": "worsted canvas",
+    "colour": "midnight",
+    "materials": [
+      "canvas",
+      "worsted"
+    ],
+    "status": "archived",
+    "photo_count": 2,
+    "price_gbp": null,
+    "thumb": "photos/p001.jpg"
+  },
+  {
+    "id": "trench-coat-in-weatherproof-ripstop-in-cosmos",
+    "name": "trench coat in weatherproof ripstop in cosmos",
+    "category": "Coat",
+    "year": "2017",
+    "season": "AW2017",
+    "fabric": "weatherproof ripstop",
+    "colour": "cosmos",
+    "materials": [
+      "ripstop"
+    ],
+    "status": "archived",
+    "photo_count": 40,
+    "price_gbp": null,
+    "thumb": "photos/p001.jpg"
+  },
+  {
+    "id": "trench-coat-midnight-blue-ventile",
+    "name": "trench coat midnight blue ventile",
+    "category": "Coat",
+    "year": "2017",
+    "season": "SS2017",
+    "fabric": null,
+    "colour": null,
+    "materials": [
+      "ventile"
+    ],
+    "status": "archived",
+    "photo_count": 0,
+    "price_gbp": null,
+    "thumb": null
+  },
+  {
+    "id": "work-jacket-hand-woven-blue-wool-linen-check",
+    "name": "work jacket hand woven blue wool linen check",
+    "category": "Jacket",
+    "year": "2017",
+    "season": "AW2017",
+    "fabric": null,
+    "colour": null,
+    "materials": [
+      "linen",
+      "wool"
+    ],
+    "status": "archived",
+    "photo_count": 0,
+    "price_gbp": null,
+    "thumb": null
+  },
+  {
+    "id": "balmacaan-canopy-cotton-forest-green",
+    "name": "balmacaan canopy cotton forest green",
+    "category": "Coat",
+    "year": "2018",
+    "season": "AW2018",
+    "fabric": null,
+    "colour": null,
+    "materials": [
+      "cotton"
+    ],
+    "status": "archived",
+    "photo_count": 2,
+    "price_gbp": null,
+    "thumb": "photos/p001.jpg"
+  },
+  {
+    "id": "balmacaan-canopy-cotton-manila",
+    "name": "balmacaan canopy cotton manila",
+    "category": "Coat",
+    "year": "2018",
+    "season": "AW2018",
+    "fabric": null,
+    "colour": null,
+    "materials": [
+      "cotton"
+    ],
+    "status": "archived",
+    "photo_count": 10,
+    "price_gbp": null,
+    "thumb": "photos/p001.jpg"
+  },
+  {
+    "id": "balmacaan-in-hopsack-tweed-in-bark",
+    "name": "balmacaan in hopsack tweed in bark",
+    "category": "Coat",
+    "year": "2018",
+    "season": "SS2018",
+    "fabric": "hopsack tweed",
+    "colour": "bark",
+    "materials": [
+      "tweed",
+      "hopsack"
+    ],
+    "status": "archived",
+    "photo_count": 28,
+    "price_gbp": null,
+    "thumb": "photos/p001.jpg"
+  },
+  {
+    "id": "balmacaan-in-hopsack-tweed-in-bracken",
+    "name": "balmacaan in hopsack tweed in bracken",
+    "category": "Coat",
+    "year": "2018",
+    "season": "SS2018",
+    "fabric": "hopsack tweed",
+    "colour": "bracken",
+    "materials": [
+      "tweed",
+      "hopsack"
+    ],
+    "status": "archived",
+    "photo_count": 29,
+    "price_gbp": null,
+    "thumb": "photos/p001.jpg"
+  },
+  {
+    "id": "balmacaan-in-hopsack-tweed-in-soot",
+    "name": "balmacaan in hopsack tweed in soot",
+    "category": "Coat",
+    "year": "2018",
+    "season": "SS2018",
+    "fabric": "hopsack tweed",
+    "colour": "soot",
+    "materials": [
+      "tweed",
+      "hopsack"
+    ],
+    "status": "archived",
+    "photo_count": 28,
+    "price_gbp": null,
+    "thumb": "photos/p001.jpg"
+  },
+  {
+    "id": "field-coat-in-canopy-cotton-in-forest-green",
+    "name": "field coat in canopy cotton in forest green",
+    "category": "Coat",
+    "year": "2018",
+    "season": "SS2018",
+    "fabric": "canopy cotton",
+    "colour": "forest green",
+    "materials": [
+      "cotton"
+    ],
+    "status": "archived",
+    "photo_count": 40,
+    "price_gbp": null,
+    "thumb": "photos/p001.jpg"
+  },
+  {
+    "id": "field-shirt",
+    "name": "field shirt",
+    "category": "Shirt",
+    "year": "2018",
+    "season": "SS2018",
+    "fabric": null,
+    "colour": null,
+    "materials": [],
+    "status": "archived",
+    "photo_count": 0,
+    "price_gbp": null,
+    "thumb": null
+  },
+  {
+    "id": "parka-protective-ripstop-cosmos",
+    "name": "parka protective ripstop cosmos",
+    "category": "Coat",
+    "year": "2018",
+    "season": "SS2018",
+    "fabric": null,
+    "colour": null,
+    "materials": [
+      "ripstop"
+    ],
+    "status": "archived",
+    "photo_count": 0,
+    "price_gbp": null,
+    "thumb": null
+  },
+  {
+    "id": "peacoat-in-hopsack-overcoating-in-midnight",
+    "name": "peacoat in hopsack overcoating in midnight",
+    "category": "Coat",
+    "year": "2018",
+    "season": "SS2018",
+    "fabric": "hopsack overcoating",
+    "colour": "midnight",
+    "materials": [
+      "hopsack"
+    ],
+    "status": "archived",
+    "photo_count": 17,
+    "price_gbp": null,
+    "thumb": "photos/p001.jpg"
+  },
+  {
+    "id": "polo-shirt-in-three-ply-geelong-lambswool-in-charcoal",
+    "name": "polo shirt in three ply geelong lambswool in charcoal",
+    "category": "Shirt",
+    "year": "2018",
+    "season": "SS2018",
+    "fabric": "three ply geelong lambswool",
+    "colour": "charcoal",
+    "materials": [
+      "lambswool",
+      "geelong"
+    ],
+    "status": "archived",
+    "photo_count": 3,
+    "price_gbp": null,
+    "thumb": "photos/p001.jpg"
+  },
+  {
+    "id": "proper-trouser",
+    "name": "proper trouser",
+    "category": "Trousers",
+    "year": "2018",
+    "season": "AW2018",
+    "fabric": null,
+    "colour": null,
+    "materials": [],
+    "status": "archived",
+    "photo_count": 0,
+    "price_gbp": null,
+    "thumb": null
+  },
+  {
+    "id": "proper-trouser-in-heavy-woollen-hopsack-in-midnight",
+    "name": "proper trouser in heavy woollen hopsack in midnight",
+    "category": "Trousers",
+    "year": "2018",
+    "season": "AW2018",
+    "fabric": "heavy woollen hopsack",
+    "colour": "midnight",
+    "materials": [
+      "hopsack",
+      "woollen"
+    ],
+    "status": "archived",
+    "photo_count": 28,
+    "price_gbp": null,
+    "thumb": "photos/p001.jpg"
+  },
+  {
+    "id": "reversible-overshirt-navy-cord-melton",
+    "name": "reversible overshirt navy cord melton",
+    "category": "Overshirt",
+    "year": "2018",
+    "season": "AW2018",
+    "fabric": null,
+    "colour": null,
+    "materials": [
+      "cord",
+      "melton"
+    ],
+    "status": "archived",
+    "photo_count": 0,
+    "price_gbp": null,
+    "thumb": null
+  },
+  {
+    "id": "sb3-jacket-in-tropical-worsted-in-midnight",
+    "name": "sb3 jacket in tropical worsted in midnight",
+    "category": "Jacket",
+    "year": "2018",
+    "season": "AW2018",
+    "fabric": "tropical worsted",
+    "colour": "midnight",
+    "materials": [
+      "worsted"
+    ],
+    "status": "archived",
+    "photo_count": 29,
+    "price_gbp": null,
+    "thumb": "photos/p001.jpg"
+  },
+  {
+    "id": "scarf-in-navy-lambswool-tuck-stitch",
+    "name": "scarf in navy lambswool tuck stitch",
+    "category": "Accessories",
+    "year": "2018",
+    "season": "AW2018",
+    "fabric": "navy lambswool tuck stitch",
+    "colour": null,
+    "materials": [
+      "lambswool",
+      "tuck"
+    ],
+    "status": "archived",
+    "photo_count": 5,
+    "price_gbp": null,
+    "thumb": "photos/p001.jpg"
+  },
+  {
+    "id": "slim-trouser",
+    "name": "slim trouser",
+    "category": "Trousers",
+    "year": "2018",
+    "season": "SS2018",
+    "fabric": null,
+    "colour": null,
+    "materials": [],
+    "status": "archived",
+    "photo_count": 0,
+    "price_gbp": null,
+    "thumb": null
+  },
+  {
+    "id": "standard-trouser-in-tropical-worsted-in-midnight",
+    "name": "standard trouser in tropical worsted in midnight",
+    "category": "Trousers",
+    "year": "2018",
+    "season": "AW2018",
+    "fabric": "tropical worsted",
+    "colour": "midnight",
+    "materials": [
+      "worsted"
+    ],
+    "status": "archived",
+    "photo_count": 0,
+    "price_gbp": null,
+    "thumb": null
+  },
+  {
+    "id": "trench-coat-in-british-natte-tweed-in-charcoal",
+    "name": "trench coat in british natte tweed in charcoal",
+    "category": "Coat",
+    "year": "2018",
+    "season": "SS2018",
+    "fabric": "british natte tweed",
+    "colour": "charcoal",
+    "materials": [
+      "tweed",
+      "natte"
+    ],
+    "status": "archived",
+    "photo_count": 39,
+    "price_gbp": null,
+    "thumb": "photos/p001.jpg"
+  },
+  {
+    "id": "trench-coat-in-british-natte-tweed-in-dark-navy",
+    "name": "trench coat in british natte tweed in dark navy",
+    "category": "Coat",
+    "year": "2018",
+    "season": "AW2018",
+    "fabric": "british natte tweed",
+    "colour": "dark navy",
+    "materials": [
+      "tweed",
+      "natte"
+    ],
+    "status": "archived",
+    "photo_count": 30,
+    "price_gbp": null,
+    "thumb": "photos/p001.jpg"
+  },
+  {
+    "id": "trench-coat-in-herdwick-tweed-in-dark-sheep",
+    "name": "trench coat in herdwick tweed in dark sheep",
+    "category": "Coat",
+    "year": "2018",
+    "season": "AW2018",
+    "fabric": "herdwick tweed",
+    "colour": "dark sheep",
+    "materials": [
+      "tweed"
+    ],
+    "status": "archived",
+    "photo_count": 40,
+    "price_gbp": null,
+    "thumb": "photos/p001.jpg"
+  },
+  {
+    "id": "v-neck",
+    "name": "v neck",
+    "category": "Knitwear",
+    "year": "2018",
+    "season": "AW2018",
+    "fabric": null,
+    "colour": null,
+    "materials": [],
+    "status": "archived",
+    "photo_count": 2,
+    "price_gbp": null,
+    "thumb": "photos/p001.jpg"
+  },
+  {
+    "id": "work-jacket-in-cobalt-blue-melton-wool",
+    "name": "work jacket in cobalt blue melton wool",
+    "category": "Jacket",
+    "year": "2018",
+    "season": "AW2018",
+    "fabric": "cobalt blue melton wool",
+    "colour": null,
+    "materials": [
+      "wool",
+      "melton"
+    ],
+    "status": "archived",
+    "photo_count": 0,
+    "price_gbp": null,
+    "thumb": null
+  },
+  {
+    "id": "field-jacket",
+    "name": "field jacket",
+    "category": "Jacket",
+    "year": "2019",
+    "season": "SS2019",
+    "fabric": null,
+    "colour": null,
+    "materials": [],
+    "status": "archived",
+    "photo_count": 0,
+    "price_gbp": null,
+    "thumb": null
+  },
+  {
+    "id": "gansey-in-geelong-lambswool-in-throstle",
+    "name": "gansey in geelong lambswool in throstle",
+    "category": "Knitwear",
+    "year": "2019",
+    "season": "AW2019",
+    "fabric": "geelong lambswool",
+    "colour": "throstle",
+    "materials": [
+      "lambswool",
+      "geelong"
+    ],
+    "status": "archived",
+    "photo_count": 14,
+    "price_gbp": null,
+    "thumb": "photos/p001.jpg"
+  },
+  {
+    "id": "gansey-in-lambswool-tuck-stitch-in-molasses",
+    "name": "gansey in lambswool tuck stitch in molasses",
+    "category": "Knitwear",
+    "year": "2019",
+    "season": "AW2019",
+    "fabric": "lambswool tuck stitch",
+    "colour": "molasses",
+    "materials": [
+      "lambswool",
+      "tuck"
+    ],
+    "status": "archived",
+    "photo_count": 40,
+    "price_gbp": null,
+    "thumb": "photos/p001.png"
+  },
+  {
+    "id": "car-coat-protective-ripstop-sand",
+    "name": "car coat protective ripstop sand",
+    "category": "Coat",
+    "year": "2020",
+    "season": "AW2020",
+    "fabric": null,
+    "colour": null,
+    "materials": [
+      "ripstop"
+    ],
+    "status": "archived",
+    "photo_count": 0,
+    "price_gbp": null,
+    "thumb": null
+  },
+  {
+    "id": "donkey-jacket",
+    "name": "donkey jacket",
+    "category": "Jacket",
+    "year": "2020",
+    "season": "AW2020",
+    "fabric": null,
+    "colour": null,
+    "materials": [],
+    "status": "archived",
+    "photo_count": 6,
+    "price_gbp": null,
+    "thumb": "photos/p001.jpg"
+  },
+  {
+    "id": "donkey-jacket-in-melton-and-sail-cloth-in-black",
+    "name": "donkey jacket in melton and sail cloth in black",
+    "category": "Jacket",
+    "year": "2020",
+    "season": "SS2020",
+    "fabric": "melton and sail cloth",
+    "colour": "black",
+    "materials": [
+      "melton",
+      "sail cloth"
+    ],
+    "status": "archived",
+    "photo_count": 31,
+    "price_gbp": null,
+    "thumb": "photos/p001.jpg"
+  },
+  {
+    "id": "polo-shirt",
+    "name": "polo shirt",
+    "category": "Shirt",
+    "year": "2020",
+    "season": "SS2020",
+    "fabric": null,
+    "colour": null,
+    "materials": [],
+    "status": "archived",
+    "photo_count": 1,
+    "price_gbp": null,
+    "thumb": "photos/p001.jpg"
+  },
+  {
+    "id": "proper-trouser-in-bedford-cord-in-marine-blue",
+    "name": "proper trouser in bedford cord in marine blue",
+    "category": "Trousers",
+    "year": "2020",
+    "season": "SS2020",
+    "fabric": "bedford cord",
+    "colour": "marine blue",
+    "materials": [
+      "cord",
+      "bedford"
+    ],
+    "status": "archived",
+    "photo_count": 36,
+    "price_gbp": null,
+    "thumb": "photos/p001.jpg"
+  },
+  {
+    "id": "trucker-jacket-in-bedford-cord-in-marine-blue",
+    "name": "trucker jacket in bedford cord in marine blue",
+    "category": "Jacket",
+    "year": "2020",
+    "season": "SS2020",
+    "fabric": "bedford cord",
+    "colour": "marine blue",
+    "materials": [
+      "cord",
+      "bedford"
+    ],
+    "status": "archived",
+    "photo_count": 17,
+    "price_gbp": null,
+    "thumb": "photos/p001.jpg"
+  },
+  {
+    "id": "watch-cap-in-donegal-merino-lambswool-in-rook",
+    "name": "watch cap in donegal merino lambswool in rook",
+    "category": "Accessories",
+    "year": "2020",
+    "season": "AW2020",
+    "fabric": "donegal merino lambswool",
+    "colour": "rook",
+    "materials": [
+      "lambswool",
+      "merino",
+      "donegal"
+    ],
+    "status": "archived",
+    "photo_count": 40,
+    "price_gbp": null,
+    "thumb": "photos/p001.jpg"
+  },
+  {
+    "id": "dress-trousers-in-motley-flannel-in-forest-green",
+    "name": "dress trousers in motley flannel in forest green",
+    "category": "Trousers",
+    "year": "2021",
+    "season": "AW2021",
+    "fabric": "motley flannel",
+    "colour": "forest green",
+    "materials": [
+      "flannel"
+    ],
+    "status": "archived",
+    "photo_count": 40,
+    "price_gbp": null,
+    "thumb": "photos/p001.jpg"
+  },
+  {
+    "id": "dress-trousers-in-motley-flannel-in-peat-brown",
+    "name": "dress trousers in motley flannel in peat brown",
+    "category": "Trousers",
+    "year": "2021",
+    "season": "AW2021",
+    "fabric": "motley flannel",
+    "colour": "peat brown",
+    "materials": [
+      "flannel"
+    ],
+    "status": "archived",
+    "photo_count": 40,
+    "price_gbp": null,
+    "thumb": "photos/p001.jpg"
+  },
+  {
+    "id": "field-trousers-in-shetland-melton-in-derby-grey",
+    "name": "field trousers in shetland melton in derby grey",
+    "category": "Trousers",
+    "year": "2021",
+    "season": "AW2021",
+    "fabric": "shetland melton",
+    "colour": "derby grey",
+    "materials": [
+      "melton",
+      "shetland"
+    ],
+    "status": "archived",
+    "photo_count": 26,
+    "price_gbp": null,
+    "thumb": "photos/p001.jpg"
+  },
+  {
+    "id": "parka-minor",
+    "name": "parka minor",
+    "category": "Coat",
+    "year": "2021",
+    "season": "AW2021",
+    "fabric": null,
+    "colour": null,
+    "materials": [],
+    "status": "archived",
+    "photo_count": 0,
+    "price_gbp": null,
+    "thumb": null
+  },
+  {
+    "id": "pyjama-top",
+    "name": "pyjama top",
+    "category": "Pyjama",
+    "year": "2021",
+    "season": "AW2021",
+    "fabric": null,
+    "colour": null,
+    "materials": [],
+    "status": "archived",
+    "photo_count": 0,
+    "price_gbp": null,
+    "thumb": null
+  },
+  {
+    "id": "shawl-cardigan-in-superfine-lambswool-in-north-sea",
+    "name": "shawl cardigan in superfine lambswool in north sea",
+    "category": "Knitwear",
+    "year": "2021",
+    "season": "AW2021",
+    "fabric": "superfine lambswool",
+    "colour": "north sea",
+    "materials": [
+      "lambswool"
+    ],
+    "status": "archived",
+    "photo_count": 40,
+    "price_gbp": null,
+    "thumb": "photos/p001.jpg"
+  },
+  {
+    "id": "waistcoat-in-herdwick-tweed-in-dark-sheep",
+    "name": "waistcoat in herdwick tweed in dark sheep",
+    "category": "Waistcoat",
+    "year": "2021",
+    "season": "SS2021",
+    "fabric": "herdwick tweed",
+    "colour": "dark sheep",
+    "materials": [
+      "tweed"
+    ],
+    "status": "archived",
+    "photo_count": 31,
+    "price_gbp": null,
+    "thumb": "photos/p001.jpg"
+  },
+  {
+    "id": "field-trousers",
+    "name": "field trousers",
+    "category": "Trousers",
+    "year": "2022",
+    "season": "SS2022",
+    "fabric": null,
+    "colour": null,
+    "materials": [],
+    "status": "archived",
+    "photo_count": 0,
+    "price_gbp": null,
+    "thumb": null
+  },
+  {
+    "id": "hunting-jacket-in-heavy-melton-in-boreal-green",
+    "name": "hunting jacket in heavy melton in boreal green",
+    "category": "Jacket",
+    "year": "2022",
+    "season": "SS2022",
+    "fabric": "heavy melton",
+    "colour": "boreal green",
+    "materials": [
+      "melton"
+    ],
+    "status": "archived",
+    "photo_count": 12,
+    "price_gbp": null,
+    "thumb": "photos/p001.jpg"
+  },
+  {
+    "id": "peacoat-in-herdwick-tweed-in-middling-sheep",
+    "name": "peacoat in herdwick tweed in middling sheep",
+    "category": "Coat",
+    "year": "2022",
+    "season": "SS2022",
+    "fabric": "herdwick tweed",
+    "colour": "middling sheep",
+    "materials": [
+      "tweed"
+    ],
+    "status": "archived",
+    "photo_count": 36,
+    "price_gbp": null,
+    "thumb": "photos/p001.jpg"
+  },
+  {
+    "id": "sb-jacket-in-motley-tweed-in-throstle",
+    "name": "sb jacket in motley tweed in throstle",
+    "category": "Jacket",
+    "year": "2022",
+    "season": "AW2022",
+    "fabric": "motley tweed",
+    "colour": "throstle",
+    "materials": [
+      "tweed"
+    ],
+    "status": "archived",
+    "photo_count": 15,
+    "price_gbp": null,
+    "thumb": "photos/p001.jpg"
+  },
+  {
+    "id": "trucker-jacket",
+    "name": "trucker jacket",
+    "category": "Jacket",
+    "year": "2022",
+    "season": "AW2022",
+    "fabric": null,
+    "colour": null,
+    "materials": [],
+    "status": "archived",
+    "photo_count": 3,
+    "price_gbp": null,
+    "thumb": "photos/p001.jpg"
+  },
+  {
+    "id": "ulster-in-herdwick-tweed-in-light-sheep",
+    "name": "ulster in herdwick tweed in light sheep",
+    "category": "Coat",
+    "year": "2023",
+    "season": "SS2023",
+    "fabric": "herdwick tweed",
+    "colour": "light sheep",
+    "materials": [
+      "tweed"
+    ],
+    "status": "archived",
+    "photo_count": 39,
+    "price_gbp": null,
+    "thumb": "photos/p001.jpg"
+  },
+  {
+    "id": "field-coat",
+    "name": "field coat",
+    "category": "Coat",
+    "year": "2024",
+    "season": "AW2024",
+    "fabric": null,
+    "colour": null,
+    "materials": [],
+    "status": "archived",
+    "photo_count": 0,
+    "price_gbp": null,
+    "thumb": null
+  },
+  {
+    "id": "hunting-jacket",
+    "name": "hunting jacket",
+    "category": "Jacket",
+    "year": "2024",
+    "season": "AW2024",
+    "fabric": null,
+    "colour": null,
+    "materials": [],
+    "status": "archived",
+    "photo_count": 0,
+    "price_gbp": null,
+    "thumb": null
+  },
+  {
+    "id": "t-shirt",
+    "name": "t shirt",
+    "category": "T-Shirt",
+    "year": "2024",
+    "season": "AW2024",
+    "fabric": null,
+    "colour": null,
+    "materials": [],
+    "status": "archived",
+    "photo_count": 0,
+    "price_gbp": null,
+    "thumb": null
+  },
+  {
+    "id": "work-trousers",
+    "name": "work trousers",
+    "category": "Trousers",
+    "year": "2024",
+    "season": "AW2024",
+    "fabric": null,
+    "colour": null,
+    "materials": [],
+    "status": "archived",
+    "photo_count": 0,
+    "price_gbp": null,
+    "thumb": null
+  },
+  {
+    "id": "chough-balmacaan",
+    "name": "Balmacaan in chough",
+    "category": "Coat",
+    "year": "2025",
+    "season": "AW2025",
+    "fabric": null,
+    "colour": null,
+    "materials": [
+      "lambswool",
+      "merino",
+      "tweed",
+      "donegal",
+      "horn"
+    ],
+    "status": "in production",
+    "photo_count": 1,
+    "price_gbp": 710.0,
+    "thumb": "photos/p001.jpg"
+  },
+  {
+    "id": "charcoal-british-warm",
+    "name": "British Warm in charcoal",
+    "category": "Coat",
+    "year": "2025",
+    "season": "AW2025",
+    "fabric": null,
+    "colour": null,
+    "materials": [
+      "merino",
+      "hopsack",
+      "horn",
+      "woollen"
+    ],
+    "status": "in production",
+    "photo_count": 1,
+    "price_gbp": 710.0,
+    "thumb": "photos/p001.jpg"
+  },
+  {
+    "id": "crewneck-jumper-in-charcoal",
+    "name": "Crewneck jumper in charcoal",
+    "category": "Jumper",
+    "year": "2025",
+    "season": "AW2025",
+    "fabric": "charcoal",
+    "colour": null,
+    "materials": [
+      "lambswool"
+    ],
+    "status": "in production",
+    "photo_count": 12,
+    "price_gbp": 430.0,
+    "thumb": "photos/p001.jpg"
+  },
+  {
+    "id": "crewneck-jumper-in-throstle",
+    "name": "Crewneck jumper in throstle",
+    "category": "Jumper",
+    "year": "2025",
+    "season": "AW2025",
+    "fabric": "throstle",
+    "colour": null,
+    "materials": [
+      "lambswool"
+    ],
+    "status": "in production",
+    "photo_count": 19,
+    "price_gbp": 430.0,
+    "thumb": "photos/p001.jpg"
+  },
+  {
+    "id": "dress-trousers-in-black",
+    "name": "Dress trousers in black",
+    "category": "Trousers",
+    "year": "2025",
+    "season": "AW2025",
+    "fabric": "black",
+    "colour": null,
+    "materials": [
+      "cotton",
+      "cord",
+      "bedford",
+      "horn"
+    ],
+    "status": "in production",
+    "photo_count": 1,
+    "price_gbp": 220.0,
+    "thumb": "photos/p001.jpg"
+  },
+  {
+    "id": "dress-trousers-in-black-copy",
+    "name": "Dress trousers in buckwheat",
+    "category": "Trousers",
+    "year": "2025",
+    "season": "AW2025",
+    "fabric": "black copy",
+    "colour": null,
+    "materials": [
+      "cotton",
+      "cord",
+      "bedford",
+      "horn"
+    ],
+    "status": "in production",
+    "photo_count": 1,
+    "price_gbp": 220.0,
+    "thumb": "photos/p001.jpg"
+  },
+  {
+    "id": "dress-trousers-in-lead-grey",
+    "name": "Dress trousers in lead grey",
+    "category": "Trousers",
+    "year": "2025",
+    "season": "AW2025",
+    "fabric": "lead grey",
+    "colour": null,
+    "materials": [
+      "hopsack",
+      "horn",
+      "worsted"
+    ],
+    "status": "in production",
+    "photo_count": 1,
+    "price_gbp": 220.0,
+    "thumb": "photos/p001.jpg"
+  },
+  {
+    "id": "dress-trousers-in-middling-sheep",
+    "name": "Dress trousers in middling sheep",
+    "category": "Trousers",
+    "year": "2025",
+    "season": "AW2025",
+    "fabric": "middling sheep",
+    "colour": null,
+    "materials": [
+      "hopsack",
+      "horn",
+      "worsted"
+    ],
+    "status": "in production",
+    "photo_count": 1,
+    "price_gbp": 220.0,
+    "thumb": "photos/p001.jpg"
+  },
+  {
+    "id": "duffle-coat-in-camel",
+    "name": "Duffle coat in camel",
+    "category": "Coat",
+    "year": "2025",
+    "season": "AW2025",
+    "fabric": "camel",
+    "colour": null,
+    "materials": [
+      "melton",
+      "horn",
+      "woollen",
+      "duffle"
+    ],
+    "status": "in production",
+    "photo_count": 27,
+    "price_gbp": 690.0,
+    "thumb": "photos/p001.jpg"
+  },
+  {
+    "id": "engineer-jacket-in-black",
+    "name": "Engineer jacket in black",
+    "category": "Jacket",
+    "year": "2025",
+    "season": "AW2025",
+    "fabric": "black",
+    "colour": null,
+    "materials": [
+      "cotton",
+      "cord",
+      "bedford",
+      "horn"
+    ],
+    "status": "in production",
+    "photo_count": 1,
+    "price_gbp": 490.0,
+    "thumb": "photos/p001.jpg"
+  },
+  {
+    "id": "harrington-jacket-in-manila",
+    "name": "Harrington jacket in manila",
+    "category": "Jacket",
+    "year": "2025",
+    "season": "AW2025",
+    "fabric": "manila",
+    "colour": null,
+    "materials": [
+      "cotton",
+      "horn"
+    ],
+    "status": "in production",
+    "photo_count": 2,
+    "price_gbp": 500.0,
+    "thumb": "photos/p001.jpg"
+  },
+  {
+    "id": "peacoat-in-camel",
+    "name": "Peacoat in camel",
+    "category": "Coat",
+    "year": "2025",
+    "season": "AW2025",
+    "fabric": "camel",
+    "colour": null,
+    "materials": [],
+    "status": "in production",
+    "photo_count": 16,
+    "price_gbp": 690.0,
+    "thumb": "photos/p001.jpg"
+  },
+  {
+    "id": "khaki-peacoat",
+    "name": "Peacoat in khaki",
+    "category": "Coat",
+    "year": "2025",
+    "season": "AW2025",
+    "fabric": null,
+    "colour": null,
+    "materials": [],
+    "status": "in production",
+    "photo_count": 1,
+    "price_gbp": 690.0,
+    "thumb": "photos/p001.jpg"
+  },
+  {
+    "id": "dark-navy-polo-coat",
+    "name": "Polo coat in dark navy",
+    "category": "Coat",
+    "year": "2025",
+    "season": "AW2025",
+    "fabric": null,
+    "colour": null,
+    "materials": [
+      "tweed"
+    ],
+    "status": "in production",
+    "photo_count": 1,
+    "price_gbp": 680.0,
+    "thumb": "photos/p001.jpg"
+  },
+  {
+    "id": "gift-card",
+    "name": "S.E.H Kelly E-Gift Card",
+    "category": "Gift card",
+    "year": "2025",
+    "season": "AW2025",
+    "fabric": null,
+    "colour": null,
+    "materials": [],
+    "status": "in production",
+    "photo_count": 1,
+    "price_gbp": 25.0,
+    "thumb": "photos/p001.png"
+  },
+  {
+    "id": "sb-jacket-in-lead-grey",
+    "name": "SB jacket in lead grey",
+    "category": "Jacket",
+    "year": "2025",
+    "season": "AW2025",
+    "fabric": "lead grey",
+    "colour": null,
+    "materials": [
+      "wool",
+      "hopsack",
+      "horn",
+      "worsted"
+    ],
+    "status": "in production",
+    "photo_count": 17,
+    "price_gbp": 520.0,
+    "thumb": "photos/p001.jpg"
+  },
+  {
+    "id": "sb-jacket-in-middling-sheep",
+    "name": "SB jacket in middling sheep",
+    "category": "Jacket",
+    "year": "2025",
+    "season": "AW2025",
+    "fabric": "middling sheep",
+    "colour": null,
+    "materials": [
+      "wool",
+      "hopsack",
+      "horn",
+      "worsted"
+    ],
+    "status": "in production",
+    "photo_count": 10,
+    "price_gbp": 520.0,
+    "thumb": "photos/p001.jpg"
+  },
+  {
+    "id": "shawl-cardigan-in-hadal",
+    "name": "Shawl cardigan in hadal",
+    "category": "Cardigan",
+    "year": "2025",
+    "season": "AW2025",
+    "fabric": "hadal",
+    "colour": null,
+    "materials": [
+      "lambswool",
+      "horn"
+    ],
+    "status": "in production",
+    "photo_count": 1,
+    "price_gbp": 540.0,
+    "thumb": "photos/p001.jpg"
+  },
+  {
+    "id": "shawl-cardigan-in-pebble",
+    "name": "Shawl cardigan in pebble",
+    "category": "Cardigan",
+    "year": "2025",
+    "season": "AW2025",
+    "fabric": "pebble",
+    "colour": null,
+    "materials": [
+      "lambswool",
+      "horn"
+    ],
+    "status": "in production",
+    "photo_count": 1,
+    "price_gbp": 540.0,
+    "thumb": "photos/p001.jpg"
+  },
+  {
+    "id": "shirt-in-cotton-needlecord-in-russet",
+    "name": "Shirt in cotton needlecord in russet",
+    "category": "Shirt",
+    "year": "2025",
+    "season": "AW2025",
+    "fabric": "cotton needlecord",
+    "colour": "russet",
+    "materials": [
+      "cotton",
+      "horn"
+    ],
+    "status": "in production",
+    "photo_count": 13,
+    "price_gbp": 180.0,
+    "thumb": "photos/p001.jpg"
+  },
+  {
+    "id": "cosmos-trench-coat",
+    "name": "Trench Coat in cosmos",
+    "category": "Coat",
+    "year": "2025",
+    "season": "AW2025",
+    "fabric": null,
+    "colour": null,
+    "materials": [
+      "ripstop",
+      "horn",
+      "brass"
+    ],
+    "status": "in production",
+    "photo_count": 2,
+    "price_gbp": 710.0,
+    "thumb": "photos/p001.jpg"
+  },
+  {
+    "id": "sand-trench-coat",
+    "name": "Trench Coat in sand",
+    "category": "Coat",
+    "year": "2025",
+    "season": "AW2025",
+    "fabric": null,
+    "colour": null,
+    "materials": [
+      "ripstop",
+      "horn",
+      "brass"
+    ],
+    "status": "in production",
+    "photo_count": 2,
+    "price_gbp": 710.0,
+    "thumb": "photos/p001.jpg"
+  },
+  {
+    "id": "trucker-jacket-in-rust",
+    "name": "Trucker jacket in rust",
+    "category": "Jacket",
+    "year": "2025",
+    "season": "AW2025",
+    "fabric": "rust",
+    "colour": null,
+    "materials": [
+      "corduroy",
+      "horn",
+      "brass"
+    ],
+    "status": "in production",
+    "photo_count": 21,
+    "price_gbp": 520.0,
+    "thumb": "photos/p001.jpg"
+  },
+  {
+    "id": "ulster-in-dunnock",
+    "name": "Ulster in dunnock",
+    "category": "Coat",
+    "year": "2025",
+    "season": "AW2025",
+    "fabric": "dunnock",
+    "colour": null,
+    "materials": [
+      "lambswool",
+      "merino",
+      "tweed",
+      "donegal",
+      "horn"
+    ],
+    "status": "in production",
+    "photo_count": 10,
+    "price_gbp": 790.0,
+    "thumb": "photos/p001.jpg"
+  },
+  {
+    "id": "ulster-in-middling-grey",
+    "name": "Ulster in middling grey",
+    "category": "Coat",
+    "year": "2025",
+    "season": "AW2025",
+    "fabric": "middling grey",
+    "colour": null,
+    "materials": [
+      "tweed"
+    ],
+    "status": "in production",
+    "photo_count": 8,
+    "price_gbp": 790.0,
+    "thumb": "photos/p001.jpg"
+  },
+  {
+    "id": "waistcoat-in-light-sheep",
+    "name": "Waistcoat in light sheep",
+    "category": "Jacket",
+    "year": "2025",
+    "season": "AW2025",
+    "fabric": "light sheep",
+    "colour": null,
+    "materials": [
+      "wool",
+      "tweed"
+    ],
+    "status": "in production",
+    "photo_count": 3,
+    "price_gbp": 225.0,
+    "thumb": "photos/p001.jpg"
+  },
+  {
+    "id": "waistcoat-in-middling-sheep",
+    "name": "Waistcoat in middling sheep",
+    "category": "Jacket",
+    "year": "2025",
+    "season": "AW2025",
+    "fabric": "middling sheep",
+    "colour": null,
+    "materials": [
+      "wool",
+      "tweed"
+    ],
+    "status": "in production",
+    "photo_count": 1,
+    "price_gbp": 225.0,
+    "thumb": "photos/p001.jpg"
+  },
+  {
+    "id": "watch-cap-in-bister",
+    "name": "Watch cap in bister",
+    "category": "Hat",
+    "year": "2025",
+    "season": "AW2025",
+    "fabric": "bister",
+    "colour": null,
+    "materials": [
+      "wool",
+      "merino",
+      "donegal"
+    ],
+    "status": "in production",
+    "photo_count": 1,
+    "price_gbp": 140.0,
+    "thumb": "photos/p001.jpg"
+  },
+  {
+    "id": "watch-cap-in-creag",
+    "name": "Watch cap in creag",
+    "category": "Hat",
+    "year": "2025",
+    "season": "AW2025",
+    "fabric": "creag",
+    "colour": null,
+    "materials": [
+      "wool",
+      "merino",
+      "donegal"
+    ],
+    "status": "in production",
+    "photo_count": 1,
+    "price_gbp": 140.0,
+    "thumb": "photos/p001.jpg"
+  },
+  {
+    "id": "acorn-work-jacket",
+    "name": "Work Jacket in acorn",
+    "category": "Jacket",
+    "year": "2025",
+    "season": "AW2025",
+    "fabric": null,
+    "colour": null,
+    "materials": [
+      "tweed",
+      "hopsack",
+      "horn",
+      "woollen"
+    ],
+    "status": "in production",
+    "photo_count": 8,
+    "price_gbp": 610.0,
+    "thumb": "photos/p001.jpg"
+  },
+  {
+    "id": "conker-work-jacket",
+    "name": "Work Jacket in conker",
+    "category": "Jacket",
+    "year": "2025",
+    "season": "AW2025",
+    "fabric": null,
+    "colour": null,
+    "materials": [
+      "tweed",
+      "hopsack",
+      "horn",
+      "woollen"
+    ],
+    "status": "in production",
+    "photo_count": 1,
+    "price_gbp": 610.0,
+    "thumb": "photos/p001.jpg"
+  },
+  {
+    "id": "anorak-in-hadal-blue",
+    "name": "Anorak in hadal blue",
+    "category": "Raincoat",
+    "year": "2026",
+    "season": "SS2026",
+    "fabric": "hadal blue",
+    "colour": null,
+    "materials": [
+      "cotton",
+      "horn"
+    ],
+    "status": "in production",
+    "photo_count": 1,
+    "price_gbp": 460.0,
+    "thumb": "photos/p001.jpg"
+  },
+  {
+    "id": "anorak-in-manila",
+    "name": "Anorak in manila",
+    "category": "Raincoat",
+    "year": "2026",
+    "season": "SS2026",
+    "fabric": "manila",
+    "colour": null,
+    "materials": [
+      "cotton",
+      "horn"
+    ],
+    "status": "in production",
+    "photo_count": 1,
+    "price_gbp": 460.0,
+    "thumb": "photos/p001.jpg"
+  },
+  {
+    "id": "duster-in-hadal-blue",
+    "name": "Duster in hadal blue",
+    "category": "Coat",
+    "year": "2026",
+    "season": "SS2026",
+    "fabric": "hadal blue",
+    "colour": null,
+    "materials": [
+      "cotton",
+      "horn"
+    ],
+    "status": "in production",
+    "photo_count": 0,
+    "price_gbp": 600.0,
+    "thumb": null
+  },
+  {
+    "id": "field-trousers-in-dark-navy",
+    "name": "Field trousers in dark navy",
+    "category": "Trousers",
+    "year": "2026",
+    "season": "SS2026",
+    "fabric": "dark navy",
+    "colour": null,
+    "materials": [
+      "cotton",
+      "horn"
+    ],
+    "status": "in production",
+    "photo_count": 40,
+    "price_gbp": 220.0,
+    "thumb": "photos/p001.jpg"
+  },
+  {
+    "id": "field-trousers-in-linen-hopsack-in-hadal-blue",
+    "name": "Field trousers in linen hopsack in hadal blue",
+    "category": "Trousers",
+    "year": "2026",
+    "season": "SS2026",
+    "fabric": "linen hopsack",
+    "colour": "hadal blue",
+    "materials": [
+      "linen",
+      "hopsack",
+      "horn"
+    ],
+    "status": "in production",
+    "photo_count": 40,
+    "price_gbp": 220.0,
+    "thumb": "photos/p001.jpg"
+  },
+  {
+    "id": "field-trousers-in-linen-hopsack-in-natural",
+    "name": "Field trousers in linen hopsack in natural",
+    "category": "Trousers",
+    "year": "2026",
+    "season": "SS2026",
+    "fabric": "linen hopsack",
+    "colour": "natural",
+    "materials": [
+      "linen",
+      "hopsack",
+      "horn"
+    ],
+    "status": "in production",
+    "photo_count": 40,
+    "price_gbp": 220.0,
+    "thumb": "photos/p001.jpg"
+  },
+  {
+    "id": "granddad-shirt-in-dove",
+    "name": "Granddad shirt in dove",
+    "category": "Shirt",
+    "year": "2026",
+    "season": "SS2026",
+    "fabric": "dove",
+    "colour": null,
+    "materials": [
+      "wool",
+      "horn"
+    ],
+    "status": "in production",
+    "photo_count": 1,
+    "price_gbp": 210.0,
+    "thumb": "photos/p001.jpg"
+  },
+  {
+    "id": "linen-shirt-in-midnight",
+    "name": "Linen shirt in midnight",
+    "category": "Shirt",
+    "year": "2026",
+    "season": "SS2026",
+    "fabric": "midnight",
+    "colour": null,
+    "materials": [
+      "linen",
+      "horn"
+    ],
+    "status": "in production",
+    "photo_count": 12,
+    "price_gbp": 210.0,
+    "thumb": "photos/p001.jpg"
+  },
+  {
+    "id": "linen-shirt-in-tan",
+    "name": "Linen shirt in tan",
+    "category": "Shirt",
+    "year": "2026",
+    "season": "SS2026",
+    "fabric": "tan",
+    "colour": null,
+    "materials": [
+      "linen",
+      "horn"
+    ],
+    "status": "in production",
+    "photo_count": 26,
+    "price_gbp": 210.0,
+    "thumb": "photos/p001.jpg"
+  },
+  {
+    "id": "linen-poplin-popover-in-manila",
+    "name": "Popover in linen poplin in manila",
+    "category": "Shirt",
+    "year": "2026",
+    "season": "SS2026",
+    "fabric": "manila",
+    "colour": null,
+    "materials": [
+      "linen",
+      "poplin",
+      "horn"
+    ],
+    "status": "in production",
+    "photo_count": 9,
+    "price_gbp": 200.0,
+    "thumb": "photos/p001.jpg"
+  },
+  {
+    "id": "linen-poplin-popover-in-starling",
+    "name": "Popover in linen poplin in starling",
+    "category": "Shirt",
+    "year": "2026",
+    "season": "SS2026",
+    "fabric": "starling",
+    "colour": null,
+    "materials": [
+      "linen",
+      "poplin",
+      "horn"
+    ],
+    "status": "in production",
+    "photo_count": 1,
+    "price_gbp": 200.0,
+    "thumb": "photos/p001.jpg"
+  },
+  {
+    "id": "pyjama-top-in-brambling",
+    "name": "Pyjama top in brambling",
+    "category": "Pyjama top",
+    "year": "2026",
+    "season": "SS2026",
+    "fabric": "brambling",
+    "colour": null,
+    "materials": [
+      "wool",
+      "cashmere",
+      "silk",
+      "horn"
+    ],
+    "status": "in production",
+    "photo_count": 1,
+    "price_gbp": 490.0,
+    "thumb": "photos/p001.jpg"
+  },
+  {
+    "id": "pyjama-top-in-heron",
+    "name": "Pyjama top in heron",
+    "category": "Pyjama top",
+    "year": "2026",
+    "season": "SS2026",
+    "fabric": "heron",
+    "colour": null,
+    "materials": [
+      "wool",
+      "cashmere",
+      "silk",
+      "horn"
+    ],
+    "status": "in production",
+    "photo_count": 1,
+    "price_gbp": 490.0,
+    "thumb": "photos/p001.jpg"
+  },
+  {
+    "id": "linen-hopsack-pyjama-top-in-hadal",
+    "name": "Pyjama top in linen hopsack in hadal",
+    "category": "Pyjama top",
+    "year": "2026",
+    "season": "SS2026",
+    "fabric": "hadal",
+    "colour": null,
+    "materials": [
+      "linen",
+      "hopsack",
+      "horn"
+    ],
+    "status": "in production",
+    "photo_count": 1,
+    "price_gbp": 360.0,
+    "thumb": "photos/p001.jpg"
+  },
+  {
+    "id": "linen-hopsack-pyjama-top-in-malt",
+    "name": "Pyjama top in linen hopsack in malt",
+    "category": "Pyjama top",
+    "year": "2026",
+    "season": "SS2026",
+    "fabric": "malt",
+    "colour": null,
+    "materials": [
+      "linen",
+      "hopsack",
+      "horn"
+    ],
+    "status": "in production",
+    "photo_count": 9,
+    "price_gbp": 360.0,
+    "thumb": "photos/p001.jpg"
+  },
+  {
+    "id": "raincoat-in-cosmos",
+    "name": "Raincoat in cosmos",
+    "category": "Raincoat",
+    "year": "2026",
+    "season": "SS2026",
+    "fabric": "cosmos",
+    "colour": null,
+    "materials": [
+      "ripstop",
+      "horn"
+    ],
+    "status": "in production",
+    "photo_count": 1,
+    "price_gbp": 670.0,
+    "thumb": "photos/p001.jpg"
+  },
+  {
+    "id": "raincoat-in-sand",
+    "name": "Raincoat in sand",
+    "category": "Raincoat",
+    "year": "2026",
+    "season": "SS2026",
+    "fabric": "sand",
+    "colour": null,
+    "materials": [
+      "ripstop",
+      "horn"
+    ],
+    "status": "in production",
+    "photo_count": 13,
+    "price_gbp": 670.0,
+    "thumb": "photos/p001.jpg"
+  },
+  {
+    "id": "sb-jacket-in-linen-hopsack-in-hadal-blue",
+    "name": "SB jacket in linen hopsack in hadal blue",
+    "category": "Jacket",
+    "year": "2026",
+    "season": "SS2026",
+    "fabric": "linen hopsack",
+    "colour": "hadal blue",
+    "materials": [
+      "linen",
+      "hopsack",
+      "horn"
+    ],
+    "status": "in production",
+    "photo_count": 30,
+    "price_gbp": 520.0,
+    "thumb": "photos/p001.jpg"
+  },
+  {
+    "id": "sb-jacket-in-linen-hopsack-in-natural",
+    "name": "SB jacket in linen hopsack in natural",
+    "category": "Jacket",
+    "year": "2026",
+    "season": "SS2026",
+    "fabric": "linen hopsack",
+    "colour": "natural",
+    "materials": [
+      "linen",
+      "hopsack",
+      "horn"
+    ],
+    "status": "in production",
+    "photo_count": 26,
+    "price_gbp": 520.0,
+    "thumb": "photos/p001.jpg"
+  },
+  {
+    "id": "silk-linen-shirt-in-barley",
+    "name": "Silk linen shirt in barley",
+    "category": "Shirt",
+    "year": "2026",
+    "season": "SS2026",
+    "fabric": "barley",
+    "colour": null,
+    "materials": [
+      "linen",
+      "silk",
+      "horn"
+    ],
+    "status": "in production",
+    "photo_count": 1,
+    "price_gbp": 210.0,
+    "thumb": "photos/p001.jpg"
+  },
+  {
+    "id": "silk-linen-shirt-in-chalk",
+    "name": "Silk linen shirt in chalk",
+    "category": "Shirt",
+    "year": "2026",
+    "season": "SS2026",
+    "fabric": "chalk",
+    "colour": null,
+    "materials": [
+      "linen",
+      "silk",
+      "horn"
+    ],
+    "status": "in production",
+    "photo_count": 13,
+    "price_gbp": 210.0,
+    "thumb": "photos/p001.jpg"
+  },
+  {
+    "id": "ring-spun-cotton-t-shirt-in-porridge",
+    "name": "T-shirt in ring-spun cotton in porridge",
+    "category": "T-Shirt",
+    "year": "2026",
+    "season": "SS2026",
+    "fabric": "porridge",
+    "colour": null,
+    "materials": [
+      "cotton"
+    ],
+    "status": "in production",
+    "photo_count": 1,
+    "price_gbp": 230.0,
+    "thumb": "photos/p001.jpg"
+  },
+  {
+    "id": "ring-spun-cotton-t-shirt-in-slate",
+    "name": "T-shirt in ring-spun cotton in slate",
+    "category": "T-Shirt",
+    "year": "2026",
+    "season": "SS2026",
+    "fabric": "slate",
+    "colour": null,
+    "materials": [
+      "cotton"
+    ],
+    "status": "in production",
+    "photo_count": 11,
+    "price_gbp": 230.0,
+    "thumb": "photos/p001.jpg"
+  },
+  {
+    "id": "work-jacket-in-linen-burlap-in-ash",
+    "name": "Work jacket in linen burlap in ash",
+    "category": "Jacket",
+    "year": "2026",
+    "season": "SS2026",
+    "fabric": "linen burlap",
+    "colour": "ash",
+    "materials": [
+      "linen",
+      "horn"
+    ],
+    "status": "in production",
+    "photo_count": 1,
+    "price_gbp": 490.0,
+    "thumb": "photos/p001.jpg"
+  },
+  {
+    "id": "work-jacket-in-linen-burlap-in-linseed",
+    "name": "Work jacket in linen burlap in linseed",
+    "category": "Jacket",
+    "year": "2026",
+    "season": "SS2026",
+    "fabric": "linen burlap",
+    "colour": "linseed",
+    "materials": [
+      "linen",
+      "horn"
+    ],
+    "status": "in production",
+    "photo_count": 1,
+    "price_gbp": 490.0,
+    "thumb": "photos/p001.jpg"
+  }
+]

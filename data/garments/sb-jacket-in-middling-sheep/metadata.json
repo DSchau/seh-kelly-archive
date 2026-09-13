@@ -1,0 +1,129 @@
+{
+  "id": "sb-jacket-in-middling-sheep",
+  "name": "SB jacket in middling sheep",
+  "category": "Jacket",
+  "garment_type": "sb jacket",
+  "fabric": "middling sheep",
+  "colour": null,
+  "colours_offered": [
+    "Middling Sheep"
+  ],
+  "materials": [
+    "wool",
+    "hopsack",
+    "horn",
+    "worsted"
+  ],
+  "release_date": "2025-12-01",
+  "release_estimate": false,
+  "season": "AW2025",
+  "price_gbp": 520.0,
+  "sizes": [
+    "L",
+    "M",
+    "S",
+    "XL",
+    "XS"
+  ],
+  "status": "in production",
+  "description": "Soft and unstructured tailored jacket, made in London, with a sturdy (12oz) yet breathable worsted hopsack from West Yorkshire \u2014 woven with the wool of domestic-breed sheep, no less \u2014 and with dark horn buttons from the Cotswolds.",
+  "product_url": "https://sehkelly.com/products/sb-jacket-in-middling-sheep",
+  "sources": [
+    "sehkelly.com live catalog"
+  ],
+  "thread_links": [],
+  "thread_post_ids": [
+    "post-8897876",
+    "post-9036156",
+    "post-9183367",
+    "post-10049507",
+    "post-10049925",
+    "post-10080547",
+    "post-12206885"
+  ],
+  "first_seen": "2017-06-21",
+  "last_seen": "2025-05-10",
+  "mention_count": 7,
+  "photos": [
+    {
+      "file": "photos/p001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0935/4480/8778/files/SEH_Kelly_SB_Jacket_in_Middling_1.jpg?v=1764592713",
+      "origin": "sehkelly.com",
+      "post_id": null,
+      "date": null,
+      "author": null
+    },
+    {
+      "file": "photos/p002.jpg",
+      "url": "https://www.styleforum.net/attachments/sb-jacket-tropical-worsted-new-mid-sheep-3s-2x-jpg.2378197/",
+      "origin": "styleforum",
+      "post_id": "post-12206885",
+      "date": "2025-05-10",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p003.jpg",
+      "url": "https://www.styleforum.net/attachments/sb-jacket-tropical-worsted-new-mid-sheep-7s-2x-jpg.2378169/",
+      "origin": "styleforum",
+      "post_id": "post-12206885",
+      "date": "2025-05-10",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p004.jpg",
+      "url": "https://www.styleforum.net/attachments/sb-jacket-tropical-worsted-new-mid-sheep-2s-2x-jpg.2378171/",
+      "origin": "styleforum",
+      "post_id": "post-12206885",
+      "date": "2025-05-10",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p005.jpg",
+      "url": "https://www.styleforum.net/attachments/sb-jacket-tropical-worsted-new-mid-sheep-6s-2x-jpg.2378191/",
+      "origin": "styleforum",
+      "post_id": "post-12206885",
+      "date": "2025-05-10",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p006.jpg",
+      "url": "https://www.styleforum.net/attachments/sb-jacket-tropical-worsted-new-mid-sheep-1-2x-jpg.2378173/",
+      "origin": "styleforum",
+      "post_id": "post-12206885",
+      "date": "2025-05-10",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p007.jpg",
+      "url": "https://www.styleforum.net/attachments/sb-jacket-tropical-worsted-new-mid-sheep-17s-2x-jpg.2378175/",
+      "origin": "styleforum",
+      "post_id": "post-12206885",
+      "date": "2025-05-10",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p008.jpg",
+      "url": "https://www.styleforum.net/attachments/sb-jacket-tropical-worsted-new-mid-sheep-5s-2x-jpg.2378193/",
+      "origin": "styleforum",
+      "post_id": "post-12206885",
+      "date": "2025-05-10",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p009.jpg",
+      "url": "https://www.styleforum.net/attachments/sb-jacket-tropical-worsted-new-mid-sheep-4s-2x-jpg.2378195/",
+      "origin": "styleforum",
+      "post_id": "post-12206885",
+      "date": "2025-05-10",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p010.jpg",
+      "url": "https://www.styleforum.net/attachments/20171011full-jpg.856135/",
+      "origin": "styleforum",
+      "post_id": "post-9036156",
+      "date": "2017-10-11",
+      "author": "Patrick R"
+    }
+  ]
+}

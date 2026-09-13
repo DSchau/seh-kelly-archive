@@ -1,0 +1,49 @@
+{
+  "id": "charcoal-british-warm",
+  "name": "British Warm in charcoal",
+  "category": "Coat",
+  "garment_type": "charcoal british warm",
+  "fabric": null,
+  "colour": null,
+  "colours_offered": [
+    "Charcoal"
+  ],
+  "materials": [
+    "merino",
+    "hopsack",
+    "horn",
+    "woollen"
+  ],
+  "release_date": "2025-11-12",
+  "release_estimate": false,
+  "season": "AW2025",
+  "price_gbp": 710.0,
+  "sizes": [
+    "L",
+    "M",
+    "S",
+    "XL",
+    "XS"
+  ],
+  "status": "in production",
+  "description": "Double-breasted tailored overcoat, made in London, with heavy (26oz) merino woollen hopsack from Yorkshire, and buttons made with horn in the Cotswolds.",
+  "product_url": "https://sehkelly.com/products/charcoal-british-warm",
+  "sources": [
+    "sehkelly.com live catalog"
+  ],
+  "thread_links": [],
+  "thread_post_ids": [],
+  "first_seen": null,
+  "last_seen": null,
+  "mention_count": 0,
+  "photos": [
+    {
+      "file": "photos/p001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0935/4480/8778/files/SEHKellyBritishwarmcharcoalAW251.jpg?v=1763332855",
+      "origin": "sehkelly.com",
+      "post_id": null,
+      "date": null,
+      "author": null
+    }
+  ]
+}

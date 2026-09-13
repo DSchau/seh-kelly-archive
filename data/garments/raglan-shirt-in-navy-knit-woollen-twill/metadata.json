@@ -1,0 +1,202 @@
+{
+  "id": "raglan-shirt-in-navy-knit-woollen-twill",
+  "name": "raglan shirt in navy knit woollen twill",
+  "category": "Shirt",
+  "garment_type": "raglan shirt",
+  "fabric": "navy knit woollen twill",
+  "colour": null,
+  "colours_offered": [],
+  "materials": [
+    "twill",
+    "woollen"
+  ],
+  "release_date": "2016-10-10",
+  "release_estimate": true,
+  "season": "AW2016",
+  "price_gbp": null,
+  "sizes": [],
+  "status": "archived",
+  "description": null,
+  "product_url": "https://sehkelly.com/raglan-shirt-in-navy-knit-woollen-twill/",
+  "sources": [
+    "styleforum thread"
+  ],
+  "thread_links": [
+    "http://www.sehkelly.com/raglan-shirt-in-navy-knit-woollen-twill/"
+  ],
+  "thread_post_ids": [
+    "post-8614371",
+    "post-8605206",
+    "post-9080771",
+    "post-9220479",
+    "post-9338501",
+    "post-11692079",
+    "post-11858305",
+    "post-12381577"
+  ],
+  "first_seen": "2016-10-10",
+  "last_seen": "2025-11-17",
+  "mention_count": 8,
+  "photos": [
+    {
+      "file": "photos/p003.jpg",
+      "url": "https://www.styleforum.net/attachments/field-shirt-linen-dark-navy-1-2x-jpg.930297/",
+      "origin": "styleforum",
+      "post_id": "post-9220479",
+      "date": "2018-02-22",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p004.jpg",
+      "url": "https://www.styleforum.net/attachments/field-shirt-linen-dark-green-3-jpg.930296/",
+      "origin": "styleforum",
+      "post_id": "post-9220479",
+      "date": "2018-02-22",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p005.jpg",
+      "url": "https://www.styleforum.net/attachments/field-shirt-linen-dark-navy-2-jpg.930295/",
+      "origin": "styleforum",
+      "post_id": "post-9220479",
+      "date": "2018-02-22",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p006.jpg",
+      "url": "https://www.styleforum.net/attachments/field-shirt-linen-dark-green-9-jpg.930293/",
+      "origin": "styleforum",
+      "post_id": "post-9220479",
+      "date": "2018-02-22",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p007.jpg",
+      "url": "https://www.styleforum.net/attachments/field-shirt-linen-dark-green-4-jpg.930292/",
+      "origin": "styleforum",
+      "post_id": "post-9220479",
+      "date": "2018-02-22",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p008.jpg",
+      "url": "https://www.styleforum.net/attachments/field-shirt-linen-dark-navy-10-jpg.930291/",
+      "origin": "styleforum",
+      "post_id": "post-9220479",
+      "date": "2018-02-22",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p009.jpg",
+      "url": "https://www.styleforum.net/attachments/field-shirt-linen-dark-navy-5-jpg.930294/",
+      "origin": "styleforum",
+      "post_id": "post-9220479",
+      "date": "2018-02-22",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p010.jpg",
+      "url": "https://www.styleforum.net/attachments/sb3-tropical-grey-worn-2-jpg.978153/",
+      "origin": "styleforum",
+      "post_id": "post-9338501",
+      "date": "2018-05-22",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p011.jpg",
+      "url": "https://www.styleforum.net/attachments/sb3-tropical-grey-worn-3-jpg.978154/",
+      "origin": "styleforum",
+      "post_id": "post-9338501",
+      "date": "2018-05-22",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p012.jpg",
+      "url": "https://www.styleforum.net/attachments/sb3-tropical-grey-worn-1-jpg.978155/",
+      "origin": "styleforum",
+      "post_id": "post-9338501",
+      "date": "2018-05-22",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p013.jpg",
+      "url": "https://www.styleforum.net/attachments/duster-cotton-cambric-dark-navy-8s-2x-jpg.2115959/",
+      "origin": "styleforum",
+      "post_id": "post-11692079",
+      "date": "2024-01-22",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p014.jpg",
+      "url": "https://www.styleforum.net/attachments/duster-cotton-cambric-dark-navy-14s-2x-jpg.2115955/",
+      "origin": "styleforum",
+      "post_id": "post-11692079",
+      "date": "2024-01-22",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p015.jpg",
+      "url": "https://www.styleforum.net/attachments/duster-cotton-cambric-dark-navy-20s-2x-jpg.2115951/",
+      "origin": "styleforum",
+      "post_id": "post-11692079",
+      "date": "2024-01-22",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p016.jpg",
+      "url": "https://www.styleforum.net/attachments/duster-cotton-cambric-dark-navy-5s-2x-jpg.2115965/",
+      "origin": "styleforum",
+      "post_id": "post-11692079",
+      "date": "2024-01-22",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p017.jpg",
+      "url": "https://www.styleforum.net/attachments/duster-cotton-cambric-dark-navy-7s-2x-jpg.2115961/",
+      "origin": "styleforum",
+      "post_id": "post-11692079",
+      "date": "2024-01-22",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p018.jpg",
+      "url": "https://www.styleforum.net/attachments/duster-cotton-cambric-dark-navy-9s-2x-jpg.2115969/",
+      "origin": "styleforum",
+      "post_id": "post-11692079",
+      "date": "2024-01-22",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p019.jpg",
+      "url": "https://www.styleforum.net/attachments/duster-cotton-cambric-dark-navy-4s-2x-jpg.2115977/",
+      "origin": "styleforum",
+      "post_id": "post-11692079",
+      "date": "2024-01-22",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p020.jpg",
+      "url": "https://www.styleforum.net/attachments/duster-cotton-cambric-dark-navy-19s-2x-jpg.2115973/",
+      "origin": "styleforum",
+      "post_id": "post-11692079",
+      "date": "2024-01-22",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p021.jpg",
+      "url": "https://www.styleforum.net/attachments/duster-cotton-cambric-dark-navy-11s-2x-jpg.2115949/",
+      "origin": "styleforum",
+      "post_id": "post-11692079",
+      "date": "2024-01-22",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p022.jpg",
+      "url": "https://www.styleforum.net/attachments/2206299/",
+      "origin": "styleforum",
+      "post_id": "post-11858305",
+      "date": "2024-06-28",
+      "author": "hysteria"
+    }
+  ]
+}

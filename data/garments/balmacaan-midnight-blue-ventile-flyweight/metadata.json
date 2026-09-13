@@ -1,0 +1,34 @@
+{
+  "id": "balmacaan-midnight-blue-ventile-flyweight",
+  "name": "balmacaan midnight blue ventile flyweight",
+  "category": "Coat",
+  "garment_type": "balmacaan midnight blue ventile flyweight",
+  "fabric": null,
+  "colour": null,
+  "colours_offered": [],
+  "materials": [
+    "ventile"
+  ],
+  "release_date": "2017-03-28",
+  "release_estimate": true,
+  "season": "SS2017",
+  "price_gbp": null,
+  "sizes": [],
+  "status": "archived",
+  "description": null,
+  "product_url": "https://sehkelly.com/balmacaan-midnight-blue-ventile-flyweight/",
+  "sources": [
+    "styleforum thread"
+  ],
+  "thread_links": [
+    "http://sehkelly.com/balmacaan-midnight-blue-ventile-flyweight/"
+  ],
+  "thread_post_ids": [
+    "post-8816832",
+    "post-8823757"
+  ],
+  "first_seen": "2017-03-28",
+  "last_seen": "2017-04-02",
+  "mention_count": 2,
+  "photos": []
+}

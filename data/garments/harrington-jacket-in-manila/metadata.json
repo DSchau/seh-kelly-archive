@@ -1,0 +1,64 @@
+{
+  "id": "harrington-jacket-in-manila",
+  "name": "Harrington jacket in manila",
+  "category": "Jacket",
+  "garment_type": "harrington jacket",
+  "fabric": "manila",
+  "colour": null,
+  "colours_offered": [
+    "Manila"
+  ],
+  "materials": [
+    "cotton",
+    "horn"
+  ],
+  "release_date": "2025-12-01",
+  "release_estimate": false,
+  "season": "AW2025",
+  "price_gbp": 500.0,
+  "sizes": [
+    "L",
+    "M",
+    "S",
+    "XL",
+    "XS"
+  ],
+  "status": "in production",
+  "description": "Short, casual jacket, made in London, with lightweight (6oz) weatherproof cotton from Scotland, and horn buttons from the Cotswolds.",
+  "product_url": "https://sehkelly.com/products/harrington-jacket-in-manila",
+  "sources": [
+    "sehkelly.com live catalog"
+  ],
+  "thread_links": [],
+  "thread_post_ids": [
+    "post-12143089",
+    "post-12143099",
+    "post-12143201",
+    "post-12157895",
+    "post-12530121",
+    "post-12530907",
+    "post-12536895",
+    "post-12546809"
+  ],
+  "first_seen": "2025-03-12",
+  "last_seen": "2026-05-07",
+  "mention_count": 8,
+  "photos": [
+    {
+      "file": "photos/p001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0935/4480/8778/files/SEH_Kelly_Harrington_Jacket_in_Manila_1.jpg?v=1764284378",
+      "origin": "sehkelly.com",
+      "post_id": null,
+      "date": null,
+      "author": null
+    },
+    {
+      "file": "photos/p002.jpg",
+      "url": "http://sehkelly.com/cdn/shop/files/SEH_Kelly_Harrington_Jacket_in_Manila_1.jpg?v=1764284378",
+      "origin": "styleforum",
+      "post_id": "post-12530121",
+      "date": "2026-04-19",
+      "author": "Iskander"
+    }
+  ]
+}

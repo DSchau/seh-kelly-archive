@@ -1,0 +1,46 @@
+{
+  "id": "ring-spun-cotton-t-shirt-in-porridge",
+  "name": "T-shirt in ring-spun cotton in porridge",
+  "category": "T-Shirt",
+  "garment_type": "ring spun cotton t shirt",
+  "fabric": "porridge",
+  "colour": null,
+  "colours_offered": [
+    "Porridge"
+  ],
+  "materials": [
+    "cotton"
+  ],
+  "release_date": "2026-05-18",
+  "release_estimate": false,
+  "season": "SS2026",
+  "price_gbp": 230.0,
+  "sizes": [
+    "L",
+    "M",
+    "S",
+    "XL",
+    "XS"
+  ],
+  "status": "in production",
+  "description": "T-shirt \u2014 if only there was a better name \u2014 hand-framed and fully-fashioned with ring-spun cotton in the south-west of the British Isles.",
+  "product_url": "https://sehkelly.com/products/ring-spun-cotton-t-shirt-in-porridge",
+  "sources": [
+    "sehkelly.com live catalog"
+  ],
+  "thread_links": [],
+  "thread_post_ids": [],
+  "first_seen": null,
+  "last_seen": null,
+  "mention_count": 0,
+  "photos": [
+    {
+      "file": "photos/p001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0935/4480/8778/files/knitted-tshirt-beige_1.jpg?v=1779095281",
+      "origin": "sehkelly.com",
+      "post_id": null,
+      "date": null,
+      "author": null
+    }
+  ]
+}

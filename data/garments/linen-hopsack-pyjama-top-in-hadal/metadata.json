@@ -1,0 +1,53 @@
+{
+  "id": "linen-hopsack-pyjama-top-in-hadal",
+  "name": "Pyjama top in linen hopsack in hadal",
+  "category": "Pyjama top",
+  "garment_type": "linen hopsack pyjama top",
+  "fabric": "hadal",
+  "colour": null,
+  "colours_offered": [
+    "Hadal"
+  ],
+  "materials": [
+    "linen",
+    "hopsack",
+    "horn"
+  ],
+  "release_date": "2026-05-18",
+  "release_estimate": false,
+  "season": "SS2026",
+  "price_gbp": 360.0,
+  "sizes": [
+    "L",
+    "M",
+    "S",
+    "XL",
+    "XS"
+  ],
+  "status": "in production",
+  "description": "Four-button jacket, made in London, with mid-weight (10oz) linen from a mill in Northern Ireland, and horn buttons from the Cotswolds.",
+  "product_url": "https://sehkelly.com/products/linen-hopsack-pyjama-top-in-hadal",
+  "sources": [
+    "sehkelly.com live catalog"
+  ],
+  "thread_links": [],
+  "thread_post_ids": [
+    "post-12123853",
+    "post-12123873",
+    "post-12157895",
+    "post-12536895"
+  ],
+  "first_seen": "2025-02-23",
+  "last_seen": "2026-04-26",
+  "mention_count": 4,
+  "photos": [
+    {
+      "file": "photos/p001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0935/4480/8778/files/pyjama-jacket_navy_1.jpg?v=1779094649",
+      "origin": "sehkelly.com",
+      "post_id": null,
+      "date": null,
+      "author": null
+    }
+  ]
+}

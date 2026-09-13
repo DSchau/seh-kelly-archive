@@ -1,0 +1,238 @@
+{
+  "id": "trucker-jacket-in-rust",
+  "name": "Trucker jacket in rust",
+  "category": "Jacket",
+  "garment_type": "trucker jacket",
+  "fabric": "rust",
+  "colour": null,
+  "colours_offered": [
+    "Rust"
+  ],
+  "materials": [
+    "corduroy",
+    "horn",
+    "brass"
+  ],
+  "release_date": "2025-12-01",
+  "release_estimate": false,
+  "season": "AW2025",
+  "price_gbp": 520.0,
+  "sizes": [
+    "L",
+    "M",
+    "S",
+    "XL",
+    "XS"
+  ],
+  "status": "in production",
+  "description": "Six-button jacket, made in London, with heavyweight (14oz) corduroy from a mill in Lancashire, horn buttons from the Cotswolds, and brass loops from the West Midlands.",
+  "product_url": "https://sehkelly.com/products/trucker-jacket-in-rust",
+  "sources": [
+    "sehkelly.com live catalog"
+  ],
+  "thread_links": [],
+  "thread_post_ids": [
+    "post-10300913",
+    "post-11107101",
+    "post-11120922",
+    "post-11120930",
+    "post-11152528",
+    "post-11152957",
+    "post-11183580",
+    "post-11193950",
+    "post-11195598",
+    "post-11195616",
+    "post-11593737",
+    "post-11884081",
+    "post-11884145",
+    "post-11902045",
+    "post-11928947",
+    "post-12355999",
+    "post-12356043",
+    "post-12363687",
+    "post-12410601",
+    "post-12410647",
+    "post-12410693",
+    "post-12411663",
+    "post-12432351",
+    "post-12445819",
+    "post-12500187",
+    "post-12663527",
+    "post-12664793",
+    "post-12664998",
+    "post-12666490"
+  ],
+  "first_seen": "2020-07-22",
+  "last_seen": "2026-09-10",
+  "mention_count": 29,
+  "photos": [
+    {
+      "file": "photos/p001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0935/4480/8778/files/SEHKellytruckejacketinrust1.jpg?v=1764201860",
+      "origin": "sehkelly.com",
+      "post_id": null,
+      "date": null,
+      "author": null
+    },
+    {
+      "file": "photos/p002.jpg",
+      "url": "https://www.styleforum.net/attachments/slim-trousers-cotton-sail-cloth-umber-9s-2x-jpg.1428491/",
+      "origin": "styleforum",
+      "post_id": "post-10300913",
+      "date": "2020-07-22",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p003.jpg",
+      "url": "https://www.styleforum.net/attachments/slim-trousers-cotton-sail-cloth-umber-6s-2x-jpg.1428492/",
+      "origin": "styleforum",
+      "post_id": "post-10300913",
+      "date": "2020-07-22",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p004.jpg",
+      "url": "https://www.styleforum.net/attachments/slim-trousers-cotton-sail-cloth-umber-3s-2x-jpg.1428493/",
+      "origin": "styleforum",
+      "post_id": "post-10300913",
+      "date": "2020-07-22",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p005.jpg",
+      "url": "https://www.styleforum.net/attachments/slim-trousers-cotton-sail-cloth-umber-2s-2x-jpg.1428494/",
+      "origin": "styleforum",
+      "post_id": "post-10300913",
+      "date": "2020-07-22",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p006.jpg",
+      "url": "https://www.styleforum.net/attachments/slim-trousers-cotton-sail-cloth-navy-10s-2x-jpg.1428495/",
+      "origin": "styleforum",
+      "post_id": "post-10300913",
+      "date": "2020-07-22",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p007.jpg",
+      "url": "https://www.styleforum.net/attachments/slim-trousers-cotton-sail-cloth-navy-7s-2x-jpg.1428496/",
+      "origin": "styleforum",
+      "post_id": "post-10300913",
+      "date": "2020-07-22",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p008.jpg",
+      "url": "https://www.styleforum.net/attachments/slim-trousers-cotton-sail-cloth-navy-6s-2x-jpg.1428497/",
+      "origin": "styleforum",
+      "post_id": "post-10300913",
+      "date": "2020-07-22",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p009.jpg",
+      "url": "https://www.styleforum.net/attachments/slim-trousers-cotton-sail-cloth-navy-2s-2x-jpg.1428498/",
+      "origin": "styleforum",
+      "post_id": "post-10300913",
+      "date": "2020-07-22",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p010.jpg",
+      "url": "https://www.styleforum.net/attachments/slim-trousers-bedford-cord-olive-13s-2x-jpg.1428499/",
+      "origin": "styleforum",
+      "post_id": "post-10300913",
+      "date": "2020-07-22",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p011.jpg",
+      "url": "https://www.styleforum.net/attachments/slim-trousers-bedford-cord-black-10s-2x-jpg.1428500/",
+      "origin": "styleforum",
+      "post_id": "post-10300913",
+      "date": "2020-07-22",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p012.jpg",
+      "url": "https://www.styleforum.net/attachments/slim-trousers-bedford-cord-black-8s-2x-jpg.1428501/",
+      "origin": "styleforum",
+      "post_id": "post-10300913",
+      "date": "2020-07-22",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p013.jpg",
+      "url": "https://www.styleforum.net/attachments/slim-trousers-bedford-cord-black-5s-2x-jpg.1428502/",
+      "origin": "styleforum",
+      "post_id": "post-10300913",
+      "date": "2020-07-22",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p014.jpg",
+      "url": "https://www.styleforum.net/attachments/slim-trousers-bedford-cord-black-4s-2x-jpg.1428503/",
+      "origin": "styleforum",
+      "post_id": "post-10300913",
+      "date": "2020-07-22",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p015.jpg",
+      "url": "https://www.styleforum.net/attachments/slim-trousers-bedford-cord-olive-10s-2x-jpg.1428504/",
+      "origin": "styleforum",
+      "post_id": "post-10300913",
+      "date": "2020-07-22",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p016.jpg",
+      "url": "https://www.styleforum.net/attachments/trucker-jacket-heavy-corduroy-dark-brown-2s-2x-jpg.1845236/",
+      "origin": "styleforum",
+      "post_id": "post-11193950",
+      "date": "2022-10-17",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p017.jpg",
+      "url": "https://www.styleforum.net/attachments/trucker-jacket-heavy-corduroy-rust-2s-2x-jpg.1845237/",
+      "origin": "styleforum",
+      "post_id": "post-11193950",
+      "date": "2022-10-17",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p018.jpg",
+      "url": "https://www.styleforum.net/attachments/trucker-jacket-heavy-corduroy-dark-brown-3s-2x-jpg.1845239/",
+      "origin": "styleforum",
+      "post_id": "post-11193950",
+      "date": "2022-10-17",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p019.jpg",
+      "url": "https://www.styleforum.net/attachments/2059939/",
+      "origin": "styleforum",
+      "post_id": "post-11593737",
+      "date": "2023-11-01",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p020.jpg",
+      "url": "https://www.styleforum.net/data/attachments/2506/2506477-f5402415efce4cb624f4bc0edc85d46a.jpg",
+      "origin": "styleforum",
+      "post_id": "post-12445819",
+      "date": "2026-01-22",
+      "author": "YoungM"
+    },
+    {
+      "file": "photos/p021.jpg",
+      "url": "https://www.styleforum.net/attachments/sehk1-jpg.2506465/",
+      "origin": "styleforum",
+      "post_id": "post-12445819",
+      "date": "2026-01-22",
+      "author": "YoungM"
+    }
+  ]
+}

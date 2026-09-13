@@ -1,0 +1,444 @@
+{
+  "id": "ulster-in-herdwick-tweed-in-light-sheep",
+  "name": "ulster in herdwick tweed in light sheep",
+  "category": "Coat",
+  "garment_type": "ulster",
+  "fabric": "herdwick tweed",
+  "colour": "light sheep",
+  "colours_offered": [],
+  "materials": [
+    "tweed"
+  ],
+  "release_date": "2023-06-15",
+  "release_estimate": true,
+  "season": "SS2023",
+  "price_gbp": null,
+  "sizes": [],
+  "status": "archived",
+  "description": null,
+  "product_url": "https://sehkelly.com/ulster-in-herdwick-tweed-in-light-sheep/",
+  "sources": [
+    "styleforum thread"
+  ],
+  "thread_links": [
+    "https://www.sehkelly.com/ulster-in-herdwick-tweed-in-light-sheep/"
+  ],
+  "thread_post_ids": [
+    "post-11749125",
+    "post-11438877",
+    "post-11438889",
+    "post-11438923",
+    "post-11438935",
+    "post-11450175",
+    "post-11450187",
+    "post-11452037",
+    "post-11452125",
+    "post-11452139",
+    "post-11452165",
+    "post-11511961",
+    "post-11565797",
+    "post-11565871",
+    "post-11565873",
+    "post-11569695",
+    "post-11570465",
+    "post-11572259",
+    "post-11572329",
+    "post-11572365",
+    "post-11573795",
+    "post-11573995",
+    "post-11574013",
+    "post-11574069",
+    "post-11575787",
+    "post-11579001",
+    "post-11648329",
+    "post-11648367",
+    "post-11648391",
+    "post-11928359",
+    "post-11928581",
+    "post-11954069",
+    "post-11956283",
+    "post-11963067",
+    "post-11963125",
+    "post-11963457",
+    "post-11981823",
+    "post-11983575",
+    "post-11983585",
+    "post-11989469",
+    "post-11989489",
+    "post-12038401",
+    "post-12044011",
+    "post-12048979",
+    "post-12080553",
+    "post-12083031",
+    "post-12083461",
+    "post-12115517",
+    "post-12149689",
+    "post-12149701",
+    "post-12150141",
+    "post-12229965",
+    "post-12311249",
+    "post-12312697",
+    "post-12314219",
+    "post-12316883",
+    "post-12337439",
+    "post-12356325",
+    "post-12356671",
+    "post-12356753",
+    "post-12367641",
+    "post-12367647",
+    "post-12368189",
+    "post-12370243",
+    "post-12370289",
+    "post-12372417",
+    "post-12374707",
+    "post-12381683",
+    "post-12385017",
+    "post-12385229",
+    "post-12388787",
+    "post-12388825",
+    "post-12391029",
+    "post-12392201",
+    "post-12393079",
+    "post-12393091",
+    "post-12393431",
+    "post-12394301",
+    "post-12394319",
+    "post-12394449",
+    "post-12403433",
+    "post-12403485",
+    "post-12403797",
+    "post-12405509",
+    "post-12412023",
+    "post-12418465",
+    "post-12449063",
+    "post-12461231",
+    "post-12482901",
+    "post-12483681",
+    "post-12505883",
+    "post-12505885",
+    "post-12505917",
+    "post-12512201",
+    "post-12512753",
+    "post-12540789",
+    "post-12639156",
+    "post-12639176",
+    "post-12664938"
+  ],
+  "first_seen": "2023-06-15",
+  "last_seen": "2026-09-09",
+  "mention_count": 99,
+  "photos": [
+    {
+      "file": "photos/p001.jpg",
+      "url": "https://www.styleforum.net/attachments/ulster-shetland-brown-hanging-1-2x-jpg.1981359/",
+      "origin": "styleforum",
+      "post_id": "post-11452037",
+      "date": "2023-06-27",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p002.jpg",
+      "url": "https://www.styleforum.net/attachments/ulster-herdwick-stand-factory-1-2x-jpg.2043523/",
+      "origin": "styleforum",
+      "post_id": "post-11565797",
+      "date": "2023-10-09",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p003.jpg",
+      "url": "https://www.styleforum.net/attachments/ulster-herdwick-stand-factory-3-2x-jpg.2043525/",
+      "origin": "styleforum",
+      "post_id": "post-11565797",
+      "date": "2023-10-09",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p004.jpg",
+      "url": "https://www.styleforum.net/attachments/ulster-herdwick-stand-factory-2s-2x-jpg.2043529/",
+      "origin": "styleforum",
+      "post_id": "post-11565797",
+      "date": "2023-10-09",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p005.jpg",
+      "url": "https://www.styleforum.net/attachments/ulster-coat-herdwick-tweed-light-sheep-3s-2x-jpg.2048513/",
+      "origin": "styleforum",
+      "post_id": "post-11573795",
+      "date": "2023-10-15",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p006.jpg",
+      "url": "https://www.styleforum.net/attachments/ulster-coat-herdwick-tweed-light-sheep-11s-2x-jpg.2048515/",
+      "origin": "styleforum",
+      "post_id": "post-11573795",
+      "date": "2023-10-15",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p007.jpg",
+      "url": "https://www.styleforum.net/attachments/ulster-coat-herdwick-tweed-light-sheep-10s-2x-jpg.2048517/",
+      "origin": "styleforum",
+      "post_id": "post-11573795",
+      "date": "2023-10-15",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p008.jpg",
+      "url": "https://www.styleforum.net/attachments/ulster-coat-herdwick-tweed-light-sheep-9s-2x-jpg.2048519/",
+      "origin": "styleforum",
+      "post_id": "post-11573795",
+      "date": "2023-10-15",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p009.jpg",
+      "url": "https://www.styleforum.net/attachments/ulster-coat-herdwick-tweed-light-sheep-8s-2x-jpg.2048521/",
+      "origin": "styleforum",
+      "post_id": "post-11573795",
+      "date": "2023-10-15",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p010.jpg",
+      "url": "https://www.styleforum.net/attachments/ulster-coat-herdwick-tweed-light-sheep-5s-2x-jpg.2048525/",
+      "origin": "styleforum",
+      "post_id": "post-11573795",
+      "date": "2023-10-15",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p011.jpg",
+      "url": "https://www.styleforum.net/attachments/ulster-coat-herdwick-tweed-light-sheep-2s-2x-jpg.2048527/",
+      "origin": "styleforum",
+      "post_id": "post-11573795",
+      "date": "2023-10-15",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p012.jpg",
+      "url": "https://www.styleforum.net/attachments/ulster-coat-herdwick-tweed-light-sheep-7s-2x-jpg.2048529/",
+      "origin": "styleforum",
+      "post_id": "post-11573795",
+      "date": "2023-10-15",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p013.jpg",
+      "url": "https://www.styleforum.net/attachments/ulster-coat-herdwick-tweed-light-sheep-4s-2x-jpg.2048531/",
+      "origin": "styleforum",
+      "post_id": "post-11573795",
+      "date": "2023-10-15",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p014.jpg",
+      "url": "https://www.styleforum.net/attachments/ulster-coat-herdwick-tweed-light-sheep-1-2x-jpg.2048535/",
+      "origin": "styleforum",
+      "post_id": "post-11573795",
+      "date": "2023-10-15",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p015.jpg",
+      "url": "https://www.styleforum.net/attachments/peacoat-heavy-melton-wool-camel-3s-2x-jpg.2049635/",
+      "origin": "styleforum",
+      "post_id": "post-11575787",
+      "date": "2023-10-17",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p016.jpg",
+      "url": "https://www.styleforum.net/attachments/peacoat-heavy-melton-wool-camel-12s-2x-jpg.2049623/",
+      "origin": "styleforum",
+      "post_id": "post-11575787",
+      "date": "2023-10-17",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p017.jpg",
+      "url": "https://www.styleforum.net/attachments/peacoat-heavy-melton-wool-camel-2s-2x-jpg.2049637/",
+      "origin": "styleforum",
+      "post_id": "post-11575787",
+      "date": "2023-10-17",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p018.jpg",
+      "url": "https://www.styleforum.net/attachments/peacoat-heavy-melton-wool-camel-11s-2x-jpg.2049625/",
+      "origin": "styleforum",
+      "post_id": "post-11575787",
+      "date": "2023-10-17",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p019.jpg",
+      "url": "https://www.styleforum.net/attachments/peacoat-heavy-melton-wool-camel-5s-2x-jpg.2049631/",
+      "origin": "styleforum",
+      "post_id": "post-11575787",
+      "date": "2023-10-17",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p020.jpg",
+      "url": "https://www.styleforum.net/attachments/peacoat-heavy-melton-wool-camel-9s-2x-jpg.2049627/",
+      "origin": "styleforum",
+      "post_id": "post-11575787",
+      "date": "2023-10-17",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p021.jpg",
+      "url": "https://www.styleforum.net/attachments/peacoat-heavy-melton-wool-camel-4s-2x-jpg.2049633/",
+      "origin": "styleforum",
+      "post_id": "post-11575787",
+      "date": "2023-10-17",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p022.jpg",
+      "url": "https://www.styleforum.net/attachments/watch-cap-donegal-merino-lambswool-moorland-brown-2s-2x-jpg.2253853/",
+      "origin": "styleforum",
+      "post_id": "post-11954069",
+      "date": "2024-09-28",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p023.jpg",
+      "url": "https://www.styleforum.net/attachments/watch-cap-donegal-merino-lambswool-moorland-brown-5s-2x-jpg.2253855/",
+      "origin": "styleforum",
+      "post_id": "post-11954069",
+      "date": "2024-09-28",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p024.jpg",
+      "url": "https://www.styleforum.net/attachments/watch-cap-donegal-merino-lambswool-moorland-brown-4s-2x-jpg.2253857/",
+      "origin": "styleforum",
+      "post_id": "post-11954069",
+      "date": "2024-09-28",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p025.jpg",
+      "url": "https://www.styleforum.net/attachments/watch-cap-donegal-merino-lambswool-moorland-brown-3s-2x-jpg.2253859/",
+      "origin": "styleforum",
+      "post_id": "post-11954069",
+      "date": "2024-09-28",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p026.jpg",
+      "url": "https://www.styleforum.net/attachments/watch-cap-donegal-merino-lambswool-moorland-brown-6s-2x-jpg.2253861/",
+      "origin": "styleforum",
+      "post_id": "post-11954069",
+      "date": "2024-09-28",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p027.png",
+      "url": "https://www.styleforum.net/attachments/2484705/",
+      "origin": "styleforum",
+      "post_id": "post-12405509",
+      "date": "2025-12-11",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p028.png",
+      "url": "https://www.styleforum.net/attachments/2484713/",
+      "origin": "styleforum",
+      "post_id": "post-12405509",
+      "date": "2025-12-11",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p029.png",
+      "url": "https://www.styleforum.net/attachments/2484707/",
+      "origin": "styleforum",
+      "post_id": "post-12405509",
+      "date": "2025-12-11",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p030.png",
+      "url": "https://www.styleforum.net/attachments/2484723/",
+      "origin": "styleforum",
+      "post_id": "post-12405509",
+      "date": "2025-12-11",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p031.jpg",
+      "url": "https://www.styleforum.net/attachments/1981359/",
+      "origin": "styleforum",
+      "post_id": "post-11452125",
+      "date": "2023-06-27",
+      "author": "Shetterd"
+    },
+    {
+      "file": "photos/p032.jpg",
+      "url": "https://sehkelly.com/cdn/shop/files/SEHKellyUlsterinmiddlinggrey1.jpg?v=1764278459&width=2000",
+      "origin": "styleforum",
+      "post_id": "post-12393431",
+      "date": "2025-11-29",
+      "author": "Kaspini"
+    },
+    {
+      "file": "photos/p034.png",
+      "url": "https://www.styleforum.net/attachments/image-1-png.2484705/",
+      "origin": "styleforum",
+      "post_id": "post-12403797",
+      "date": "2025-12-09",
+      "author": "castorsia"
+    },
+    {
+      "file": "photos/p035.png",
+      "url": "https://www.styleforum.net/attachments/b8bd242b-76ee-415b-88a0-40a4db50cf3d-png.2484713/",
+      "origin": "styleforum",
+      "post_id": "post-12403797",
+      "date": "2025-12-09",
+      "author": "castorsia"
+    },
+    {
+      "file": "photos/p036.png",
+      "url": "https://www.styleforum.net/attachments/image-2-png.2484707/",
+      "origin": "styleforum",
+      "post_id": "post-12403797",
+      "date": "2025-12-09",
+      "author": "castorsia"
+    },
+    {
+      "file": "photos/p037.png",
+      "url": "https://www.styleforum.net/attachments/image-3-png.2484723/",
+      "origin": "styleforum",
+      "post_id": "post-12403797",
+      "date": "2025-12-09",
+      "author": "castorsia"
+    },
+    {
+      "file": "photos/p038.png",
+      "url": "https://www.styleforum.net/attachments/2488755/",
+      "origin": "styleforum",
+      "post_id": "post-12412023",
+      "date": "2025-12-17",
+      "author": "MC99"
+    },
+    {
+      "file": "photos/p039.png",
+      "url": "https://www.styleforum.net/attachments/2488753/",
+      "origin": "styleforum",
+      "post_id": "post-12412023",
+      "date": "2025-12-17",
+      "author": "MC99"
+    },
+    {
+      "file": "photos/p040.png",
+      "url": "https://www.styleforum.net/data/assets/logo/sf-icon-192.png",
+      "origin": "styleforum",
+      "post_id": "post-12482901",
+      "date": "2026-02-27",
+      "author": "Mousecop95"
+    }
+  ]
+}

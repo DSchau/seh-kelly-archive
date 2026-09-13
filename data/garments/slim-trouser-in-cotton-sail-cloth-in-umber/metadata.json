@@ -1,0 +1,402 @@
+{
+  "id": "slim-trouser-in-cotton-sail-cloth-in-umber",
+  "name": "slim trouser in cotton sail cloth in umber",
+  "category": "Trousers",
+  "garment_type": "slim trouser",
+  "fabric": "cotton sail cloth",
+  "colour": "umber",
+  "colours_offered": [],
+  "materials": [
+    "cotton",
+    "sail cloth"
+  ],
+  "release_date": "2017-08-26",
+  "release_estimate": true,
+  "season": "AW2017",
+  "price_gbp": null,
+  "sizes": [],
+  "status": "archived",
+  "description": null,
+  "product_url": "https://sehkelly.com/slim-trouser-in-cotton-sail-cloth-in-umber/",
+  "sources": [
+    "styleforum thread"
+  ],
+  "thread_links": [
+    "https://www.sehkelly.com/slim-trouser-in-cotton-sail-cloth-in-umber/"
+  ],
+  "thread_post_ids": [
+    "post-10321284",
+    "post-10373444",
+    "post-8984878",
+    "post-8985730",
+    "post-8987384",
+    "post-9183367",
+    "post-9190109",
+    "post-9270931",
+    "post-9712011",
+    "post-9775228",
+    "post-9787546",
+    "post-9918433",
+    "post-9918643",
+    "post-10054854",
+    "post-10113453",
+    "post-10279764",
+    "post-10300913",
+    "post-10384748",
+    "post-10425735",
+    "post-10539852",
+    "post-10545090",
+    "post-10564741",
+    "post-10589189",
+    "post-10597380",
+    "post-10597501",
+    "post-10619587",
+    "post-10619681",
+    "post-10721399",
+    "post-10949280",
+    "post-11016063",
+    "post-11016164",
+    "post-11083102",
+    "post-11083107",
+    "post-11083159",
+    "post-11083945",
+    "post-11122583",
+    "post-11122686",
+    "post-11157768",
+    "post-11158074",
+    "post-11162375",
+    "post-11162901",
+    "post-11209755",
+    "post-11209775",
+    "post-11216751",
+    "post-11216775",
+    "post-11290591",
+    "post-11290595",
+    "post-11889731"
+  ],
+  "first_seen": "2017-08-26",
+  "last_seen": "2024-07-31",
+  "mention_count": 48,
+  "photos": [
+    {
+      "file": "photos/p001.jpg",
+      "url": "https://www.styleforum.net/attachments/proper-trouser-cotton-airweave-navy-6s-2x-jpg.1183414/",
+      "origin": "styleforum",
+      "post_id": "post-9775228",
+      "date": "2019-05-28",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p002.jpg",
+      "url": "https://www.styleforum.net/attachments/proper-trouser-cotton-airweave-navy-11s-2x-jpg.1183415/",
+      "origin": "styleforum",
+      "post_id": "post-9775228",
+      "date": "2019-05-28",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p003.jpg",
+      "url": "https://www.styleforum.net/attachments/proper-trouser-cotton-airweave-olive-2s-2x-jpg.1183416/",
+      "origin": "styleforum",
+      "post_id": "post-9775228",
+      "date": "2019-05-28",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p004.jpg",
+      "url": "https://www.styleforum.net/attachments/proper-trouser-cotton-airweave-olive-4s-2x-jpg.1183417/",
+      "origin": "styleforum",
+      "post_id": "post-9775228",
+      "date": "2019-05-28",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p005.jpg",
+      "url": "https://www.styleforum.net/attachments/proper-trouser-cotton-airweave-olive-7s-2x-jpg.1183418/",
+      "origin": "styleforum",
+      "post_id": "post-9775228",
+      "date": "2019-05-28",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p006.jpg",
+      "url": "https://www.styleforum.net/attachments/proper-trouser-cotton-airweave-olive-9s-2x-jpg.1183419/",
+      "origin": "styleforum",
+      "post_id": "post-9775228",
+      "date": "2019-05-28",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p007.jpg",
+      "url": "https://www.styleforum.net/attachments/proper-trouser-tropical-worsted-grey-2s-2x-jpg.1183423/",
+      "origin": "styleforum",
+      "post_id": "post-9775228",
+      "date": "2019-05-28",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p008.jpg",
+      "url": "https://www.styleforum.net/attachments/proper-trouser-tropical-worsted-midnight-7-2x-jpg.1183422/",
+      "origin": "styleforum",
+      "post_id": "post-9775228",
+      "date": "2019-05-28",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p009.jpg",
+      "url": "https://www.styleforum.net/attachments/proper-trouser-tropical-worsted-midnight-9s-2x-jpg.1183420/",
+      "origin": "styleforum",
+      "post_id": "post-9775228",
+      "date": "2019-05-28",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p010.jpg",
+      "url": "https://www.styleforum.net/attachments/proper-trouser-tropical-worsted-grey-11s-2x-jpg.1183424/",
+      "origin": "styleforum",
+      "post_id": "post-9775228",
+      "date": "2019-05-28",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p011.jpg",
+      "url": "https://www.styleforum.net/attachments/proper-trouser-tropical-worsted-midnight-5s-2x-jpg.1183421/",
+      "origin": "styleforum",
+      "post_id": "post-9775228",
+      "date": "2019-05-28",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p012.jpg",
+      "url": "https://www.styleforum.net/attachments/slim-trouser-cavalry-twill-stone-6s-2x-jpg.1183427/",
+      "origin": "styleforum",
+      "post_id": "post-9775228",
+      "date": "2019-05-28",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p013.jpg",
+      "url": "https://www.styleforum.net/attachments/slim-trouser-cavalry-twill-midnight-blue-2s-2x-jpg.1183425/",
+      "origin": "styleforum",
+      "post_id": "post-9775228",
+      "date": "2019-05-28",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p014.jpg",
+      "url": "https://www.styleforum.net/attachments/slim-trouser-cavalry-twill-stone-7s-2x-jpg.1183428/",
+      "origin": "styleforum",
+      "post_id": "post-9775228",
+      "date": "2019-05-28",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p015.jpg",
+      "url": "https://www.styleforum.net/attachments/slim-trouser-cavalry-twill-stone-10s-2x-jpg.1183429/",
+      "origin": "styleforum",
+      "post_id": "post-9775228",
+      "date": "2019-05-28",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p016.jpg",
+      "url": "https://www.styleforum.net/attachments/slim-trouser-cotton-twill-stone-8-jpg.1189542/",
+      "origin": "styleforum",
+      "post_id": "post-9787546",
+      "date": "2019-06-09",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p017.jpg",
+      "url": "https://www.styleforum.net/attachments/slim-trouser-cotton-twill-nearly-black-3-jpg.1189543/",
+      "origin": "styleforum",
+      "post_id": "post-9787546",
+      "date": "2019-06-09",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p018.jpg",
+      "url": "https://www.styleforum.net/attachments/slim-trouser-cotton-twill-hydrone-blue-10-jpg.1189544/",
+      "origin": "styleforum",
+      "post_id": "post-9787546",
+      "date": "2019-06-09",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p019.jpg",
+      "url": "https://www.styleforum.net/attachments/slim-trouser-cotton-twill-stone-6-jpg.1189545/",
+      "origin": "styleforum",
+      "post_id": "post-9787546",
+      "date": "2019-06-09",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p020.jpg",
+      "url": "https://www.styleforum.net/attachments/slim-trouser-cotton-twill-nearly-black-8-jpg.1189546/",
+      "origin": "styleforum",
+      "post_id": "post-9787546",
+      "date": "2019-06-09",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p021.jpg",
+      "url": "https://www.styleforum.net/attachments/slim-trouser-cotton-twill-hydrone-blue-4-jpg.1189547/",
+      "origin": "styleforum",
+      "post_id": "post-9787546",
+      "date": "2019-06-09",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p022.jpg",
+      "url": "https://www.styleforum.net/attachments/field-shirt-cotton-linen-hopsack-slate-grey-11-2x-jpg.1328165/",
+      "origin": "styleforum",
+      "post_id": "post-10054854",
+      "date": "2020-01-31",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p023.jpg",
+      "url": "https://www.styleforum.net/attachments/field-shirt-cotton-linen-hopsack-slate-grey-10-2x-jpg.1328166/",
+      "origin": "styleforum",
+      "post_id": "post-10054854",
+      "date": "2020-01-31",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p024.jpg",
+      "url": "https://www.styleforum.net/attachments/field-shirt-cotton-linen-hopsack-slate-grey-8-2x-jpg.1328168/",
+      "origin": "styleforum",
+      "post_id": "post-10054854",
+      "date": "2020-01-31",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p025.jpg",
+      "url": "https://www.styleforum.net/attachments/field-shirt-cotton-linen-hopsack-slate-grey-7-2x-jpg.1328169/",
+      "origin": "styleforum",
+      "post_id": "post-10054854",
+      "date": "2020-01-31",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p026.jpg",
+      "url": "https://www.styleforum.net/attachments/field-shirt-cotton-linen-hopsack-slate-grey-4-2x-jpg.1328172/",
+      "origin": "styleforum",
+      "post_id": "post-10054854",
+      "date": "2020-01-31",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p027.jpg",
+      "url": "https://www.styleforum.net/attachments/field-shirt-cotton-linen-hopsack-slate-grey-3-2x-jpg.1328173/",
+      "origin": "styleforum",
+      "post_id": "post-10054854",
+      "date": "2020-01-31",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p028.jpg",
+      "url": "https://www.styleforum.net/attachments/field-shirt-cotton-linen-hopsack-slate-grey-12-2x-jpg.1328175/",
+      "origin": "styleforum",
+      "post_id": "post-10054854",
+      "date": "2020-01-31",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p029.jpg",
+      "url": "https://www.styleforum.net/attachments/slim-trouser-cotton-linen-hopsack-petrol-2-2x-jpg.1356074/",
+      "origin": "styleforum",
+      "post_id": "post-10113453",
+      "date": "2020-03-16",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p030.jpg",
+      "url": "https://www.styleforum.net/attachments/shopcoat-cotton-linen-hopsack-petrol-grey-15m-2x-jpg.1356077/",
+      "origin": "styleforum",
+      "post_id": "post-10113453",
+      "date": "2020-03-16",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p031.jpg",
+      "url": "https://www.styleforum.net/attachments/slim-trouser-cotton-linen-hopsack-petrol-3-2x-jpg.1356078/",
+      "origin": "styleforum",
+      "post_id": "post-10113453",
+      "date": "2020-03-16",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p032.jpg",
+      "url": "https://www.styleforum.net/attachments/slim-trouser-cotton-linen-hopsack-petrol-6-2x-jpg.1356079/",
+      "origin": "styleforum",
+      "post_id": "post-10113453",
+      "date": "2020-03-16",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p033.jpg",
+      "url": "https://www.styleforum.net/attachments/slim-trouser-cotton-linen-hopsack-midnight-8-2x-jpg.1356080/",
+      "origin": "styleforum",
+      "post_id": "post-10113453",
+      "date": "2020-03-16",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p034.jpg",
+      "url": "https://www.styleforum.net/attachments/slim-trouser-cotton-linen-hopsack-midnight-10-2x-jpg.1356082/",
+      "origin": "styleforum",
+      "post_id": "post-10113453",
+      "date": "2020-03-16",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p035.jpg",
+      "url": "https://www.styleforum.net/attachments/pyjama-top-merino-cotton-barley-worn-3-2x-jpg.1420361/",
+      "origin": "styleforum",
+      "post_id": "post-10279764",
+      "date": "2020-07-08",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p036.jpg",
+      "url": "https://www.styleforum.net/attachments/polo-shirt-cotton-malt-worn-3-2x-jpg.1420363/",
+      "origin": "styleforum",
+      "post_id": "post-10279764",
+      "date": "2020-07-08",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p037.jpg",
+      "url": "https://www.styleforum.net/attachments/v-neck-cotton-tuck-malt-1-2x-jpg.1420359/",
+      "origin": "styleforum",
+      "post_id": "post-10279764",
+      "date": "2020-07-08",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p038.jpg",
+      "url": "https://www.styleforum.net/attachments/polo-shirt-cotton-malt-worn-1-2x-jpg.1420365/",
+      "origin": "styleforum",
+      "post_id": "post-10279764",
+      "date": "2020-07-08",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p039.jpg",
+      "url": "https://www.styleforum.net/attachments/v-neck-cotton-tuck-malt-4-2x-jpg.1420366/",
+      "origin": "styleforum",
+      "post_id": "post-10279764",
+      "date": "2020-07-08",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p040.jpg",
+      "url": "https://www.styleforum.net/attachments/polo-shirt-cotton-malt-worn-2-2x-jpg.1420364/",
+      "origin": "styleforum",
+      "post_id": "post-10279764",
+      "date": "2020-07-08",
+      "author": "sehkelly"
+    }
+  ]
+}

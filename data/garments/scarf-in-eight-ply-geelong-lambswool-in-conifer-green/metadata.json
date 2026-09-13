@@ -1,0 +1,103 @@
+{
+  "id": "scarf-in-eight-ply-geelong-lambswool-in-conifer-green",
+  "name": "scarf in eight ply geelong lambswool in conifer green",
+  "category": "Accessories",
+  "garment_type": "scarf",
+  "fabric": "eight ply geelong lambswool",
+  "colour": "conifer green",
+  "colours_offered": [],
+  "materials": [
+    "lambswool",
+    "geelong"
+  ],
+  "release_date": "2015-12-07",
+  "release_estimate": true,
+  "season": "AW2015",
+  "price_gbp": null,
+  "sizes": [],
+  "status": "archived",
+  "description": null,
+  "product_url": "https://sehkelly.com/scarf-in-eight-ply-geelong-lambswool-in-conifer-green/",
+  "sources": [
+    "styleforum thread"
+  ],
+  "thread_links": [
+    "https://www.sehkelly.com/scarf-in-eight-ply-geelong-lambswool-in-conifer-green/"
+  ],
+  "thread_post_ids": [
+    "post-10899830",
+    "post-8217473",
+    "post-9903422",
+    "post-9958998",
+    "post-10144069",
+    "post-11196322",
+    "post-11196479",
+    "post-11639323",
+    "post-12044035",
+    "post-12044053",
+    "post-12044155",
+    "post-12044521",
+    "post-12381539"
+  ],
+  "first_seen": "2015-12-07",
+  "last_seen": "2025-11-17",
+  "mention_count": 13,
+  "photos": [
+    {
+      "file": "photos/p001.jpg",
+      "url": "https://www.styleforum.net/attachments/scarf-geelong-lambswool-asphalt-grey-7-2x-jpeg.1846514/",
+      "origin": "styleforum",
+      "post_id": "post-11196479",
+      "date": "2022-10-20",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p002.jpg",
+      "url": "https://www.styleforum.net/attachments/1846418/",
+      "origin": "styleforum",
+      "post_id": "post-11196479",
+      "date": "2022-10-20",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p003.jpg",
+      "url": "https://www.styleforum.net/attachments/1846419/",
+      "origin": "styleforum",
+      "post_id": "post-11196479",
+      "date": "2022-10-20",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p004.jpg",
+      "url": "https://www.styleforum.net/data/attachments/1846/1846429-881e0213635b3dda71b054e6475520eb.jpg",
+      "origin": "styleforum",
+      "post_id": "post-11196322",
+      "date": "2022-10-19",
+      "author": "Jnarcane"
+    },
+    {
+      "file": "photos/p005.jpg",
+      "url": "https://www.styleforum.net/data/attachments/1846/1846430-26d85990be047da2bca073a6876b832c.jpg",
+      "origin": "styleforum",
+      "post_id": "post-11196322",
+      "date": "2022-10-19",
+      "author": "Jnarcane"
+    },
+    {
+      "file": "photos/p006.jpg",
+      "url": "https://www.styleforum.net/attachments/aedd22bf-8155-492e-8b98-17b5a831e122-jpeg.1846418/",
+      "origin": "styleforum",
+      "post_id": "post-11196322",
+      "date": "2022-10-19",
+      "author": "Jnarcane"
+    },
+    {
+      "file": "photos/p007.jpg",
+      "url": "https://www.styleforum.net/attachments/76ed6906-0c0a-47e7-a4ef-17881615809a-jpeg.1846419/",
+      "origin": "styleforum",
+      "post_id": "post-11196322",
+      "date": "2022-10-19",
+      "author": "Jnarcane"
+    }
+  ]
+}

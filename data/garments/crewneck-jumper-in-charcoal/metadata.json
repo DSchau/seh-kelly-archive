@@ -1,0 +1,143 @@
+{
+  "id": "crewneck-jumper-in-charcoal",
+  "name": "Crewneck jumper in charcoal",
+  "category": "Jumper",
+  "garment_type": "crewneck jumper",
+  "fabric": "charcoal",
+  "colour": null,
+  "colours_offered": [
+    "Charcoal"
+  ],
+  "materials": [
+    "lambswool"
+  ],
+  "release_date": "2025-12-08",
+  "release_estimate": false,
+  "season": "AW2025",
+  "price_gbp": 430.0,
+  "sizes": [
+    "L",
+    "M",
+    "S",
+    "XL",
+    "XS"
+  ],
+  "status": "in production",
+  "description": "Heavy crewneck, hand-framed and fully-fashioned and hand-linked with superfine lambswool in the south-west of the British Isles.",
+  "product_url": "https://sehkelly.com/products/crewneck-jumper-in-charcoal",
+  "sources": [
+    "sehkelly.com live catalog"
+  ],
+  "thread_links": [],
+  "thread_post_ids": [
+    "post-8608648",
+    "post-10859579",
+    "post-10892981",
+    "post-10892993",
+    "post-11163820",
+    "post-11163831",
+    "post-12405525",
+    "post-12655929"
+  ],
+  "first_seen": "2016-10-13",
+  "last_seen": "2026-08-25",
+  "mention_count": 8,
+  "photos": [
+    {
+      "file": "photos/p001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0935/4480/8778/files/SEH_Kelly_crewneck_charcoal_7_4d2e83bc-6161-4814-9c2f-751a91b7bb32.jpg?v=1765058735",
+      "origin": "sehkelly.com",
+      "post_id": null,
+      "date": null,
+      "author": null
+    },
+    {
+      "file": "photos/p002.jpg",
+      "url": "https://www.styleforum.net/attachments/crewneck-lambswool-tuck-north-sea-1-2x-jpeg.1829398/",
+      "origin": "styleforum",
+      "post_id": "post-11163820",
+      "date": "2022-09-06",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p003.jpg",
+      "url": "https://www.styleforum.net/attachments/crewneck-lambswool-tuck-north-sea-9-2x-jpeg.1829394/",
+      "origin": "styleforum",
+      "post_id": "post-11163820",
+      "date": "2022-09-06",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p004.jpg",
+      "url": "https://www.styleforum.net/attachments/crewneck-lambswool-tuck-north-sea-5-2x-jpeg.1829395/",
+      "origin": "styleforum",
+      "post_id": "post-11163820",
+      "date": "2022-09-06",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p005.jpg",
+      "url": "https://www.styleforum.net/attachments/crewneck-lambswool-tuck-north-sea-4-2x-jpeg.1829396/",
+      "origin": "styleforum",
+      "post_id": "post-11163820",
+      "date": "2022-09-06",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p006.jpg",
+      "url": "https://www.styleforum.net/attachments/crewneck-lambswool-tuck-north-sea-3-2x-jpeg.1829397/",
+      "origin": "styleforum",
+      "post_id": "post-11163820",
+      "date": "2022-09-06",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p007.jpg",
+      "url": "https://i.ebayimg.com/images/g/mtMAAOSwks5glMIZ/s-l400.jpg",
+      "origin": "styleforum",
+      "post_id": "post-10859579",
+      "date": "2021-09-29",
+      "author": "shunese"
+    },
+    {
+      "file": "photos/p009.jpg",
+      "url": "https://www.styleforum.net/attachments/1829398/",
+      "origin": "styleforum",
+      "post_id": "post-11163831",
+      "date": "2022-09-06",
+      "author": "booroo"
+    },
+    {
+      "file": "photos/p010.jpg",
+      "url": "https://www.styleforum.net/attachments/1829394/",
+      "origin": "styleforum",
+      "post_id": "post-11163831",
+      "date": "2022-09-06",
+      "author": "booroo"
+    },
+    {
+      "file": "photos/p011.jpg",
+      "url": "https://www.styleforum.net/attachments/1829395/",
+      "origin": "styleforum",
+      "post_id": "post-11163831",
+      "date": "2022-09-06",
+      "author": "booroo"
+    },
+    {
+      "file": "photos/p012.jpg",
+      "url": "https://www.styleforum.net/attachments/1829396/",
+      "origin": "styleforum",
+      "post_id": "post-11163831",
+      "date": "2022-09-06",
+      "author": "booroo"
+    },
+    {
+      "file": "photos/p013.jpg",
+      "url": "https://www.styleforum.net/attachments/1829397/",
+      "origin": "styleforum",
+      "post_id": "post-11163831",
+      "date": "2022-09-06",
+      "author": "booroo"
+    }
+  ]
+}

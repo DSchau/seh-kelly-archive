@@ -1,0 +1,52 @@
+{
+  "id": "dress-trousers-in-middling-sheep",
+  "name": "Dress trousers in middling sheep",
+  "category": "Trousers",
+  "garment_type": "dress trousers",
+  "fabric": "middling sheep",
+  "colour": null,
+  "colours_offered": [
+    "Middling Sheep"
+  ],
+  "materials": [
+    "hopsack",
+    "horn",
+    "worsted"
+  ],
+  "release_date": "2025-12-01",
+  "release_estimate": false,
+  "season": "AW2025",
+  "price_gbp": 220.0,
+  "sizes": [
+    "L",
+    "M",
+    "S",
+    "XL",
+    "XS"
+  ],
+  "status": "in production",
+  "description": "Trousers, made in London, with a springy but sturdy (12oz) worsted hopsack from West Yorkshire and horn buttons from the Cotswolds.",
+  "product_url": "https://sehkelly.com/products/dress-trousers-in-middling-sheep",
+  "sources": [
+    "sehkelly.com live catalog"
+  ],
+  "thread_links": [],
+  "thread_post_ids": [
+    "post-12228435",
+    "post-12395089",
+    "post-12395117"
+  ],
+  "first_seen": "2025-06-02",
+  "last_seen": "2025-12-01",
+  "mention_count": 3,
+  "photos": [
+    {
+      "file": "photos/p001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0935/4480/8778/files/SEHKellydresstrousersinmiddlingsheep1.jpg?v=1764592551",
+      "origin": "sehkelly.com",
+      "post_id": null,
+      "date": null,
+      "author": null
+    }
+  ]
+}

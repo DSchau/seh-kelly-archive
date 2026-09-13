@@ -1,0 +1,50 @@
+{
+  "id": "waistcoat-in-middling-sheep",
+  "name": "Waistcoat in middling sheep",
+  "category": "Jacket",
+  "garment_type": "waistcoat",
+  "fabric": "middling sheep",
+  "colour": null,
+  "colours_offered": [
+    "Middling Sheep"
+  ],
+  "materials": [
+    "wool",
+    "tweed"
+  ],
+  "release_date": "2025-12-01",
+  "release_estimate": false,
+  "season": "AW2025",
+  "price_gbp": 225.0,
+  "sizes": [
+    "L",
+    "M",
+    "S",
+    "XL",
+    "XS"
+  ],
+  "status": "in production",
+  "description": "Waistcoat, made in London, with a heavy (28oz) tweed woven in Scotland \u2014 in a mill inside an old boat-shed on the Morayshire coastline, no less, operated every step of the way singlehandedly with weaving contraptions of Victorian heritage \u2014 using the natural, undyed wool of Herdwick sheep from the Lake District.",
+  "product_url": "https://sehkelly.com/products/waistcoat-in-middling-sheep",
+  "sources": [
+    "sehkelly.com live catalog"
+  ],
+  "thread_links": [],
+  "thread_post_ids": [
+    "post-12395089",
+    "post-12395117"
+  ],
+  "first_seen": "2025-12-01",
+  "last_seen": "2025-12-01",
+  "mention_count": 2,
+  "photos": [
+    {
+      "file": "photos/p001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0935/4480/8778/files/SEH_Kelly_waistcoat_midding_sheep_1.jpg?v=1764530983",
+      "origin": "sehkelly.com",
+      "post_id": null,
+      "date": null,
+      "author": null
+    }
+  ]
+}

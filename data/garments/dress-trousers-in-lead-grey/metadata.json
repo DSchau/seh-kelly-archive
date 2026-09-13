@@ -1,0 +1,50 @@
+{
+  "id": "dress-trousers-in-lead-grey",
+  "name": "Dress trousers in lead grey",
+  "category": "Trousers",
+  "garment_type": "dress trousers",
+  "fabric": "lead grey",
+  "colour": null,
+  "colours_offered": [
+    "Lead Grey"
+  ],
+  "materials": [
+    "hopsack",
+    "horn",
+    "worsted"
+  ],
+  "release_date": "2025-12-01",
+  "release_estimate": false,
+  "season": "AW2025",
+  "price_gbp": 220.0,
+  "sizes": [
+    "L",
+    "M",
+    "S",
+    "XL",
+    "XS"
+  ],
+  "status": "in production",
+  "description": "Trousers, made in London, with a springy but sturdy (12oz) worsted hopsack from West Yorkshire and horn buttons from the Cotswolds.",
+  "product_url": "https://sehkelly.com/products/dress-trousers-in-lead-grey",
+  "sources": [
+    "sehkelly.com live catalog"
+  ],
+  "thread_links": [],
+  "thread_post_ids": [
+    "post-12107103"
+  ],
+  "first_seen": "2025-02-08",
+  "last_seen": "2025-02-08",
+  "mention_count": 1,
+  "photos": [
+    {
+      "file": "photos/p001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0935/4480/8778/files/SEHKellydresstrousersinleadgrey1.jpg?v=1764592566",
+      "origin": "sehkelly.com",
+      "post_id": null,
+      "date": null,
+      "author": null
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "id": "scarf-in-navy-lambswool-tuck-stitch",
+  "name": "scarf in navy lambswool tuck stitch",
+  "category": "Accessories",
+  "garment_type": "scarf",
+  "fabric": "navy lambswool tuck stitch",
+  "colour": null,
+  "colours_offered": [],
+  "materials": [
+    "lambswool",
+    "tuck"
+  ],
+  "release_date": "2018-12-13",
+  "release_estimate": true,
+  "season": "AW2018",
+  "price_gbp": null,
+  "sizes": [],
+  "status": "archived",
+  "description": null,
+  "product_url": "https://sehkelly.com/scarf-in-navy-lambswool-tuck-stitch/",
+  "sources": [
+    "styleforum thread"
+  ],
+  "thread_links": [
+    "https://www.sehkelly.com/scarf-in-navy-lambswool-tuck-stitch/"
+  ],
+  "thread_post_ids": [
+    "post-9573771",
+    "post-9973762",
+    "post-9976031",
+    "post-9573466",
+    "post-9903422",
+    "post-10353910",
+    "post-10391299",
+    "post-10425735",
+    "post-10899830",
+    "post-11639245"
+  ],
+  "first_seen": "2018-12-13",
+  "last_seen": "2023-12-09",
+  "mention_count": 10,
+  "photos": [
+    {
+      "file": "photos/p001.jpg",
+      "url": "https://www.styleforum.net/attachments/scarf-cashmere-cotton-red-brown-nots-2x-jpg.2086921/",
+      "origin": "styleforum",
+      "post_id": "post-11639245",
+      "date": "2023-12-09",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p002.jpg",
+      "url": "https://www.styleforum.net/attachments/scarf-cashmere-cotton-red-brown-6s-2x-jpg.2086923/",
+      "origin": "styleforum",
+      "post_id": "post-11639245",
+      "date": "2023-12-09",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p003.jpg",
+      "url": "https://www.styleforum.net/attachments/scarf-cashmere-cotton-red-brown-5s-2x-jpg.2086925/",
+      "origin": "styleforum",
+      "post_id": "post-11639245",
+      "date": "2023-12-09",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p004.jpg",
+      "url": "https://www.styleforum.net/attachments/scarf-cashmere-cotton-red-brown-3s-2x-jpg.2086927/",
+      "origin": "styleforum",
+      "post_id": "post-11639245",
+      "date": "2023-12-09",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p005.jpg",
+      "url": "https://www.styleforum.net/attachments/scarf-cashmere-cotton-red-brown-2s-2x-jpg.2086929/",
+      "origin": "styleforum",
+      "post_id": "post-11639245",
+      "date": "2023-12-09",
+      "author": "sehkelly"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "id": "v-neck",
+  "name": "v neck",
+  "category": "Knitwear",
+  "garment_type": "v neck",
+  "fabric": null,
+  "colour": null,
+  "colours_offered": [],
+  "materials": [],
+  "release_date": "2018-10-13",
+  "release_estimate": true,
+  "season": "AW2018",
+  "price_gbp": null,
+  "sizes": [],
+  "status": "archived",
+  "description": null,
+  "product_url": "https://sehkelly.com/v-neck/",
+  "sources": [
+    "styleforum thread"
+  ],
+  "thread_links": [
+    "https://sehkelly.com/v-neck",
+    "https://www.sehkelly.com/v-neck/"
+  ],
+  "thread_post_ids": [
+    "post-9501333",
+    "post-9501447",
+    "post-11743631"
+  ],
+  "first_seen": "2018-10-13",
+  "last_seen": "2024-03-06",
+  "mention_count": 3,
+  "photos": [
+    {
+      "file": "photos/p001.jpg",
+      "url": "https://www.styleforum.net/attachments/v-neck-lambswool-tuck-grey-4-jpg.1052456/",
+      "origin": "styleforum",
+      "post_id": "post-9501333",
+      "date": "2018-10-13",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p002.jpg",
+      "url": "https://www.styleforum.net/attachments/1052456/",
+      "origin": "styleforum",
+      "post_id": "post-9501447",
+      "date": "2018-10-13",
+      "author": "Blackmaged"
+    }
+  ]
+}

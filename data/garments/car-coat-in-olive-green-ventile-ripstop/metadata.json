@@ -1,0 +1,140 @@
+{
+  "id": "car-coat-in-olive-green-ventile-ripstop",
+  "name": "car coat in olive green ventile ripstop",
+  "category": "Coat",
+  "garment_type": "car coat",
+  "fabric": "olive green ventile ripstop",
+  "colour": null,
+  "colours_offered": [],
+  "materials": [
+    "ripstop",
+    "ventile"
+  ],
+  "release_date": "2016-11-04",
+  "release_estimate": true,
+  "season": "AW2016",
+  "price_gbp": null,
+  "sizes": [],
+  "status": "archived",
+  "description": null,
+  "product_url": "https://sehkelly.com/car-coat-in-olive-green-ventile-ripstop/",
+  "sources": [
+    "styleforum thread"
+  ],
+  "thread_links": [
+    "http://www.sehkelly.com/car-coat-in-olive-green-ventile-ripstop/"
+  ],
+  "thread_post_ids": [
+    "post-8719931",
+    "post-8632905",
+    "post-8652777",
+    "post-10570230",
+    "post-10590876",
+    "post-10590877",
+    "post-10773421",
+    "post-10821126",
+    "post-11028622",
+    "post-11326705"
+  ],
+  "first_seen": "2016-11-04",
+  "last_seen": "2023-03-14",
+  "mention_count": 10,
+  "photos": [
+    {
+      "file": "photos/p006.jpg",
+      "url": "https://www.styleforum.net/attachments/1915007/",
+      "origin": "styleforum",
+      "post_id": "post-11326705",
+      "date": "2023-03-14",
+      "author": "Chris02"
+    },
+    {
+      "file": "photos/p007.jpg",
+      "url": "https://www.styleforum.net/attachments/1915009/",
+      "origin": "styleforum",
+      "post_id": "post-11326705",
+      "date": "2023-03-14",
+      "author": "Chris02"
+    },
+    {
+      "file": "photos/p008.jpg",
+      "url": "https://www.styleforum.net/attachments/1915011/",
+      "origin": "styleforum",
+      "post_id": "post-11326705",
+      "date": "2023-03-14",
+      "author": "Chris02"
+    },
+    {
+      "file": "photos/p009.jpg",
+      "url": "https://www.styleforum.net/attachments/1915013/",
+      "origin": "styleforum",
+      "post_id": "post-11326705",
+      "date": "2023-03-14",
+      "author": "Chris02"
+    },
+    {
+      "file": "photos/p010.jpg",
+      "url": "https://www.styleforum.net/attachments/1915015/",
+      "origin": "styleforum",
+      "post_id": "post-11326705",
+      "date": "2023-03-14",
+      "author": "Chris02"
+    },
+    {
+      "file": "photos/p011.jpg",
+      "url": "https://www.styleforum.net/attachments/1915017/",
+      "origin": "styleforum",
+      "post_id": "post-11326705",
+      "date": "2023-03-14",
+      "author": "Chris02"
+    },
+    {
+      "file": "photos/p012.jpg",
+      "url": "https://www.styleforum.net/attachments/1915019/",
+      "origin": "styleforum",
+      "post_id": "post-11326705",
+      "date": "2023-03-14",
+      "author": "Chris02"
+    },
+    {
+      "file": "photos/p013.jpg",
+      "url": "https://www.styleforum.net/attachments/1915021/",
+      "origin": "styleforum",
+      "post_id": "post-11326705",
+      "date": "2023-03-14",
+      "author": "Chris02"
+    },
+    {
+      "file": "photos/p014.jpg",
+      "url": "https://www.styleforum.net/attachments/1915023/",
+      "origin": "styleforum",
+      "post_id": "post-11326705",
+      "date": "2023-03-14",
+      "author": "Chris02"
+    },
+    {
+      "file": "photos/p015.jpg",
+      "url": "https://www.styleforum.net/attachments/1915025/",
+      "origin": "styleforum",
+      "post_id": "post-11326705",
+      "date": "2023-03-14",
+      "author": "Chris02"
+    },
+    {
+      "file": "photos/p016.jpg",
+      "url": "https://www.styleforum.net/attachments/1915027/",
+      "origin": "styleforum",
+      "post_id": "post-11326705",
+      "date": "2023-03-14",
+      "author": "Chris02"
+    },
+    {
+      "file": "photos/p017.jpg",
+      "url": "https://www.styleforum.net/attachments/1915029/",
+      "origin": "styleforum",
+      "post_id": "post-11326705",
+      "date": "2023-03-14",
+      "author": "Chris02"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": "proper-trouser",
+  "name": "proper trouser",
+  "category": "Trousers",
+  "garment_type": "proper trouser",
+  "fabric": null,
+  "colour": null,
+  "colours_offered": [],
+  "materials": [],
+  "release_date": "2018-01-25",
+  "release_estimate": true,
+  "season": "AW2018",
+  "price_gbp": null,
+  "sizes": [],
+  "status": "archived",
+  "description": null,
+  "product_url": "https://sehkelly.com/proper-trouser/",
+  "sources": [
+    "styleforum thread"
+  ],
+  "thread_links": [
+    "https://www.sehkelly.com/proper-trouser/"
+  ],
+  "thread_post_ids": [
+    "post-9181679"
+  ],
+  "first_seen": "2018-01-25",
+  "last_seen": "2018-01-25",
+  "mention_count": 1,
+  "photos": []
+}

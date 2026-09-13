@@ -1,0 +1,294 @@
+{
+  "id": "donkey-jacket-in-melton-and-sail-cloth-in-black",
+  "name": "donkey jacket in melton and sail cloth in black",
+  "category": "Jacket",
+  "garment_type": "donkey jacket",
+  "fabric": "melton and sail cloth",
+  "colour": "black",
+  "colours_offered": [],
+  "materials": [
+    "melton",
+    "sail cloth"
+  ],
+  "release_date": "2020-06-20",
+  "release_estimate": true,
+  "season": "SS2020",
+  "price_gbp": null,
+  "sizes": [],
+  "status": "archived",
+  "description": null,
+  "product_url": "https://sehkelly.com/donkey-jacket-in-melton-and-sail-cloth-in-black/",
+  "sources": [
+    "styleforum thread"
+  ],
+  "thread_links": [
+    "https://www.sehkelly.com/donkey-jacket-in-melton-and-sail-cloth-in-black/"
+  ],
+  "thread_post_ids": [
+    "post-10793293",
+    "post-10252268",
+    "post-10252356",
+    "post-10252358",
+    "post-10322240",
+    "post-10393099",
+    "post-10393100",
+    "post-10393102",
+    "post-10396289",
+    "post-10508634",
+    "post-10855539",
+    "post-11644863"
+  ],
+  "first_seen": "2020-06-20",
+  "last_seen": "2023-12-14",
+  "mention_count": 12,
+  "photos": [
+    {
+      "file": "photos/p001.jpg",
+      "url": "https://www.styleforum.net/attachments/donkey-jacket-cotton-manila-again-worn-1-2x-jpg.1409361/",
+      "origin": "styleforum",
+      "post_id": "post-10252268",
+      "date": "2020-06-20",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p002.jpg",
+      "url": "https://www.styleforum.net/attachments/donkey-jacket-cotton-manila-again-worn-4-2x-jpg.1409362/",
+      "origin": "styleforum",
+      "post_id": "post-10252268",
+      "date": "2020-06-20",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p003.jpg",
+      "url": "https://www.styleforum.net/attachments/donkey-jacket-woollen-melton-cotton-tobacco-2-2x-jpg.1466972/",
+      "origin": "styleforum",
+      "post_id": "post-10393099",
+      "date": "2020-09-28",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p004.jpg",
+      "url": "https://www.styleforum.net/attachments/donkey-jacket-woollen-melton-cotton-tobacco-3-2x-jpg.1466973/",
+      "origin": "styleforum",
+      "post_id": "post-10393099",
+      "date": "2020-09-28",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p005.jpg",
+      "url": "https://www.styleforum.net/attachments/donkey-jacket-woollen-melton-cotton-black-1-2x-jpg.1468322/",
+      "origin": "styleforum",
+      "post_id": "post-10396289",
+      "date": "2020-09-30",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p006.jpg",
+      "url": "https://www.styleforum.net/attachments/donkey-jacket-woollen-melton-cotton-black-4-2x-jpg.1468317/",
+      "origin": "styleforum",
+      "post_id": "post-10396289",
+      "date": "2020-09-30",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p007.jpg",
+      "url": "https://www.styleforum.net/attachments/donkey-jacket-woollen-melton-cotton-black-8-2x-jpg.1468318/",
+      "origin": "styleforum",
+      "post_id": "post-10396289",
+      "date": "2020-09-30",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p008.jpg",
+      "url": "https://www.styleforum.net/attachments/donkey-jacket-woollen-melton-cotton-black-9-2x-jpg.1468319/",
+      "origin": "styleforum",
+      "post_id": "post-10396289",
+      "date": "2020-09-30",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p009.jpg",
+      "url": "https://www.styleforum.net/attachments/donkey-jacket-woollen-melton-cotton-tobacco-5-2x-jpg.1468321/",
+      "origin": "styleforum",
+      "post_id": "post-10396289",
+      "date": "2020-09-30",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p010.jpg",
+      "url": "https://www.styleforum.net/attachments/donkey-jacket-woollen-melton-cotton-tobacco-7-2x-jpg.1468320/",
+      "origin": "styleforum",
+      "post_id": "post-10396289",
+      "date": "2020-09-30",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p011.jpg",
+      "url": "https://www.styleforum.net/attachments/crewneck-geelong-wool-conifer-green-worn-1-2x-jpg.1515538/",
+      "origin": "styleforum",
+      "post_id": "post-10508634",
+      "date": "2020-12-12",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p012.jpg",
+      "url": "https://www.styleforum.net/attachments/crewneck-geelong-wool-conifer-green-worn-2-2x-jpg.1515537/",
+      "origin": "styleforum",
+      "post_id": "post-10508634",
+      "date": "2020-12-12",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p013.jpg",
+      "url": "https://www.styleforum.net/attachments/donkey-jacket-woollen-melton-cotton-black-worn-3-2x-jpg.1515533/",
+      "origin": "styleforum",
+      "post_id": "post-10508634",
+      "date": "2020-12-12",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p014.jpg",
+      "url": "https://www.styleforum.net/attachments/donkey-jacket-woollen-melton-cotton-black-worn-1-2x-jpg.1515534/",
+      "origin": "styleforum",
+      "post_id": "post-10508634",
+      "date": "2020-12-12",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p015.jpg",
+      "url": "https://www.styleforum.net/attachments/donkey-jacket-woollen-melton-cotton-black-worn-2s-2x-jpg.1515535/",
+      "origin": "styleforum",
+      "post_id": "post-10508634",
+      "date": "2020-12-12",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p016.jpg",
+      "url": "https://www.styleforum.net/attachments/field-trousers-cotton-black-2-2x-jpeg.1675032/",
+      "origin": "styleforum",
+      "post_id": "post-10855539",
+      "date": "2021-09-25",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p017.jpg",
+      "url": "https://www.styleforum.net/attachments/field-trousers-cotton-green-9-2x-jpg.1675026/",
+      "origin": "styleforum",
+      "post_id": "post-10855539",
+      "date": "2021-09-25",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p018.jpg",
+      "url": "https://www.styleforum.net/attachments/field-trousers-cotton-green-3-2x-jpeg.1675027/",
+      "origin": "styleforum",
+      "post_id": "post-10855539",
+      "date": "2021-09-25",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p019.jpg",
+      "url": "https://www.styleforum.net/attachments/field-trousers-cotton-green-14-2x-jpeg.1675028/",
+      "origin": "styleforum",
+      "post_id": "post-10855539",
+      "date": "2021-09-25",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p020.jpg",
+      "url": "https://www.styleforum.net/attachments/field-trousers-cotton-black-6-2x-jpeg.1675029/",
+      "origin": "styleforum",
+      "post_id": "post-10855539",
+      "date": "2021-09-25",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p021.jpg",
+      "url": "https://www.styleforum.net/attachments/field-trousers-cotton-black-4-2x-jpeg.1675030/",
+      "origin": "styleforum",
+      "post_id": "post-10855539",
+      "date": "2021-09-25",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p022.jpg",
+      "url": "https://www.styleforum.net/attachments/field-trousers-cotton-black-3-2x-jpeg.1675031/",
+      "origin": "styleforum",
+      "post_id": "post-10855539",
+      "date": "2021-09-25",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p023.jpg",
+      "url": "https://www.styleforum.net/attachments/donkey-jacket-melton-cotton-dark-navy-3-2x-jpg.2090785/",
+      "origin": "styleforum",
+      "post_id": "post-11644863",
+      "date": "2023-12-14",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p024.jpg",
+      "url": "https://www.styleforum.net/attachments/donkey-jacket-melton-cotton-dark-navy-17-2x-jpg.2090787/",
+      "origin": "styleforum",
+      "post_id": "post-11644863",
+      "date": "2023-12-14",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p025.jpg",
+      "url": "https://www.styleforum.net/attachments/donkey-jacket-melton-cotton-dark-navy-15-2x-jpg.2090791/",
+      "origin": "styleforum",
+      "post_id": "post-11644863",
+      "date": "2023-12-14",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p026.jpg",
+      "url": "https://www.styleforum.net/attachments/donkey-jacket-melton-cotton-dark-navy-9-2x-jpg.2090793/",
+      "origin": "styleforum",
+      "post_id": "post-11644863",
+      "date": "2023-12-14",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p027.jpg",
+      "url": "https://www.styleforum.net/attachments/donkey-jacket-melton-cotton-dark-navy-7-2x-jpg.2090797/",
+      "origin": "styleforum",
+      "post_id": "post-11644863",
+      "date": "2023-12-14",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p028.jpg",
+      "url": "https://www.styleforum.net/attachments/donkey-jacket-melton-cotton-dark-navy-5-2x-jpg.2090801/",
+      "origin": "styleforum",
+      "post_id": "post-11644863",
+      "date": "2023-12-14",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p029.jpg",
+      "url": "https://www.styleforum.net/attachments/donkey-jacket-melton-cotton-dark-navy-2-2x-jpg.2090803/",
+      "origin": "styleforum",
+      "post_id": "post-11644863",
+      "date": "2023-12-14",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p030.jpg",
+      "url": "https://www.styleforum.net/attachments/1409361/",
+      "origin": "styleforum",
+      "post_id": "post-10252356",
+      "date": "2020-06-20",
+      "author": "Thibault S"
+    },
+    {
+      "file": "photos/p031.jpg",
+      "url": "https://www.styleforum.net/attachments/1409362/",
+      "origin": "styleforum",
+      "post_id": "post-10252356",
+      "date": "2020-06-20",
+      "author": "Thibault S"
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "id": "polo-shirt-in-three-ply-geelong-lambswool-in-charcoal",
+  "name": "polo shirt in three ply geelong lambswool in charcoal",
+  "category": "Shirt",
+  "garment_type": "polo shirt",
+  "fabric": "three ply geelong lambswool",
+  "colour": "charcoal",
+  "colours_offered": [],
+  "materials": [
+    "lambswool",
+    "geelong"
+  ],
+  "release_date": "2018-05-14",
+  "release_estimate": true,
+  "season": "SS2018",
+  "price_gbp": null,
+  "sizes": [],
+  "status": "archived",
+  "description": null,
+  "product_url": "https://sehkelly.com/polo-shirt-in-three-ply-geelong-lambswool-in-charcoal/",
+  "sources": [
+    "styleforum thread"
+  ],
+  "thread_links": [
+    "https://www.sehkelly.com/polo-shirt-in-three-ply-geelong-lambswool-in-charcoal/"
+  ],
+  "thread_post_ids": [
+    "post-10840310",
+    "post-9329445",
+    "post-9921750",
+    "post-10391299",
+    "post-10552959",
+    "post-10619401",
+    "post-10725033",
+    "post-10727210",
+    "post-10728617",
+    "post-11001595",
+    "post-11001609",
+    "post-11225890",
+    "post-11261576",
+    "post-11261631",
+    "post-11261681",
+    "post-11262473",
+    "post-11794613",
+    "post-11956283",
+    "post-11992137",
+    "post-12367641",
+    "post-12367647",
+    "post-12370243",
+    "post-12381561",
+    "post-12381571",
+    "post-12381577",
+    "post-12381605",
+    "post-12488285",
+    "post-12524075",
+    "post-12598287",
+    "post-12615575",
+    "post-12617875",
+    "post-12629974",
+    "post-12655929",
+    "post-12665034"
+  ],
+  "first_seen": "2018-05-14",
+  "last_seen": "2026-09-09",
+  "mention_count": 34,
+  "photos": [
+    {
+      "file": "photos/p001.jpg",
+      "url": "https://www.styleforum.net/attachments/v-neck-cotton-linen-battleship-grey-worn-1-jpg.974237/",
+      "origin": "styleforum",
+      "post_id": "post-9329445",
+      "date": "2018-05-14",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p002.jpg",
+      "url": "https://www.styleforum.net/attachments/v-neck-cotton-linen-battleship-grey-worn-2-jpg.974238/",
+      "origin": "styleforum",
+      "post_id": "post-9329445",
+      "date": "2018-05-14",
+      "author": "sehkelly"
+    },
+    {
+      "file": "photos/p003.jpg",
+      "url": "https://www.styleforum.net/attachments/v-neck-lambswool-tuck-brown-worn-4-2x-jpg.1862054/",
+      "origin": "styleforum",
+      "post_id": "post-11225890",
+      "date": "2022-11-29",
+      "author": "sehkelly"
+    }
+  ]
+}
