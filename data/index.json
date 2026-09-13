@@ -14,7 +14,8 @@
     "status": "archived",
     "photo_count": 34,
     "price_gbp": null,
-    "thumb": "photos/p006.jpg"
+    "thumb": "photos/p006.jpg",
+    "product_type_raw": "Coat"
   },
   {
     "id": "charcoal-grey-flecked-wool-tapered-trouser",
@@ -30,7 +31,8 @@
     "status": "archived",
     "photo_count": 0,
     "price_gbp": null,
-    "thumb": null
+    "thumb": null,
+    "product_type_raw": "Trousers"
   },
   {
     "id": "grey-donegal-wool-cashmere-scarf",
@@ -48,7 +50,8 @@
     "status": "archived",
     "photo_count": 0,
     "price_gbp": null,
-    "thumb": null
+    "thumb": null,
+    "product_type_raw": "Accessories"
   },
   {
     "id": "kelly-collar-shirt-in-grey-melange-cotton-twill",
@@ -65,7 +68,8 @@
     "status": "archived",
     "photo_count": 15,
     "price_gbp": null,
-    "thumb": "photos/p026.jpg"
+    "thumb": "photos/p026.jpg",
+    "product_type_raw": "Shirt"
   },
   {
     "id": "nearly-black-corduroy-three-button-blazer",
@@ -81,7 +85,8 @@
     "status": "archived",
     "photo_count": 0,
     "price_gbp": null,
-    "thumb": null
+    "thumb": null,
+    "product_type_raw": "Jacket"
   },
   {
     "id": "shirt-in-cotton-moleskin-in-chalk",
@@ -98,7 +103,8 @@
     "status": "archived",
     "photo_count": 13,
     "price_gbp": null,
-    "thumb": "photos/p028.jpg"
+    "thumb": "photos/p028.jpg",
+    "product_type_raw": "Shirt"
   },
   {
     "id": "shirt-in-cotton-silk-wool-linen-oxford-in-sanderling",
@@ -118,7 +124,8 @@
     "status": "archived",
     "photo_count": 13,
     "price_gbp": null,
-    "thumb": "photos/p028.jpg"
+    "thumb": "photos/p028.jpg",
+    "product_type_raw": "Shirt"
   },
   {
     "id": "shirt-in-linen-suiting-in-dark-navy",
@@ -134,7 +141,8 @@
     "status": "archived",
     "photo_count": 15,
     "price_gbp": null,
-    "thumb": "photos/p026.jpg"
+    "thumb": "photos/p026.jpg",
+    "product_type_raw": "Shirt"
   },
   {
     "id": "shirt-in-merino-cotton-oxford-in-lead-grey",
@@ -152,7 +160,8 @@
     "status": "archived",
     "photo_count": 18,
     "price_gbp": null,
-    "thumb": "photos/p023.jpg"
+    "thumb": "photos/p023.jpg",
+    "product_type_raw": "Shirt"
   },
   {
     "id": "shirt-with-granddad-collar-in-corduroy-in-umber",
@@ -168,7 +177,8 @@
     "status": "archived",
     "photo_count": 30,
     "price_gbp": null,
-    "thumb": "photos/p011.jpg"
+    "thumb": "photos/p011.jpg",
+    "product_type_raw": "Shirt"
   },
   {
     "id": "tobacco-brown-wool-tweed-peacoat",
@@ -185,7 +195,8 @@
     "status": "archived",
     "photo_count": 0,
     "price_gbp": null,
-    "thumb": null
+    "thumb": null,
+    "product_type_raw": "Coat"
   },
   {
     "id": "cinnamon-ventile-tour-jacket",
@@ -201,7 +212,8 @@
     "status": "archived",
     "photo_count": 0,
     "price_gbp": null,
-    "thumb": null
+    "thumb": null,
+    "product_type_raw": "Jacket"
   },
   {
     "id": "crewneck-in-lambswool-tuck-stitch-in-admiral-blue",
@@ -218,7 +230,8 @@
     "status": "archived",
     "photo_count": 7,
     "price_gbp": null,
-    "thumb": "photos/p001.jpg"
+    "thumb": "photos/p001.jpg",
+    "product_type_raw": "Knitwear"
   },
   {
     "id": "navy-blue-charcoal-grey-wool-peacoat",
@@ -234,7 +247,8 @@
     "status": "archived",
     "photo_count": 0,
     "price_gbp": null,
-    "thumb": null
+    "thumb": null,
+    "product_type_raw": "Coat"
   },
   {
     "id": "navy-blue-grey-tuck-stitch-jumper",
@@ -250,7 +264,8 @@
     "status": "archived",
     "photo_count": 0,
     "price_gbp": null,
-    "thumb": null
+    "thumb": null,
+    "product_type_raw": "Knitwear"
   },
   {
     "id": "peacoat-in-heavy-melton-in-khaki-drab",
@@ -266,7 +281,8 @@
     "status": "archived",
     "photo_count": 35,
     "price_gbp": null,
-    "thumb": "photos/p006.jpg"
+    "thumb": "photos/p006.jpg",
+    "product_type_raw": "Coat"
   },
   {
     "id": "peacoat-in-heavy-uniform-melton-in-dark-navy",
@@ -282,7 +298,8 @@
     "status": "archived",
     "photo_count": 35,
     "price_gbp": null,
-    "thumb": "photos/p006.jpg"
+    "thumb": "photos/p006.jpg",
+    "product_type_raw": "Coat"
   },
   {
     "id": "waistcoat-in-herdwick-tweed-in-light-sheep",
@@ -298,7 +315,8 @@
     "status": "archived",
     "photo_count": 33,
     "price_gbp": null,
-    "thumb": "photos/p001.jpg"
+    "thumb": "photos/p001.jpg",
+    "product_type_raw": "Waistcoat"
   },
   {
     "id": "work-jacket-in-cotton-sail-cloth-in-slate-blue",
@@ -315,7 +333,8 @@
     "status": "archived",
     "photo_count": 15,
     "price_gbp": null,
-    "thumb": "photos/p026.jpg"
+    "thumb": "photos/p026.jpg",
+    "product_type_raw": "Jacket"
   },
   {
     "id": "work-jacket-in-cotton-stay-wax-in-olive-drab",
@@ -332,7 +351,8 @@
     "status": "archived",
     "photo_count": 16,
     "price_gbp": null,
-    "thumb": "photos/p025.jpg"
+    "thumb": "photos/p025.jpg",
+    "product_type_raw": "Jacket"
   },
   {
     "id": "british-warm-in-woollen-hopsack-in-middling-sheep",
@@ -349,7 +369,8 @@
     "status": "archived",
     "photo_count": 19,
     "price_gbp": null,
-    "thumb": "photos/p002.jpg"
+    "thumb": "photos/p002.jpg",
+    "product_type_raw": "Coat"
   },
   {
     "id": "crewneck-in-ten-ply-lambswool-in-imperial-blue",
@@ -365,7 +386,8 @@
     "status": "archived",
     "photo_count": 20,
     "price_gbp": null,
-    "thumb": "photos/p001.jpg"
+    "thumb": "photos/p001.jpg",
+    "product_type_raw": "Knitwear"
   },
   {
     "id": "grey-wool-cotton-semi-cutaway-shirt",
@@ -382,7 +404,8 @@
     "status": "archived",
     "photo_count": 0,
     "price_gbp": null,
-    "thumb": null
+    "thumb": null,
+    "product_type_raw": "Shirt"
   },
   {
     "id": "shirt-with-granddad-collar-in-desert-cotton-in-ecru",
@@ -398,7 +421,8 @@
     "status": "archived",
     "photo_count": 32,
     "price_gbp": null,
-    "thumb": "photos/p009.jpg"
+    "thumb": "photos/p009.jpg",
+    "product_type_raw": "Shirt"
   },
   {
     "id": "balmacaan-in-cotton-no-wax-in-rye-brown",
@@ -415,7 +439,8 @@
     "status": "archived",
     "photo_count": 38,
     "price_gbp": null,
-    "thumb": "photos/p003.jpg"
+    "thumb": "photos/p003.jpg",
+    "product_type_raw": "Coat"
   },
   {
     "id": "balmacaan-in-donegal-tweed-barleycorn-in-forest-green",
@@ -432,7 +457,8 @@
     "status": "archived",
     "photo_count": 34,
     "price_gbp": null,
-    "thumb": "photos/p007.jpg"
+    "thumb": "photos/p007.jpg",
+    "product_type_raw": "Coat"
   },
   {
     "id": "balmacaan-in-donegal-tweed-in-bark-brown",
@@ -449,7 +475,8 @@
     "status": "archived",
     "photo_count": 34,
     "price_gbp": null,
-    "thumb": "photos/p007.jpg"
+    "thumb": "photos/p007.jpg",
+    "product_type_raw": "Coat"
   },
   {
     "id": "balmacaan-in-donegal-tweed-in-blue-grey",
@@ -466,7 +493,8 @@
     "status": "archived",
     "photo_count": 31,
     "price_gbp": null,
-    "thumb": "photos/p010.jpg"
+    "thumb": "photos/p010.jpg",
+    "product_type_raw": "Coat"
   },
   {
     "id": "balmacaan-in-donegal-tweed-in-grouse-brown",
@@ -483,7 +511,8 @@
     "status": "archived",
     "photo_count": 34,
     "price_gbp": null,
-    "thumb": "photos/p007.jpg"
+    "thumb": "photos/p007.jpg",
+    "product_type_raw": "Coat"
   },
   {
     "id": "balmacaan-in-donegal-tweed-in-loch-blue",
@@ -500,7 +529,8 @@
     "status": "archived",
     "photo_count": 34,
     "price_gbp": null,
-    "thumb": "photos/p007.jpg"
+    "thumb": "photos/p007.jpg",
+    "product_type_raw": "Coat"
   },
   {
     "id": "balmacaan-in-donegal-tweed-in-navy-grey",
@@ -517,7 +547,8 @@
     "status": "archived",
     "photo_count": 34,
     "price_gbp": null,
-    "thumb": "photos/p007.jpg"
+    "thumb": "photos/p007.jpg",
+    "product_type_raw": "Coat"
   },
   {
     "id": "balmacaan-in-donegal-tweed-in-soot-grey",
@@ -534,7 +565,8 @@
     "status": "archived",
     "photo_count": 34,
     "price_gbp": null,
-    "thumb": "photos/p007.jpg"
+    "thumb": "photos/p007.jpg",
+    "product_type_raw": "Coat"
   },
   {
     "id": "balmacaan-in-donegal-tweed-in-walnut",
@@ -551,7 +583,8 @@
     "status": "archived",
     "photo_count": 34,
     "price_gbp": null,
-    "thumb": "photos/p007.jpg"
+    "thumb": "photos/p007.jpg",
+    "product_type_raw": "Coat"
   },
   {
     "id": "balmacaan-in-no-wax-cotton-cambric-in-copper",
@@ -568,7 +601,8 @@
     "status": "archived",
     "photo_count": 22,
     "price_gbp": null,
-    "thumb": "photos/p019.jpg"
+    "thumb": "photos/p019.jpg",
+    "product_type_raw": "Coat"
   },
   {
     "id": "balmacaan-in-tobacco-brown-donegal-tweed",
@@ -585,7 +619,8 @@
     "status": "archived",
     "photo_count": 14,
     "price_gbp": null,
-    "thumb": "photos/p005.jpg"
+    "thumb": "photos/p005.jpg",
+    "product_type_raw": "Coat"
   },
   {
     "id": "balmacaan-x-styleforum-in-donegal-tweed",
@@ -602,7 +637,8 @@
     "status": "archived",
     "photo_count": 34,
     "price_gbp": null,
-    "thumb": "photos/p007.jpg"
+    "thumb": "photos/p007.jpg",
+    "product_type_raw": "Coat"
   },
   {
     "id": "sb2-jacket-in-wheat-natural-herringbone-linen",
@@ -619,7 +655,8 @@
     "status": "archived",
     "photo_count": 0,
     "price_gbp": null,
-    "thumb": null
+    "thumb": null,
+    "product_type_raw": "Jacket"
   },
   {
     "id": "scarf-in-eight-ply-geelong-lambswool-in-conifer-green",
@@ -636,7 +673,8 @@
     "status": "archived",
     "photo_count": 7,
     "price_gbp": null,
-    "thumb": "photos/p001.jpg"
+    "thumb": "photos/p001.jpg",
+    "product_type_raw": "Accessories"
   },
   {
     "id": "shirt-in-linen-poplin-in-buckwheat",
@@ -653,7 +691,8 @@
     "status": "archived",
     "photo_count": 21,
     "price_gbp": null,
-    "thumb": "photos/p020.jpg"
+    "thumb": "photos/p020.jpg",
+    "product_type_raw": "Shirt"
   },
   {
     "id": "spectacle-frame-with-hockey-end-sides",
@@ -667,7 +706,8 @@
     "status": "archived",
     "photo_count": 0,
     "price_gbp": null,
-    "thumb": null
+    "thumb": null,
+    "product_type_raw": "Accessories"
   },
   {
     "id": "car-coat-in-olive-green-ventile-ripstop",
@@ -684,7 +724,8 @@
     "status": "archived",
     "photo_count": 12,
     "price_gbp": null,
-    "thumb": "photos/p006.jpg"
+    "thumb": "photos/p006.jpg",
+    "product_type_raw": "Coat"
   },
   {
     "id": "cardigan-in-geelong-lambswool-tuck-in-charcoal",
@@ -702,7 +743,8 @@
     "status": "archived",
     "photo_count": 19,
     "price_gbp": null,
-    "thumb": "photos/p001.jpg"
+    "thumb": "photos/p001.jpg",
+    "product_type_raw": "Knitwear"
   },
   {
     "id": "duffle-coats",
@@ -718,7 +760,8 @@
     "status": "archived",
     "photo_count": 0,
     "price_gbp": null,
-    "thumb": null
+    "thumb": null,
+    "product_type_raw": "Coat"
   },
   {
     "id": "peacoat-dark-navy-worsted-overcoating",
@@ -734,7 +777,8 @@
     "status": "archived",
     "photo_count": 0,
     "price_gbp": null,
-    "thumb": null
+    "thumb": null,
+    "product_type_raw": "Coat"
   },
   {
     "id": "peacoat-in-merino-hopsack-in-colliery-grey",
@@ -751,7 +795,8 @@
     "status": "archived",
     "photo_count": 19,
     "price_gbp": null,
-    "thumb": "photos/p001.jpg"
+    "thumb": "photos/p001.jpg",
+    "product_type_raw": "Coat"
   },
   {
     "id": "raglan-shirt-in-lead-grey-knit-woollen-twill",
@@ -768,7 +813,8 @@
     "status": "archived",
     "photo_count": 0,
     "price_gbp": null,
-    "thumb": null
+    "thumb": null,
+    "product_type_raw": "Shirt"
   },
   {
     "id": "raglan-shirt-in-navy-knit-woollen-twill",
@@ -785,7 +831,8 @@
     "status": "archived",
     "photo_count": 20,
     "price_gbp": null,
-    "thumb": "photos/p003.jpg"
+    "thumb": "photos/p003.jpg",
+    "product_type_raw": "Shirt"
   },
   {
     "id": "topcoat-hand-woven-navy-merino-tweed",
@@ -802,7 +849,8 @@
     "status": "archived",
     "photo_count": 0,
     "price_gbp": null,
-    "thumb": null
+    "thumb": null,
+    "product_type_raw": "Coat"
   },
   {
     "id": "work-jacket-hand-woven-grey-black-wool-linen-check",
@@ -819,7 +867,8 @@
     "status": "archived",
     "photo_count": 0,
     "price_gbp": null,
-    "thumb": null
+    "thumb": null,
+    "product_type_raw": "Jacket"
   },
   {
     "id": "balmacaan-in-charcoal-herringbone-donegal-tweed",
@@ -837,7 +886,8 @@
     "status": "archived",
     "photo_count": 22,
     "price_gbp": null,
-    "thumb": "photos/p001.jpg"
+    "thumb": "photos/p001.jpg",
+    "product_type_raw": "Coat"
   },
   {
     "id": "balmacaan-in-hopsack-tweed-in-charcoal",
@@ -854,7 +904,8 @@
     "status": "archived",
     "photo_count": 40,
     "price_gbp": null,
-    "thumb": "photos/p001.jpg"
+    "thumb": "photos/p001.jpg",
+    "product_type_raw": "Coat"
   },
   {
     "id": "balmacaan-midnight-blue-ventile-flyweight",
@@ -870,7 +921,8 @@
     "status": "archived",
     "photo_count": 0,
     "price_gbp": null,
-    "thumb": null
+    "thumb": null,
+    "product_type_raw": "Coat"
   },
   {
     "id": "car-coat",
@@ -884,7 +936,8 @@
     "status": "archived",
     "photo_count": 0,
     "price_gbp": null,
-    "thumb": null
+    "thumb": null,
+    "product_type_raw": "Coat"
   },
   {
     "id": "crewneck-imperial-blue-tuck-stitch-cotton",
@@ -901,7 +954,8 @@
     "status": "archived",
     "photo_count": 0,
     "price_gbp": null,
-    "thumb": null
+    "thumb": null,
+    "product_type_raw": "Knitwear"
   },
   {
     "id": "dress-trousers-in-cotton-sail-cloth-in-forest-green",
@@ -918,7 +972,8 @@
     "status": "archived",
     "photo_count": 30,
     "price_gbp": null,
-    "thumb": "photos/p003.jpg"
+    "thumb": "photos/p003.jpg",
+    "product_type_raw": "Trousers"
   },
   {
     "id": "field-coat-in-cotton-sail-cloth-in-navy",
@@ -935,7 +990,8 @@
     "status": "archived",
     "photo_count": 40,
     "price_gbp": null,
-    "thumb": "photos/p001.jpg"
+    "thumb": "photos/p001.jpg",
+    "product_type_raw": "Coat"
   },
   {
     "id": "field-shirt-in-cotton-linen-hopsack-in-cobalt-blue",
@@ -953,7 +1009,8 @@
     "status": "archived",
     "photo_count": 40,
     "price_gbp": null,
-    "thumb": "photos/p001.jpg"
+    "thumb": "photos/p001.jpg",
+    "product_type_raw": "Shirt"
   },
   {
     "id": "field-shirt-in-cotton-linen-hopsack-in-petrol-grey",
@@ -971,7 +1028,8 @@
     "status": "archived",
     "photo_count": 40,
     "price_gbp": null,
-    "thumb": "photos/p001.jpg"
+    "thumb": "photos/p001.jpg",
+    "product_type_raw": "Shirt"
   },
   {
     "id": "field-shirt-in-heavy-uniform-melton-in-tobacco",
@@ -987,7 +1045,8 @@
     "status": "archived",
     "photo_count": 40,
     "price_gbp": null,
-    "thumb": "photos/p001.jpg"
+    "thumb": "photos/p001.jpg",
+    "product_type_raw": "Shirt"
   },
   {
     "id": "field-trousers-in-cotton-duck-in-black",
@@ -1003,7 +1062,8 @@
     "status": "archived",
     "photo_count": 40,
     "price_gbp": null,
-    "thumb": "photos/p001.jpg"
+    "thumb": "photos/p001.jpg",
+    "product_type_raw": "Trousers"
   },
   {
     "id": "field-trousers-in-cotton-linen-panama-in-charcoal",
@@ -1020,7 +1080,8 @@
     "status": "archived",
     "photo_count": 40,
     "price_gbp": null,
-    "thumb": "photos/p001.jpg"
+    "thumb": "photos/p001.jpg",
+    "product_type_raw": "Trousers"
   },
   {
     "id": "parka-minor-in-weatherproof-ripstop-in-cosmos",
@@ -1036,7 +1097,8 @@
     "status": "archived",
     "photo_count": 34,
     "price_gbp": null,
-    "thumb": "photos/p001.jpg"
+    "thumb": "photos/p001.jpg",
+    "product_type_raw": "Coat"
   },
   {
     "id": "parka-minor-in-weatherproof-ripstop-in-postman-blue",
@@ -1052,7 +1114,8 @@
     "status": "archived",
     "photo_count": 30,
     "price_gbp": null,
-    "thumb": "photos/p001.jpg"
+    "thumb": "photos/p001.jpg",
+    "product_type_raw": "Coat"
   },
   {
     "id": "polo-shirt-in-cotton-tuck-in-porridge",
@@ -1069,7 +1132,8 @@
     "status": "archived",
     "photo_count": 40,
     "price_gbp": null,
-    "thumb": "photos/p001.jpg"
+    "thumb": "photos/p001.jpg",
+    "product_type_raw": "Shirt"
   },
   {
     "id": "popover-in-linen-suiting-in-horizon-blue",
@@ -1085,7 +1149,8 @@
     "status": "archived",
     "photo_count": 40,
     "price_gbp": null,
-    "thumb": "photos/p001.jpg"
+    "thumb": "photos/p001.jpg",
+    "product_type_raw": "Shirt"
   },
   {
     "id": "proper-trouser-in-wool-duck-canvas-in-midnight",
@@ -1102,7 +1167,8 @@
     "status": "archived",
     "photo_count": 39,
     "price_gbp": null,
-    "thumb": "photos/p001.jpg"
+    "thumb": "photos/p001.jpg",
+    "product_type_raw": "Trousers"
   },
   {
     "id": "sb3-jacket",
@@ -1116,7 +1182,8 @@
     "status": "archived",
     "photo_count": 5,
     "price_gbp": null,
-    "thumb": "photos/p001.jpg"
+    "thumb": "photos/p001.jpg",
+    "product_type_raw": "Jacket"
   },
   {
     "id": "shorts-in-cotton-stay-wax-in-copper",
@@ -1133,7 +1200,8 @@
     "status": "archived",
     "photo_count": 27,
     "price_gbp": null,
-    "thumb": "photos/p001.jpg"
+    "thumb": "photos/p001.jpg",
+    "product_type_raw": "Trousers"
   },
   {
     "id": "slim-trouser-in-cotton-sail-cloth-in-umber",
@@ -1150,7 +1218,8 @@
     "status": "archived",
     "photo_count": 40,
     "price_gbp": null,
-    "thumb": "photos/p001.jpg"
+    "thumb": "photos/p001.jpg",
+    "product_type_raw": "Trousers"
   },
   {
     "id": "slim-trouser-navy-thick-thin-corduroy",
@@ -1166,7 +1235,8 @@
     "status": "archived",
     "photo_count": 0,
     "price_gbp": null,
-    "thumb": null
+    "thumb": null,
+    "product_type_raw": "Trousers"
   },
   {
     "id": "slim-trouser-umber-cruiserweight-corduroy",
@@ -1182,7 +1252,8 @@
     "status": "archived",
     "photo_count": 0,
     "price_gbp": null,
-    "thumb": null
+    "thumb": null,
+    "product_type_raw": "Trousers"
   },
   {
     "id": "standard-trouser-in-worsted-canvas-in-midnight",
@@ -1199,7 +1270,8 @@
     "status": "archived",
     "photo_count": 2,
     "price_gbp": null,
-    "thumb": "photos/p001.jpg"
+    "thumb": "photos/p001.jpg",
+    "product_type_raw": "Trousers"
   },
   {
     "id": "trench-coat-in-weatherproof-ripstop-in-cosmos",
@@ -1215,7 +1287,8 @@
     "status": "archived",
     "photo_count": 40,
     "price_gbp": null,
-    "thumb": "photos/p001.jpg"
+    "thumb": "photos/p001.jpg",
+    "product_type_raw": "Coat"
   },
   {
     "id": "trench-coat-midnight-blue-ventile",
@@ -1231,7 +1304,8 @@
     "status": "archived",
     "photo_count": 0,
     "price_gbp": null,
-    "thumb": null
+    "thumb": null,
+    "product_type_raw": "Coat"
   },
   {
     "id": "work-jacket-hand-woven-blue-wool-linen-check",
@@ -1248,7 +1322,8 @@
     "status": "archived",
     "photo_count": 0,
     "price_gbp": null,
-    "thumb": null
+    "thumb": null,
+    "product_type_raw": "Jacket"
   },
   {
     "id": "balmacaan-canopy-cotton-forest-green",
@@ -1264,7 +1339,8 @@
     "status": "archived",
     "photo_count": 2,
     "price_gbp": null,
-    "thumb": "photos/p001.jpg"
+    "thumb": "photos/p001.jpg",
+    "product_type_raw": "Coat"
   },
   {
     "id": "balmacaan-canopy-cotton-manila",
@@ -1280,7 +1356,8 @@
     "status": "archived",
     "photo_count": 10,
     "price_gbp": null,
-    "thumb": "photos/p001.jpg"
+    "thumb": "photos/p001.jpg",
+    "product_type_raw": "Coat"
   },
   {
     "id": "balmacaan-in-hopsack-tweed-in-bark",
@@ -1297,7 +1374,8 @@
     "status": "archived",
     "photo_count": 28,
     "price_gbp": null,
-    "thumb": "photos/p001.jpg"
+    "thumb": "photos/p001.jpg",
+    "product_type_raw": "Coat"
   },
   {
     "id": "balmacaan-in-hopsack-tweed-in-bracken",
@@ -1314,7 +1392,8 @@
     "status": "archived",
     "photo_count": 29,
     "price_gbp": null,
-    "thumb": "photos/p001.jpg"
+    "thumb": "photos/p001.jpg",
+    "product_type_raw": "Coat"
   },
   {
     "id": "balmacaan-in-hopsack-tweed-in-soot",
@@ -1331,7 +1410,8 @@
     "status": "archived",
     "photo_count": 28,
     "price_gbp": null,
-    "thumb": "photos/p001.jpg"
+    "thumb": "photos/p001.jpg",
+    "product_type_raw": "Coat"
   },
   {
     "id": "field-coat-in-canopy-cotton-in-forest-green",
@@ -1347,7 +1427,8 @@
     "status": "archived",
     "photo_count": 40,
     "price_gbp": null,
-    "thumb": "photos/p001.jpg"
+    "thumb": "photos/p001.jpg",
+    "product_type_raw": "Coat"
   },
   {
     "id": "field-shirt",
@@ -1361,7 +1442,8 @@
     "status": "archived",
     "photo_count": 0,
     "price_gbp": null,
-    "thumb": null
+    "thumb": null,
+    "product_type_raw": "Shirt"
   },
   {
     "id": "parka-protective-ripstop-cosmos",
@@ -1377,7 +1459,8 @@
     "status": "archived",
     "photo_count": 0,
     "price_gbp": null,
-    "thumb": null
+    "thumb": null,
+    "product_type_raw": "Coat"
   },
   {
     "id": "peacoat-in-hopsack-overcoating-in-midnight",
@@ -1393,7 +1476,8 @@
     "status": "archived",
     "photo_count": 17,
     "price_gbp": null,
-    "thumb": "photos/p001.jpg"
+    "thumb": "photos/p001.jpg",
+    "product_type_raw": "Coat"
   },
   {
     "id": "polo-shirt-in-three-ply-geelong-lambswool-in-charcoal",
@@ -1410,7 +1494,8 @@
     "status": "archived",
     "photo_count": 3,
     "price_gbp": null,
-    "thumb": "photos/p001.jpg"
+    "thumb": "photos/p001.jpg",
+    "product_type_raw": "Shirt"
   },
   {
     "id": "proper-trouser",
@@ -1424,7 +1509,8 @@
     "status": "archived",
     "photo_count": 0,
     "price_gbp": null,
-    "thumb": null
+    "thumb": null,
+    "product_type_raw": "Trousers"
   },
   {
     "id": "proper-trouser-in-heavy-woollen-hopsack-in-midnight",
@@ -1441,7 +1527,8 @@
     "status": "archived",
     "photo_count": 28,
     "price_gbp": null,
-    "thumb": "photos/p001.jpg"
+    "thumb": "photos/p001.jpg",
+    "product_type_raw": "Trousers"
   },
   {
     "id": "reversible-overshirt-navy-cord-melton",
@@ -1458,7 +1545,8 @@
     "status": "archived",
     "photo_count": 0,
     "price_gbp": null,
-    "thumb": null
+    "thumb": null,
+    "product_type_raw": "Overshirt"
   },
   {
     "id": "sb3-jacket-in-tropical-worsted-in-midnight",
@@ -1474,7 +1562,8 @@
     "status": "archived",
     "photo_count": 29,
     "price_gbp": null,
-    "thumb": "photos/p001.jpg"
+    "thumb": "photos/p001.jpg",
+    "product_type_raw": "Jacket"
   },
   {
     "id": "scarf-in-navy-lambswool-tuck-stitch",
@@ -1491,7 +1580,8 @@
     "status": "archived",
     "photo_count": 5,
     "price_gbp": null,
-    "thumb": "photos/p001.jpg"
+    "thumb": "photos/p001.jpg",
+    "product_type_raw": "Accessories"
   },
   {
     "id": "slim-trouser",
@@ -1505,7 +1595,8 @@
     "status": "archived",
     "photo_count": 0,
     "price_gbp": null,
-    "thumb": null
+    "thumb": null,
+    "product_type_raw": "Trousers"
   },
   {
     "id": "standard-trouser-in-tropical-worsted-in-midnight",
@@ -1521,7 +1612,8 @@
     "status": "archived",
     "photo_count": 0,
     "price_gbp": null,
-    "thumb": null
+    "thumb": null,
+    "product_type_raw": "Trousers"
   },
   {
     "id": "trench-coat-in-british-natte-tweed-in-charcoal",
@@ -1538,7 +1630,8 @@
     "status": "archived",
     "photo_count": 39,
     "price_gbp": null,
-    "thumb": "photos/p001.jpg"
+    "thumb": "photos/p001.jpg",
+    "product_type_raw": "Coat"
   },
   {
     "id": "trench-coat-in-british-natte-tweed-in-dark-navy",
@@ -1555,7 +1648,8 @@
     "status": "archived",
     "photo_count": 30,
     "price_gbp": null,
-    "thumb": "photos/p001.jpg"
+    "thumb": "photos/p001.jpg",
+    "product_type_raw": "Coat"
   },
   {
     "id": "trench-coat-in-herdwick-tweed-in-dark-sheep",
@@ -1571,7 +1665,8 @@
     "status": "archived",
     "photo_count": 40,
     "price_gbp": null,
-    "thumb": "photos/p001.jpg"
+    "thumb": "photos/p001.jpg",
+    "product_type_raw": "Coat"
   },
   {
     "id": "v-neck",
@@ -1585,7 +1680,8 @@
     "status": "archived",
     "photo_count": 2,
     "price_gbp": null,
-    "thumb": "photos/p001.jpg"
+    "thumb": "photos/p001.jpg",
+    "product_type_raw": "Knitwear"
   },
   {
     "id": "work-jacket-in-cobalt-blue-melton-wool",
@@ -1602,7 +1698,8 @@
     "status": "archived",
     "photo_count": 0,
     "price_gbp": null,
-    "thumb": null
+    "thumb": null,
+    "product_type_raw": "Jacket"
   },
   {
     "id": "field-jacket",
@@ -1616,7 +1713,8 @@
     "status": "archived",
     "photo_count": 0,
     "price_gbp": null,
-    "thumb": null
+    "thumb": null,
+    "product_type_raw": "Jacket"
   },
   {
     "id": "gansey-in-geelong-lambswool-in-throstle",
@@ -1633,7 +1731,8 @@
     "status": "archived",
     "photo_count": 14,
     "price_gbp": null,
-    "thumb": "photos/p001.jpg"
+    "thumb": "photos/p001.jpg",
+    "product_type_raw": "Knitwear"
   },
   {
     "id": "gansey-in-lambswool-tuck-stitch-in-molasses",
@@ -1650,7 +1749,8 @@
     "status": "archived",
     "photo_count": 40,
     "price_gbp": null,
-    "thumb": "photos/p001.png"
+    "thumb": "photos/p001.png",
+    "product_type_raw": "Knitwear"
   },
   {
     "id": "car-coat-protective-ripstop-sand",
@@ -1666,7 +1766,8 @@
     "status": "archived",
     "photo_count": 0,
     "price_gbp": null,
-    "thumb": null
+    "thumb": null,
+    "product_type_raw": "Coat"
   },
   {
     "id": "donkey-jacket",
@@ -1680,7 +1781,8 @@
     "status": "archived",
     "photo_count": 6,
     "price_gbp": null,
-    "thumb": "photos/p001.jpg"
+    "thumb": "photos/p001.jpg",
+    "product_type_raw": "Jacket"
   },
   {
     "id": "donkey-jacket-in-melton-and-sail-cloth-in-black",
@@ -1697,7 +1799,8 @@
     "status": "archived",
     "photo_count": 31,
     "price_gbp": null,
-    "thumb": "photos/p001.jpg"
+    "thumb": "photos/p001.jpg",
+    "product_type_raw": "Jacket"
   },
   {
     "id": "polo-shirt",
@@ -1711,7 +1814,8 @@
     "status": "archived",
     "photo_count": 1,
     "price_gbp": null,
-    "thumb": "photos/p001.jpg"
+    "thumb": "photos/p001.jpg",
+    "product_type_raw": "Shirt"
   },
   {
     "id": "proper-trouser-in-bedford-cord-in-marine-blue",
@@ -1728,7 +1832,8 @@
     "status": "archived",
     "photo_count": 36,
     "price_gbp": null,
-    "thumb": "photos/p001.jpg"
+    "thumb": "photos/p001.jpg",
+    "product_type_raw": "Trousers"
   },
   {
     "id": "trucker-jacket-in-bedford-cord-in-marine-blue",
@@ -1745,7 +1850,8 @@
     "status": "archived",
     "photo_count": 17,
     "price_gbp": null,
-    "thumb": "photos/p001.jpg"
+    "thumb": "photos/p001.jpg",
+    "product_type_raw": "Jacket"
   },
   {
     "id": "watch-cap-in-donegal-merino-lambswool-in-rook",
@@ -1763,7 +1869,8 @@
     "status": "archived",
     "photo_count": 40,
     "price_gbp": null,
-    "thumb": "photos/p001.jpg"
+    "thumb": "photos/p001.jpg",
+    "product_type_raw": "Accessories"
   },
   {
     "id": "dress-trousers-in-motley-flannel-in-forest-green",
@@ -1779,7 +1886,8 @@
     "status": "archived",
     "photo_count": 40,
     "price_gbp": null,
-    "thumb": "photos/p001.jpg"
+    "thumb": "photos/p001.jpg",
+    "product_type_raw": "Trousers"
   },
   {
     "id": "dress-trousers-in-motley-flannel-in-peat-brown",
@@ -1795,7 +1903,8 @@
     "status": "archived",
     "photo_count": 40,
     "price_gbp": null,
-    "thumb": "photos/p001.jpg"
+    "thumb": "photos/p001.jpg",
+    "product_type_raw": "Trousers"
   },
   {
     "id": "field-trousers-in-shetland-melton-in-derby-grey",
@@ -1812,7 +1921,8 @@
     "status": "archived",
     "photo_count": 26,
     "price_gbp": null,
-    "thumb": "photos/p001.jpg"
+    "thumb": "photos/p001.jpg",
+    "product_type_raw": "Trousers"
   },
   {
     "id": "parka-minor",
@@ -1826,7 +1936,8 @@
     "status": "archived",
     "photo_count": 0,
     "price_gbp": null,
-    "thumb": null
+    "thumb": null,
+    "product_type_raw": "Coat"
   },
   {
     "id": "pyjama-top",
@@ -1840,7 +1951,8 @@
     "status": "archived",
     "photo_count": 0,
     "price_gbp": null,
-    "thumb": null
+    "thumb": null,
+    "product_type_raw": "Pyjama"
   },
   {
     "id": "shawl-cardigan-in-superfine-lambswool-in-north-sea",
@@ -1856,7 +1968,8 @@
     "status": "archived",
     "photo_count": 40,
     "price_gbp": null,
-    "thumb": "photos/p001.jpg"
+    "thumb": "photos/p001.jpg",
+    "product_type_raw": "Knitwear"
   },
   {
     "id": "waistcoat-in-herdwick-tweed-in-dark-sheep",
@@ -1872,7 +1985,8 @@
     "status": "archived",
     "photo_count": 31,
     "price_gbp": null,
-    "thumb": "photos/p001.jpg"
+    "thumb": "photos/p001.jpg",
+    "product_type_raw": "Waistcoat"
   },
   {
     "id": "field-trousers",
@@ -1886,7 +2000,8 @@
     "status": "archived",
     "photo_count": 0,
     "price_gbp": null,
-    "thumb": null
+    "thumb": null,
+    "product_type_raw": "Trousers"
   },
   {
     "id": "hunting-jacket-in-heavy-melton-in-boreal-green",
@@ -1902,7 +2017,8 @@
     "status": "archived",
     "photo_count": 12,
     "price_gbp": null,
-    "thumb": "photos/p001.jpg"
+    "thumb": "photos/p001.jpg",
+    "product_type_raw": "Jacket"
   },
   {
     "id": "peacoat-in-herdwick-tweed-in-middling-sheep",
@@ -1918,7 +2034,8 @@
     "status": "archived",
     "photo_count": 36,
     "price_gbp": null,
-    "thumb": "photos/p001.jpg"
+    "thumb": "photos/p001.jpg",
+    "product_type_raw": "Coat"
   },
   {
     "id": "sb-jacket-in-motley-tweed-in-throstle",
@@ -1934,7 +2051,8 @@
     "status": "archived",
     "photo_count": 15,
     "price_gbp": null,
-    "thumb": "photos/p001.jpg"
+    "thumb": "photos/p001.jpg",
+    "product_type_raw": "Jacket"
   },
   {
     "id": "trucker-jacket",
@@ -1948,7 +2066,8 @@
     "status": "archived",
     "photo_count": 3,
     "price_gbp": null,
-    "thumb": "photos/p001.jpg"
+    "thumb": "photos/p001.jpg",
+    "product_type_raw": "Jacket"
   },
   {
     "id": "ulster-in-herdwick-tweed-in-light-sheep",
@@ -1964,7 +2083,8 @@
     "status": "archived",
     "photo_count": 39,
     "price_gbp": null,
-    "thumb": "photos/p001.jpg"
+    "thumb": "photos/p001.jpg",
+    "product_type_raw": "Coat"
   },
   {
     "id": "field-coat",
@@ -1978,7 +2098,8 @@
     "status": "archived",
     "photo_count": 0,
     "price_gbp": null,
-    "thumb": null
+    "thumb": null,
+    "product_type_raw": "Coat"
   },
   {
     "id": "hunting-jacket",
@@ -1992,7 +2113,8 @@
     "status": "archived",
     "photo_count": 0,
     "price_gbp": null,
-    "thumb": null
+    "thumb": null,
+    "product_type_raw": "Jacket"
   },
   {
     "id": "t-shirt",
@@ -2006,7 +2128,8 @@
     "status": "archived",
     "photo_count": 0,
     "price_gbp": null,
-    "thumb": null
+    "thumb": null,
+    "product_type_raw": "T-Shirt"
   },
   {
     "id": "work-trousers",
@@ -2020,7 +2143,8 @@
     "status": "archived",
     "photo_count": 0,
     "price_gbp": null,
-    "thumb": null
+    "thumb": null,
+    "product_type_raw": "Trousers"
   },
   {
     "id": "chough-balmacaan",
@@ -2039,8 +2163,9 @@
     ],
     "status": "in production",
     "photo_count": 1,
-    "price_gbp": 710.0,
-    "thumb": "photos/p001.jpg"
+    "price_gbp": 710,
+    "thumb": "photos/p001.jpg",
+    "product_type_raw": "Coat"
   },
   {
     "id": "charcoal-british-warm",
@@ -2058,13 +2183,14 @@
     ],
     "status": "in production",
     "photo_count": 1,
-    "price_gbp": 710.0,
-    "thumb": "photos/p001.jpg"
+    "price_gbp": 710,
+    "thumb": "photos/p001.jpg",
+    "product_type_raw": "Coat"
   },
   {
     "id": "crewneck-jumper-in-charcoal",
     "name": "Crewneck jumper in charcoal",
-    "category": "Jumper",
+    "category": "Knitwear",
     "year": "2025",
     "season": "AW2025",
     "fabric": "charcoal",
@@ -2074,13 +2200,14 @@
     ],
     "status": "in production",
     "photo_count": 12,
-    "price_gbp": 430.0,
-    "thumb": "photos/p001.jpg"
+    "price_gbp": 430,
+    "thumb": "photos/p001.jpg",
+    "product_type_raw": "Jumper"
   },
   {
     "id": "crewneck-jumper-in-throstle",
     "name": "Crewneck jumper in throstle",
-    "category": "Jumper",
+    "category": "Knitwear",
     "year": "2025",
     "season": "AW2025",
     "fabric": "throstle",
@@ -2090,8 +2217,9 @@
     ],
     "status": "in production",
     "photo_count": 19,
-    "price_gbp": 430.0,
-    "thumb": "photos/p001.jpg"
+    "price_gbp": 430,
+    "thumb": "photos/p001.jpg",
+    "product_type_raw": "Jumper"
   },
   {
     "id": "dress-trousers-in-black",
@@ -2109,8 +2237,9 @@
     ],
     "status": "in production",
     "photo_count": 1,
-    "price_gbp": 220.0,
-    "thumb": "photos/p001.jpg"
+    "price_gbp": 220,
+    "thumb": "photos/p001.jpg",
+    "product_type_raw": "Trousers"
   },
   {
     "id": "dress-trousers-in-black-copy",
@@ -2128,8 +2257,9 @@
     ],
     "status": "in production",
     "photo_count": 1,
-    "price_gbp": 220.0,
-    "thumb": "photos/p001.jpg"
+    "price_gbp": 220,
+    "thumb": "photos/p001.jpg",
+    "product_type_raw": "Trousers"
   },
   {
     "id": "dress-trousers-in-lead-grey",
@@ -2146,8 +2276,9 @@
     ],
     "status": "in production",
     "photo_count": 1,
-    "price_gbp": 220.0,
-    "thumb": "photos/p001.jpg"
+    "price_gbp": 220,
+    "thumb": "photos/p001.jpg",
+    "product_type_raw": "Trousers"
   },
   {
     "id": "dress-trousers-in-middling-sheep",
@@ -2164,8 +2295,9 @@
     ],
     "status": "in production",
     "photo_count": 1,
-    "price_gbp": 220.0,
-    "thumb": "photos/p001.jpg"
+    "price_gbp": 220,
+    "thumb": "photos/p001.jpg",
+    "product_type_raw": "Trousers"
   },
   {
     "id": "duffle-coat-in-camel",
@@ -2183,8 +2315,9 @@
     ],
     "status": "in production",
     "photo_count": 27,
-    "price_gbp": 690.0,
-    "thumb": "photos/p001.jpg"
+    "price_gbp": 690,
+    "thumb": "photos/p001.jpg",
+    "product_type_raw": "Coat"
   },
   {
     "id": "engineer-jacket-in-black",
@@ -2202,8 +2335,9 @@
     ],
     "status": "in production",
     "photo_count": 1,
-    "price_gbp": 490.0,
-    "thumb": "photos/p001.jpg"
+    "price_gbp": 490,
+    "thumb": "photos/p001.jpg",
+    "product_type_raw": "Jacket"
   },
   {
     "id": "harrington-jacket-in-manila",
@@ -2219,8 +2353,9 @@
     ],
     "status": "in production",
     "photo_count": 2,
-    "price_gbp": 500.0,
-    "thumb": "photos/p001.jpg"
+    "price_gbp": 500,
+    "thumb": "photos/p001.jpg",
+    "product_type_raw": "Jacket"
   },
   {
     "id": "peacoat-in-camel",
@@ -2233,8 +2368,9 @@
     "materials": [],
     "status": "in production",
     "photo_count": 16,
-    "price_gbp": 690.0,
-    "thumb": "photos/p001.jpg"
+    "price_gbp": 690,
+    "thumb": "photos/p001.jpg",
+    "product_type_raw": "Coat"
   },
   {
     "id": "khaki-peacoat",
@@ -2247,8 +2383,9 @@
     "materials": [],
     "status": "in production",
     "photo_count": 1,
-    "price_gbp": 690.0,
-    "thumb": "photos/p001.jpg"
+    "price_gbp": 690,
+    "thumb": "photos/p001.jpg",
+    "product_type_raw": "Coat"
   },
   {
     "id": "dark-navy-polo-coat",
@@ -2263,22 +2400,9 @@
     ],
     "status": "in production",
     "photo_count": 1,
-    "price_gbp": 680.0,
-    "thumb": "photos/p001.jpg"
-  },
-  {
-    "id": "gift-card",
-    "name": "S.E.H Kelly E-Gift Card",
-    "category": "Gift card",
-    "year": "2025",
-    "season": "AW2025",
-    "fabric": null,
-    "colour": null,
-    "materials": [],
-    "status": "in production",
-    "photo_count": 1,
-    "price_gbp": 25.0,
-    "thumb": "photos/p001.png"
+    "price_gbp": 680,
+    "thumb": "photos/p001.jpg",
+    "product_type_raw": "Coat"
   },
   {
     "id": "sb-jacket-in-lead-grey",
@@ -2296,8 +2420,9 @@
     ],
     "status": "in production",
     "photo_count": 17,
-    "price_gbp": 520.0,
-    "thumb": "photos/p001.jpg"
+    "price_gbp": 520,
+    "thumb": "photos/p001.jpg",
+    "product_type_raw": "Jacket"
   },
   {
     "id": "sb-jacket-in-middling-sheep",
@@ -2315,13 +2440,14 @@
     ],
     "status": "in production",
     "photo_count": 10,
-    "price_gbp": 520.0,
-    "thumb": "photos/p001.jpg"
+    "price_gbp": 520,
+    "thumb": "photos/p001.jpg",
+    "product_type_raw": "Jacket"
   },
   {
     "id": "shawl-cardigan-in-hadal",
     "name": "Shawl cardigan in hadal",
-    "category": "Cardigan",
+    "category": "Knitwear",
     "year": "2025",
     "season": "AW2025",
     "fabric": "hadal",
@@ -2332,13 +2458,14 @@
     ],
     "status": "in production",
     "photo_count": 1,
-    "price_gbp": 540.0,
-    "thumb": "photos/p001.jpg"
+    "price_gbp": 540,
+    "thumb": "photos/p001.jpg",
+    "product_type_raw": "Cardigan"
   },
   {
     "id": "shawl-cardigan-in-pebble",
     "name": "Shawl cardigan in pebble",
-    "category": "Cardigan",
+    "category": "Knitwear",
     "year": "2025",
     "season": "AW2025",
     "fabric": "pebble",
@@ -2349,8 +2476,9 @@
     ],
     "status": "in production",
     "photo_count": 1,
-    "price_gbp": 540.0,
-    "thumb": "photos/p001.jpg"
+    "price_gbp": 540,
+    "thumb": "photos/p001.jpg",
+    "product_type_raw": "Cardigan"
   },
   {
     "id": "shirt-in-cotton-needlecord-in-russet",
@@ -2366,8 +2494,9 @@
     ],
     "status": "in production",
     "photo_count": 13,
-    "price_gbp": 180.0,
-    "thumb": "photos/p001.jpg"
+    "price_gbp": 180,
+    "thumb": "photos/p001.jpg",
+    "product_type_raw": "Shirt"
   },
   {
     "id": "cosmos-trench-coat",
@@ -2384,8 +2513,9 @@
     ],
     "status": "in production",
     "photo_count": 2,
-    "price_gbp": 710.0,
-    "thumb": "photos/p001.jpg"
+    "price_gbp": 710,
+    "thumb": "photos/p001.jpg",
+    "product_type_raw": "Coat"
   },
   {
     "id": "sand-trench-coat",
@@ -2402,8 +2532,9 @@
     ],
     "status": "in production",
     "photo_count": 2,
-    "price_gbp": 710.0,
-    "thumb": "photos/p001.jpg"
+    "price_gbp": 710,
+    "thumb": "photos/p001.jpg",
+    "product_type_raw": "Coat"
   },
   {
     "id": "trucker-jacket-in-rust",
@@ -2420,8 +2551,9 @@
     ],
     "status": "in production",
     "photo_count": 21,
-    "price_gbp": 520.0,
-    "thumb": "photos/p001.jpg"
+    "price_gbp": 520,
+    "thumb": "photos/p001.jpg",
+    "product_type_raw": "Jacket"
   },
   {
     "id": "ulster-in-dunnock",
@@ -2440,8 +2572,9 @@
     ],
     "status": "in production",
     "photo_count": 10,
-    "price_gbp": 790.0,
-    "thumb": "photos/p001.jpg"
+    "price_gbp": 790,
+    "thumb": "photos/p001.jpg",
+    "product_type_raw": "Coat"
   },
   {
     "id": "ulster-in-middling-grey",
@@ -2456,13 +2589,14 @@
     ],
     "status": "in production",
     "photo_count": 8,
-    "price_gbp": 790.0,
-    "thumb": "photos/p001.jpg"
+    "price_gbp": 790,
+    "thumb": "photos/p001.jpg",
+    "product_type_raw": "Coat"
   },
   {
     "id": "waistcoat-in-light-sheep",
     "name": "Waistcoat in light sheep",
-    "category": "Jacket",
+    "category": "Waistcoat",
     "year": "2025",
     "season": "AW2025",
     "fabric": "light sheep",
@@ -2473,13 +2607,14 @@
     ],
     "status": "in production",
     "photo_count": 3,
-    "price_gbp": 225.0,
-    "thumb": "photos/p001.jpg"
+    "price_gbp": 225,
+    "thumb": "photos/p001.jpg",
+    "product_type_raw": "Jacket"
   },
   {
     "id": "waistcoat-in-middling-sheep",
     "name": "Waistcoat in middling sheep",
-    "category": "Jacket",
+    "category": "Waistcoat",
     "year": "2025",
     "season": "AW2025",
     "fabric": "middling sheep",
@@ -2490,13 +2625,14 @@
     ],
     "status": "in production",
     "photo_count": 1,
-    "price_gbp": 225.0,
-    "thumb": "photos/p001.jpg"
+    "price_gbp": 225,
+    "thumb": "photos/p001.jpg",
+    "product_type_raw": "Jacket"
   },
   {
     "id": "watch-cap-in-bister",
     "name": "Watch cap in bister",
-    "category": "Hat",
+    "category": "Accessories",
     "year": "2025",
     "season": "AW2025",
     "fabric": "bister",
@@ -2508,13 +2644,14 @@
     ],
     "status": "in production",
     "photo_count": 1,
-    "price_gbp": 140.0,
-    "thumb": "photos/p001.jpg"
+    "price_gbp": 140,
+    "thumb": "photos/p001.jpg",
+    "product_type_raw": "Hat"
   },
   {
     "id": "watch-cap-in-creag",
     "name": "Watch cap in creag",
-    "category": "Hat",
+    "category": "Accessories",
     "year": "2025",
     "season": "AW2025",
     "fabric": "creag",
@@ -2526,8 +2663,9 @@
     ],
     "status": "in production",
     "photo_count": 1,
-    "price_gbp": 140.0,
-    "thumb": "photos/p001.jpg"
+    "price_gbp": 140,
+    "thumb": "photos/p001.jpg",
+    "product_type_raw": "Hat"
   },
   {
     "id": "acorn-work-jacket",
@@ -2545,8 +2683,9 @@
     ],
     "status": "in production",
     "photo_count": 8,
-    "price_gbp": 610.0,
-    "thumb": "photos/p001.jpg"
+    "price_gbp": 610,
+    "thumb": "photos/p001.jpg",
+    "product_type_raw": "Jacket"
   },
   {
     "id": "conker-work-jacket",
@@ -2564,8 +2703,9 @@
     ],
     "status": "in production",
     "photo_count": 1,
-    "price_gbp": 610.0,
-    "thumb": "photos/p001.jpg"
+    "price_gbp": 610,
+    "thumb": "photos/p001.jpg",
+    "product_type_raw": "Jacket"
   },
   {
     "id": "anorak-in-hadal-blue",
@@ -2581,8 +2721,9 @@
     ],
     "status": "in production",
     "photo_count": 1,
-    "price_gbp": 460.0,
-    "thumb": "photos/p001.jpg"
+    "price_gbp": 460,
+    "thumb": "photos/p001.jpg",
+    "product_type_raw": "Raincoat"
   },
   {
     "id": "anorak-in-manila",
@@ -2598,8 +2739,9 @@
     ],
     "status": "in production",
     "photo_count": 1,
-    "price_gbp": 460.0,
-    "thumb": "photos/p001.jpg"
+    "price_gbp": 460,
+    "thumb": "photos/p001.jpg",
+    "product_type_raw": "Raincoat"
   },
   {
     "id": "duster-in-hadal-blue",
@@ -2615,8 +2757,9 @@
     ],
     "status": "in production",
     "photo_count": 0,
-    "price_gbp": 600.0,
-    "thumb": null
+    "price_gbp": 600,
+    "thumb": null,
+    "product_type_raw": "Coat"
   },
   {
     "id": "field-trousers-in-dark-navy",
@@ -2632,8 +2775,9 @@
     ],
     "status": "in production",
     "photo_count": 40,
-    "price_gbp": 220.0,
-    "thumb": "photos/p001.jpg"
+    "price_gbp": 220,
+    "thumb": "photos/p001.jpg",
+    "product_type_raw": "Trousers"
   },
   {
     "id": "field-trousers-in-linen-hopsack-in-hadal-blue",
@@ -2650,8 +2794,9 @@
     ],
     "status": "in production",
     "photo_count": 40,
-    "price_gbp": 220.0,
-    "thumb": "photos/p001.jpg"
+    "price_gbp": 220,
+    "thumb": "photos/p001.jpg",
+    "product_type_raw": "Trousers"
   },
   {
     "id": "field-trousers-in-linen-hopsack-in-natural",
@@ -2668,8 +2813,9 @@
     ],
     "status": "in production",
     "photo_count": 40,
-    "price_gbp": 220.0,
-    "thumb": "photos/p001.jpg"
+    "price_gbp": 220,
+    "thumb": "photos/p001.jpg",
+    "product_type_raw": "Trousers"
   },
   {
     "id": "granddad-shirt-in-dove",
@@ -2685,8 +2831,9 @@
     ],
     "status": "in production",
     "photo_count": 1,
-    "price_gbp": 210.0,
-    "thumb": "photos/p001.jpg"
+    "price_gbp": 210,
+    "thumb": "photos/p001.jpg",
+    "product_type_raw": "Shirt"
   },
   {
     "id": "linen-shirt-in-midnight",
@@ -2702,8 +2849,9 @@
     ],
     "status": "in production",
     "photo_count": 12,
-    "price_gbp": 210.0,
-    "thumb": "photos/p001.jpg"
+    "price_gbp": 210,
+    "thumb": "photos/p001.jpg",
+    "product_type_raw": "Shirt"
   },
   {
     "id": "linen-shirt-in-tan",
@@ -2719,8 +2867,9 @@
     ],
     "status": "in production",
     "photo_count": 26,
-    "price_gbp": 210.0,
-    "thumb": "photos/p001.jpg"
+    "price_gbp": 210,
+    "thumb": "photos/p001.jpg",
+    "product_type_raw": "Shirt"
   },
   {
     "id": "linen-poplin-popover-in-manila",
@@ -2737,8 +2886,9 @@
     ],
     "status": "in production",
     "photo_count": 9,
-    "price_gbp": 200.0,
-    "thumb": "photos/p001.jpg"
+    "price_gbp": 200,
+    "thumb": "photos/p001.jpg",
+    "product_type_raw": "Shirt"
   },
   {
     "id": "linen-poplin-popover-in-starling",
@@ -2755,13 +2905,14 @@
     ],
     "status": "in production",
     "photo_count": 1,
-    "price_gbp": 200.0,
-    "thumb": "photos/p001.jpg"
+    "price_gbp": 200,
+    "thumb": "photos/p001.jpg",
+    "product_type_raw": "Shirt"
   },
   {
     "id": "pyjama-top-in-brambling",
     "name": "Pyjama top in brambling",
-    "category": "Pyjama top",
+    "category": "Pyjama",
     "year": "2026",
     "season": "SS2026",
     "fabric": "brambling",
@@ -2774,13 +2925,14 @@
     ],
     "status": "in production",
     "photo_count": 1,
-    "price_gbp": 490.0,
-    "thumb": "photos/p001.jpg"
+    "price_gbp": 490,
+    "thumb": "photos/p001.jpg",
+    "product_type_raw": "Pyjama top"
   },
   {
     "id": "pyjama-top-in-heron",
     "name": "Pyjama top in heron",
-    "category": "Pyjama top",
+    "category": "Pyjama",
     "year": "2026",
     "season": "SS2026",
     "fabric": "heron",
@@ -2793,13 +2945,14 @@
     ],
     "status": "in production",
     "photo_count": 1,
-    "price_gbp": 490.0,
-    "thumb": "photos/p001.jpg"
+    "price_gbp": 490,
+    "thumb": "photos/p001.jpg",
+    "product_type_raw": "Pyjama top"
   },
   {
     "id": "linen-hopsack-pyjama-top-in-hadal",
     "name": "Pyjama top in linen hopsack in hadal",
-    "category": "Pyjama top",
+    "category": "Pyjama",
     "year": "2026",
     "season": "SS2026",
     "fabric": "hadal",
@@ -2811,13 +2964,14 @@
     ],
     "status": "in production",
     "photo_count": 1,
-    "price_gbp": 360.0,
-    "thumb": "photos/p001.jpg"
+    "price_gbp": 360,
+    "thumb": "photos/p001.jpg",
+    "product_type_raw": "Pyjama top"
   },
   {
     "id": "linen-hopsack-pyjama-top-in-malt",
     "name": "Pyjama top in linen hopsack in malt",
-    "category": "Pyjama top",
+    "category": "Pyjama",
     "year": "2026",
     "season": "SS2026",
     "fabric": "malt",
@@ -2829,8 +2983,9 @@
     ],
     "status": "in production",
     "photo_count": 9,
-    "price_gbp": 360.0,
-    "thumb": "photos/p001.jpg"
+    "price_gbp": 360,
+    "thumb": "photos/p001.jpg",
+    "product_type_raw": "Pyjama top"
   },
   {
     "id": "raincoat-in-cosmos",
@@ -2846,8 +3001,9 @@
     ],
     "status": "in production",
     "photo_count": 1,
-    "price_gbp": 670.0,
-    "thumb": "photos/p001.jpg"
+    "price_gbp": 670,
+    "thumb": "photos/p001.jpg",
+    "product_type_raw": "Raincoat"
   },
   {
     "id": "raincoat-in-sand",
@@ -2863,8 +3019,9 @@
     ],
     "status": "in production",
     "photo_count": 13,
-    "price_gbp": 670.0,
-    "thumb": "photos/p001.jpg"
+    "price_gbp": 670,
+    "thumb": "photos/p001.jpg",
+    "product_type_raw": "Raincoat"
   },
   {
     "id": "sb-jacket-in-linen-hopsack-in-hadal-blue",
@@ -2881,8 +3038,9 @@
     ],
     "status": "in production",
     "photo_count": 30,
-    "price_gbp": 520.0,
-    "thumb": "photos/p001.jpg"
+    "price_gbp": 520,
+    "thumb": "photos/p001.jpg",
+    "product_type_raw": "Jacket"
   },
   {
     "id": "sb-jacket-in-linen-hopsack-in-natural",
@@ -2899,8 +3057,9 @@
     ],
     "status": "in production",
     "photo_count": 26,
-    "price_gbp": 520.0,
-    "thumb": "photos/p001.jpg"
+    "price_gbp": 520,
+    "thumb": "photos/p001.jpg",
+    "product_type_raw": "Jacket"
   },
   {
     "id": "silk-linen-shirt-in-barley",
@@ -2917,8 +3076,9 @@
     ],
     "status": "in production",
     "photo_count": 1,
-    "price_gbp": 210.0,
-    "thumb": "photos/p001.jpg"
+    "price_gbp": 210,
+    "thumb": "photos/p001.jpg",
+    "product_type_raw": "Shirt"
   },
   {
     "id": "silk-linen-shirt-in-chalk",
@@ -2935,8 +3095,9 @@
     ],
     "status": "in production",
     "photo_count": 13,
-    "price_gbp": 210.0,
-    "thumb": "photos/p001.jpg"
+    "price_gbp": 210,
+    "thumb": "photos/p001.jpg",
+    "product_type_raw": "Shirt"
   },
   {
     "id": "ring-spun-cotton-t-shirt-in-porridge",
@@ -2951,8 +3112,9 @@
     ],
     "status": "in production",
     "photo_count": 1,
-    "price_gbp": 230.0,
-    "thumb": "photos/p001.jpg"
+    "price_gbp": 230,
+    "thumb": "photos/p001.jpg",
+    "product_type_raw": "T-Shirt"
   },
   {
     "id": "ring-spun-cotton-t-shirt-in-slate",
@@ -2967,8 +3129,9 @@
     ],
     "status": "in production",
     "photo_count": 11,
-    "price_gbp": 230.0,
-    "thumb": "photos/p001.jpg"
+    "price_gbp": 230,
+    "thumb": "photos/p001.jpg",
+    "product_type_raw": "T-Shirt"
   },
   {
     "id": "work-jacket-in-linen-burlap-in-ash",
@@ -2984,8 +3147,9 @@
     ],
     "status": "in production",
     "photo_count": 1,
-    "price_gbp": 490.0,
-    "thumb": "photos/p001.jpg"
+    "price_gbp": 490,
+    "thumb": "photos/p001.jpg",
+    "product_type_raw": "Jacket"
   },
   {
     "id": "work-jacket-in-linen-burlap-in-linseed",
@@ -3001,7 +3165,8 @@
     ],
     "status": "in production",
     "photo_count": 1,
-    "price_gbp": 490.0,
-    "thumb": "photos/p001.jpg"
+    "price_gbp": 490,
+    "thumb": "photos/p001.jpg",
+    "product_type_raw": "Jacket"
   }
 ]
