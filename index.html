@@ -7,7 +7,7 @@
 <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-<header>
+<header id="header">
   <h1>S.E.H Kelly archive</h1>
   <p class="sub" id="count"></p>
   <div class="filters">
@@ -19,13 +19,11 @@
   </div>
 </header>
 <main id="grid"></main>
-<div id="overlay" class="hidden">
-  <div id="detail">
-    <button id="close">&times;</button>
-    <div id="photos"></div>
-    <div id="meta"></div>
-  </div>
-</div>
+<main id="detail-page" class="hidden">
+  <button id="back">&larr; Back to the archive</button>
+  <div id="photos"></div>
+  <div id="meta"></div>
+</main>
 <script src="data.js"></script>
 <script src="app.js"></script>
 </body>
